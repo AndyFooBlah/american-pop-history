@@ -1,0 +1,11 @@
+import test from 'node:test'; import assert from 'node:assert'; import { pick, core } from './resolve-tracks.mjs';
+const T = (id, name, artists, album, date, type = 'album') => ({ id, uri: id, name, artists: artists.map((name) => ({ name })), album: { name: album, release_date: date, album_type: type } });
+const song = (id, title, artist, y) => ({ id, title, artist, dateAsWritten: String(y) });
+test('edition suffixes ignored, words kept', () => { assert.equal(core('Superstition - Remastered 2000'), 'superstition'); assert.equal(core("Livin' On A Prayer"), 'livin on a prayer'); assert.equal(core('Alright (feat. X)'), 'alright'); });
+test('original beats live, cover, karaoke and compilation', () => {
+  const r = pick(song('x', 'Fortunate Son', 'Creedence Clearwater Revival', 1969), [T('live', 'Fortunate Son - Live', ['Creedence Clearwater Revival'], 'L', '1970'), T('cov', 'Fortunate Son', ['Cat Power'], 'C', '2008'), T('comp', 'Fortunate Son', ['Creedence Clearwater Revival'], 'Chronicle', '1976', 'compilation'), T('orig', 'Fortunate Son', ['Creedence Clearwater Revival'], 'Willy', '1969'), T('kar', 'Fortunate Son (Karaoke)', ['Creedence Clearwater Revival'], 'K', '1969')]);
+  assert.deepEqual(r.map((x) => x.t.id), ['orig', 'comp']); });
+test('guest required when named', () => { const r = pick(song('d', 'Despacito (Remix)', 'Luis Fonsi & Daddy Yankee feat. Justin Bieber', 2017), [T('a', 'Despacito', ['Luis Fonsi', 'Daddy Yankee'], 'V', '2017'), T('b', 'Despacito - Remix', ['Luis Fonsi', 'Daddy Yankee', 'Justin Bieber'], 'D', '2017', 'single')]); assert.deepEqual(r.map((x) => x.t.id), ['b']); });
+test('artist must match, "The" ignored', () => { assert.equal(pick(song('b', 'I Want to Hold Your Hand', 'The Beatles', 1964), [T('1', 'I Want To Hold Your Hand - Remastered 2015', ['The Beatles'], '1', '2000', 'compilation'), T('2', 'I Want To Hold Your Hand', ['The Beatles Revival Band'], 'x', '1990')])[0].t.id, '1'); });
+test('similar band names do not match', () => assert.equal(pick(song('b', 'X', 'The Beatles', 1964), [T('2', 'X', ['The Beatles Revival Band'], 'x', '1964')]).length, 0));
+test('shorter credit of the same act matches', () => assert.equal(pick(song('c', 'Crank That (Soulja Boy)', "Soulja Boy Tell 'Em", 2007), [T('1', 'Crank That (Soulja Boy)', ['Soulja Boy'], 'x', '2007')]).length, 1));

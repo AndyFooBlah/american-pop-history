@@ -1,0 +1,647 @@
+{
+ "rocket-88": {
+  "hash": "29fbcc2f9a534d34",
+  "seconds": 22.3,
+  "starts": [ 0, 9.52, 17.76 ]
+ },
+ "era-1": {
+  "hash": "977c5a1498d8c3e9",
+  "seconds": 66.5,
+  "starts": [ 0, 3.76, 15.52, 23.36, 34.08, 40.24, 50, 59.52 ]
+ },
+ "after-the-ball": {
+  "hash": "f6ef4ff6d39dd478",
+  "seconds": 22.1,
+  "starts": [ 0, 6.8, 14.64 ]
+ },
+ "maple-leaf-rag": {
+  "hash": "b219dac15a917265",
+  "seconds": 24,
+  "starts": [ 0, 7.44, 14.16 ]
+ },
+ "in-the-good-old-summer-time": {
+  "hash": "1670a7fe2a8d256a",
+  "seconds": 25.6,
+  "starts": [ 0, 10.72, 18.72 ]
+ },
+ "shine-on-harvest-moon": {
+  "hash": "954ee434f2de3117",
+  "seconds": 29.6,
+  "starts": [ 0, 10.8, 18.16, 23.52 ]
+ },
+ "st-louis-blues": {
+  "hash": "d009464c325db04b",
+  "seconds": 28.7,
+  "starts": [ 0, 10.88, 15.12, 20.32 ]
+ },
+ "over-there": {
+  "hash": "b1db5a755f707631",
+  "seconds": 31.3,
+  "starts": [ 0, 15.68, 23.6 ]
+ },
+ "era-2": {
+  "hash": "343a5474e4ca99e8",
+  "seconds": 56.3,
+  "starts": [ 0, 5.2, 13.48, 27.44, 30.4, 36.88, 49.68 ]
+ },
+ "crazy-blues": {
+  "hash": "365f76fc92d1c1c7",
+  "seconds": 23.7,
+  "starts": [ 0, 8.4, 16.72 ]
+ },
+ "charleston": {
+  "hash": "26d5436c08d9da8f",
+  "seconds": 26.5,
+  "starts": [ 0, 14.72, 22.16 ]
+ },
+ "rhapsody-in-blue": {
+  "hash": "0a50ef1a333d1c29",
+  "seconds": 25,
+  "starts": [ 0, 9.04, 15.04 ]
+ },
+ "my-blue-heaven": {
+  "hash": "4344accefcd9f1ab",
+  "seconds": 22.5,
+  "starts": [ 0, 8.4, 16.8 ]
+ },
+ "west-end-blues": {
+  "hash": "ff3d782c6677527d",
+  "seconds": 22.6,
+  "starts": [ 0, 8.48, 16.4 ]
+ },
+ "makin-whoopee": {
+  "hash": "987d1dbea182207a",
+  "seconds": 20.9,
+  "starts": [ 0, 6.8, 14.16 ]
+ },
+ "era-3": {
+  "hash": "dbc6de4048e2de84",
+  "seconds": 58.1,
+  "starts": [ 0, 7.6, 16.4, 28.08, 34.72, 40.08, 50.24 ]
+ },
+ "brother-can-you-spare-a-dime": {
+  "hash": "24dad1a6a32a7f25",
+  "seconds": 24.7,
+  "starts": [ 0, 9.92, 18.64 ]
+ },
+ "it-dont-mean-a-thing-if-it-aint-got-that-swing": {
+  "hash": "ea753c2f21e7de5f",
+  "seconds": 23.8,
+  "starts": [ 0, 4.72, 15.76 ]
+ },
+ "sing-sing-sing-with-a-swing": {
+  "hash": "cabbe8d48c97ff38",
+  "seconds": 35,
+  "starts": [ 0, 9.2, 16.8, 30.6 ]
+ },
+ "strange-fruit": {
+  "hash": "1c77f386577b7c8e",
+  "seconds": 22,
+  "starts": [ 0, 8.88, 17.36 ]
+ },
+ "in-the-mood": {
+  "hash": "274013278d327197",
+  "seconds": 21.4,
+  "starts": [ 0, 8.4, 17.44 ]
+ },
+ "this-land-is-your-land": {
+  "hash": "0553a68009676786",
+  "seconds": 27.5,
+  "starts": [ 0, 8.56, 14.24, 23.52 ]
+ },
+ "ill-be-seeing-you": {
+  "hash": "56b626f26716a857",
+  "seconds": 22.7,
+  "starts": [ 0, 8.16, 16.32 ]
+ },
+ "era-4": {
+  "hash": "0380e21a9a7d3a30",
+  "seconds": 68.7,
+  "starts": [ 0, 7.12, 12.08, 21.28, 34.08, 38.48, 44, 56.56, 64.8 ]
+ },
+ "get-your-kicks-on-route-66": {
+  "hash": "7ae1acb410f1a418",
+  "seconds": 36.8,
+  "starts": [ 0, 9.68, 15.92, 19.88, 27.4, 32.88 ]
+ },
+ "good-rockin-tonight": {
+  "hash": "096f91406d37f95f",
+  "seconds": 24.6,
+  "starts": [ 0, 10.48, 19.88 ]
+ },
+ "lovesick-blues": {
+  "hash": "c0f774bd0aaba2fd",
+  "seconds": 24.6,
+  "starts": [ 0, 13.76, 20.56 ]
+ },
+ "how-high-the-moon": {
+  "hash": "0c2d1e7aa80b16b5",
+  "seconds": 22.6,
+  "starts": [ 0, 8.96, 15.28 ]
+ },
+ "hound-dog": {
+  "hash": "54950cde69bd08cc",
+  "seconds": 39.7,
+  "starts": [ 0, 12.16, 19.04, 24.32, 33.12 ]
+ },
+ "era-5": {
+  "hash": "307da8a2120bd948",
+  "seconds": 63.6,
+  "starts": [ 0, 7.84, 19.04, 30.4, 35.56, 43.6, 50.56, 58.96 ]
+ },
+ "rock-around-the-clock": {
+  "hash": "8930c3c2eb123e7d",
+  "seconds": 21.3,
+  "starts": [ 0, 10.72, 16.64 ]
+ },
+ "maybellene": {
+  "hash": "3457187bfb5e25fd",
+  "seconds": 24,
+  "starts": [ 0, 8.96, 19.28 ]
+ },
+ "heartbreak-hotel": {
+  "hash": "53a1c4c860872136",
+  "seconds": 21.2,
+  "starts": [ 0, 7.2, 16.24 ]
+ },
+ "whatd-i-say": {
+  "hash": "6999a2b08761a997",
+  "seconds": 22.3,
+  "starts": [ 0, 8.72, 17.2 ]
+ },
+ "will-you-love-me-tomorrow": {
+  "hash": "a0fcc430bf0d987a",
+  "seconds": 23.9,
+  "starts": [ 0, 13.28, 20.48 ]
+ },
+ "blowin-in-the-wind": {
+  "hash": "230fc6e6e2579164",
+  "seconds": 19.4,
+  "starts": [ 0, 8.08, 13.84 ]
+ },
+ "era-6": {
+  "hash": "2185a553c94c928e",
+  "seconds": 69.6,
+  "starts": [ 0, 5, 11.92, 30.72, 38.96, 42.4, 52.4, 64.08 ]
+ },
+ "i-want-to-hold-your-hand": {
+  "hash": "548f329a3951ed0a",
+  "seconds": 25.4,
+  "starts": [ 0, 10, 19.84 ]
+ },
+ "a-change-is-gonna-come": {
+  "hash": "beb65d9e52180867",
+  "seconds": 39.1,
+  "starts": [ 0, 12.8, 23.04, 30.64 ]
+ },
+ "my-girl": {
+  "hash": "a4de12d60b66f3f7",
+  "seconds": 26.6,
+  "starts": [ 0, 10.24, 20.76 ]
+ },
+ "i-cant-get-no-satisfaction": {
+  "hash": "f5e8163d68a71b11",
+  "seconds": 20.7,
+  "starts": [ 0, 10.56, 18.4 ]
+ },
+ "like-a-rolling-stone": {
+  "hash": "172eb071a96c626e",
+  "seconds": 21.8,
+  "starts": [ 0, 9.64, 16.08 ]
+ },
+ "my-generation": {
+  "hash": "5a367209e946d8d3",
+  "seconds": 20.6,
+  "starts": [ 0, 8.32, 16.64 ]
+ },
+ "good-vibrations": {
+  "hash": "8ece078308d36350",
+  "seconds": 23.8,
+  "starts": [ 0, 6.72, 17.12 ]
+ },
+ "respect": {
+  "hash": "0b30df0ae834777e",
+  "seconds": 27.1,
+  "starts": [ 0, 6.4, 14.48, 22.24 ]
+ },
+ "say-it-loud-im-black-and-im-proud": {
+  "hash": "8b10f97c36c29a94",
+  "seconds": 22.6,
+  "starts": [ 0, 10.72, 19.44 ]
+ },
+ "fortunate-son": {
+  "hash": "4d95a5028630db3d",
+  "seconds": 37,
+  "starts": [ 0, 7.36, 15.28, 24, 32 ]
+ },
+ "era-7": {
+  "hash": "b8bc32a1f015d234",
+  "seconds": 67.1,
+  "starts": [ 0, 8.48, 16.96, 32.8, 37.36, 50.08, 62.48 ]
+ },
+ "bridge-over-troubled-water": {
+  "hash": "52864ac09c58b05c",
+  "seconds": 22.2,
+  "starts": [ 0, 10, 17.8 ]
+ },
+ "paranoid": {
+  "hash": "f3fef262bafc9662",
+  "seconds": 25.1,
+  "starts": [ 0, 8.32, 20.56 ]
+ },
+ "whats-going-on": {
+  "hash": "8dd2b98047e123b4",
+  "seconds": 24,
+  "starts": [ 0, 8.72, 17.84 ]
+ },
+ "youve-got-a-friend": {
+  "hash": "cf272bc03ba9e979",
+  "seconds": 22.6,
+  "starts": [ 0, 10.8, 18.32 ]
+ },
+ "superstition": {
+  "hash": "0a2b69092a6044e0",
+  "seconds": 21.8,
+  "starts": [ 0, 9.68, 17.2 ]
+ },
+ "2112-overture-the-temples-of-syrinx": {
+  "hash": "1ccdebd1a5392503",
+  "seconds": 27.7,
+  "starts": [ 0, 11.28, 21.28 ]
+ },
+ "blitzkrieg-bop": {
+  "hash": "72f137e575321b95",
+  "seconds": 20.7,
+  "starts": [ 0, 8.32, 17.4 ]
+ },
+ "stayin-alive": {
+  "hash": "35470cd23956fa2c",
+  "seconds": 43.4,
+  "starts": [ 0, 8.64, 17.52, 24.4, 30.24 ]
+ },
+ "rappers-delight": {
+  "hash": "da5568d9da23620e",
+  "seconds": 22.8,
+  "starts": [ 0, 6.32, 16.56 ]
+ },
+ "era-8": {
+  "hash": "bee5d465dc59a306",
+  "seconds": 58.7,
+  "starts": [ 0, 9.44, 15.92, 27.92, 31.68, 41.92, 49.6 ]
+ },
+ "in-the-air-tonight": {
+  "hash": "de1f10c48a392cf2",
+  "seconds": 18.5,
+  "starts": [ 0, 7.68, 14.48 ]
+ },
+ "the-message": {
+  "hash": "bbce27b86a9780a9",
+  "seconds": 27.1,
+  "starts": [ 0, 9.84, 20.08 ]
+ },
+ "billie-jean": {
+  "hash": "94e9106c49da6a0f",
+  "seconds": 21.9,
+  "starts": [ 0, 10.84, 18.72 ]
+ },
+ "born-in-the-u-s-a": {
+  "hash": "275c11a316deda98",
+  "seconds": 40,
+  "starts": [ 0, 11.76, 22.88, 30.32 ]
+ },
+ "like-a-virgin": {
+  "hash": "ffa7d11dfd54f7d1",
+  "seconds": 21.3,
+  "starts": [ 0, 8.16, 16.64 ]
+ },
+ "when-doves-cry": {
+  "hash": "92cd67196f60520f",
+  "seconds": 23.1,
+  "starts": [ 0, 10.24, 20.24 ]
+ },
+ "livin-on-a-prayer": {
+  "hash": "5e6a3b1a06780450",
+  "seconds": 20.7,
+  "starts": [ 0, 8.64, 16.48 ]
+ },
+ "master-of-puppets": {
+  "hash": "8880f392381ec27f",
+  "seconds": 23.5,
+  "starts": [ 0, 5.84, 17.68 ]
+ },
+ "fight-the-power": {
+  "hash": "bb35499bc493716a",
+  "seconds": 20.4,
+  "starts": [ 0, 9.12, 16.16 ]
+ },
+ "vogue": {
+  "hash": "2678eeddd757b358",
+  "seconds": 23,
+  "starts": [ 0, 7.68, 16.24 ]
+ },
+ "era-9": {
+  "hash": "001c91f8048c99b1",
+  "seconds": 56.7,
+  "starts": [ 0, 9.04, 15.52, 26.8, 29.84, 37.04, 48.48 ]
+ },
+ "smells-like-teen-spirit": {
+  "hash": "e09eb65345cd55a9",
+  "seconds": 25,
+  "starts": [ 0, 12.8, 22 ]
+ },
+ "nuthin-but-a-g-thang": {
+  "hash": "e321ad1195c19878",
+  "seconds": 18.5,
+  "starts": [ 0, 12.24 ]
+ },
+ "i-will-always-love-you": {
+  "hash": "958d0b9c31ca1a5a",
+  "seconds": 39.4,
+  "starts": [ 0, 12.48, 20.96, 28.16, 35.04 ]
+ },
+ "a-whole-new-world": {
+  "hash": "204ce9eb7a2d9225",
+  "seconds": 21.4,
+  "starts": [ 0, 16.16 ]
+ },
+ "creep": {
+  "hash": "84ad059fa36d8b91",
+  "seconds": 22.3,
+  "starts": [ 0, 11.52, 17.2 ]
+ },
+ "linoleum": {
+  "hash": "e24234d15041ff21",
+  "seconds": 21.9,
+  "starts": [ 0, 9.6 ]
+ },
+ "you-oughta-know": {
+  "hash": "9a0bc4d00c24beab",
+  "seconds": 20.3,
+  "starts": [ 0, 10 ]
+ },
+ "megalomaniac": {
+  "hash": "b452e6d4f52249a2",
+  "seconds": 21.3,
+  "starts": [ 0, 13.6 ]
+ },
+ "baby-one-more-time": {
+  "hash": "c3fae3417eb5cff2",
+  "seconds": 21.9,
+  "starts": [ 0, 8.24 ]
+ },
+ "era-10": {
+  "hash": "a93f6f3fba6fad6f",
+  "seconds": 55.9,
+  "starts": [ 0, 11.28, 18.96, 26.8, 31.84, 39.76, 46.04 ]
+ },
+ "courtesy-of-the-red-white-and-blue-the-angry-ame": {
+  "hash": "28e44922d9280a3a",
+  "seconds": 20.5,
+  "starts": [ 0, 10.48 ]
+ },
+ "crazy-in-love": {
+  "hash": "1f59616f128a0362",
+  "seconds": 21.5,
+  "starts": [ 0, 13.28 ]
+ },
+ "hey-ya": {
+  "hash": "addf92714dd9eaf8",
+  "seconds": 22.4,
+  "starts": [ 0, 13, 17.76 ]
+ },
+ "where-is-the-love": {
+  "hash": "39ba4f210c4e113d",
+  "seconds": 21.1,
+  "starts": [ 0, 11.92 ]
+ },
+ "american-idiot": {
+  "hash": "a05b32395ca10dcb",
+  "seconds": 20.2,
+  "starts": [ 0, 10.96 ]
+ },
+ "mr-brightside": {
+  "hash": "980c1c4d1c947efd",
+  "seconds": 22.6,
+  "starts": [ 0, 10.72 ]
+ },
+ "crank-that-soulja-boy": {
+  "hash": "985e80ac472689a7",
+  "seconds": 21.4,
+  "starts": [ 0, 7.36, 17.24 ]
+ },
+ "era-11": {
+  "hash": "e1ce1c3b806d20d4",
+  "seconds": 58.3,
+  "starts": [ 0, 9.36, 18.96, 29.52, 39.08, 46.32, 53.52 ]
+ },
+ "bad-romance": {
+  "hash": "c7f866f915ac28e9",
+  "seconds": 21.1,
+  "starts": [ 0, 8.72, 16.88 ]
+ },
+ "we-found-love": {
+  "hash": "0be17518217c3f4b",
+  "seconds": 20.6,
+  "starts": [ 0, 8.4, 16.08 ]
+ },
+ "royals": {
+  "hash": "d3caf99b229f2e9d",
+  "seconds": 21.5,
+  "starts": [ 0, 10.4 ]
+ },
+ "let-it-go": {
+  "hash": "d558d7dc812ab5a9",
+  "seconds": 23.5,
+  "starts": [ 0, 11.2, 18.96 ]
+ },
+ "uptown-funk": {
+  "hash": "fb47ae158a825904",
+  "seconds": 23.5,
+  "starts": [ 0, 10.56, 18.56 ]
+ },
+ "alright": {
+  "hash": "6ce43695b13531b9",
+  "seconds": 23,
+  "starts": [ 0, 12.04, 20.48 ]
+ },
+ "formation": {
+  "hash": "445cd6a4ac23d4ac",
+  "seconds": 22.8,
+  "starts": [ 0, 11.28, 19.04 ]
+ },
+ "closer": {
+  "hash": "1e1e8324de7790b9",
+  "seconds": 21.9,
+  "starts": [ 0, 6.32, 16.88 ]
+ },
+ "era-12": {
+  "hash": "175862b68da9f5fe",
+  "seconds": 55.3,
+  "starts": [ 0, 10.24, 18.8, 28.96, 37.36, 48.4 ]
+ },
+ "despacito-remix": {
+  "hash": "449310899c85ff32",
+  "seconds": 24.7,
+  "starts": [ 0, 9.2 ]
+ },
+ "this-is-america": {
+  "hash": "3fc6cbd303805447",
+  "seconds": 23.1,
+  "starts": [ 0, 10, 18.72 ]
+ },
+ "old-town-road": {
+  "hash": "33ac931f79d72f9e",
+  "seconds": 36.7,
+  "starts": [ 0, 9.2, 19.2, 28.16, 31.44 ]
+ },
+ "bad-guy": {
+  "hash": "02dbe0941d7fa7bc",
+  "seconds": 21.8,
+  "starts": [ 0, 8.8, 16.08 ]
+ },
+ "blinding-lights": {
+  "hash": "a6bfdcd554e975b1",
+  "seconds": 25.5,
+  "starts": [ 0, 8.64, 21.04 ]
+ },
+ "espresso": {
+  "hash": "6d4f9f331a9a9ae4",
+  "seconds": 21.5,
+  "starts": [ 0, 8.48, 17.52 ]
+ },
+ "a-bar-song-tipsy": {
+  "hash": "66017b2e1a24647e",
+  "seconds": 22.4,
+  "starts": [ 0, 8.48, 14.8 ]
+ },
+ "achy-breaky-heart": {
+  "hash": "984a7f3ffe3cf9c5",
+  "seconds": 30,
+  "starts": [ 0, 7.84, 19.68 ]
+ },
+ "calm-down": {
+  "hash": "199a097ee114eca8",
+  "seconds": 22.6,
+  "starts": [ 0, 8.72, 13.28, 16.68 ]
+ },
+ "not-like-us": {
+  "hash": "92d45391dfa75ca1",
+  "seconds": 27.4,
+  "starts": [ 0, 7.24, 17.76 ]
+ },
+ "golden": {
+  "hash": "596e2bafeae4e112",
+  "seconds": 23.6,
+  "starts": [ 0, 13.32, 18.08 ]
+ },
+ "dust-on-the-wind": {
+  "hash": "0acdbe3d6f2d4222",
+  "seconds": 34.8,
+  "starts": [ 0, 6.48, 17.12, 22.72 ]
+ },
+ "all-too-well": {
+  "hash": "42b8ea3473571e27",
+  "seconds": 51.2,
+  "starts": [ 0, 9.6, 11.2, 14.64, 24.96, 28.64, 41.6, 45.6 ]
+ },
+ "wildwood-flower": {
+  "hash": "b16d3b7b9c91d73b",
+  "seconds": 27.5,
+  "starts": [ 0, 9.04, 15.52, 22.64 ]
+ },
+ "cross-road-blues": {
+  "hash": "910aba8318a36f30",
+  "seconds": 30.1,
+  "starts": [ 0, 7.36, 14.4, 25.28 ]
+ },
+ "over-the-rainbow": {
+  "hash": "1cf28a2bd5dd197d",
+  "seconds": 26.7,
+  "starts": [ 0, 8, 17.28, 22.32 ]
+ },
+ "sixteen-tons": {
+  "hash": "73ee5b1c0c3d546f",
+  "seconds": 29.7,
+  "starts": [ 0, 5.92, 16.8, 26.72 ]
+ },
+ "tutti-frutti": {
+  "hash": "97659ce27a9c5b9b",
+  "seconds": 27.8,
+  "starts": [ 0, 9.32, 12.64, 20.64 ]
+ },
+ "la-bamba": {
+  "hash": "11d7ce25831a8b84",
+  "seconds": 28.4,
+  "starts": [ 0, 12.56, 17.04, 24.48 ]
+ },
+ "crazy": {
+  "hash": "3770ff60ed9fad90",
+  "seconds": 28.3,
+  "starts": [ 0, 7.68, 19.2, 23.52 ]
+ },
+ "you-dont-own-me": {
+  "hash": "5e95b48c875af894",
+  "seconds": 29.9,
+  "starts": [ 0, 10.08, 17.04, 26.56 ]
+ },
+ "purple-haze": {
+  "hash": "58060efebd325428",
+  "seconds": 27.1,
+  "starts": [ 0, 8.16, 16.88, 21.52 ]
+ },
+ "big-yellow-taxi": {
+  "hash": "2aea64ef5a751474",
+  "seconds": 24.9,
+  "starts": [ 0, 6.88, 16.05 ]
+ },
+ "stairway-to-heaven": {
+  "hash": "a2ba9ed360a8cc03",
+  "seconds": 26.3,
+  "starts": [ 0, 11.44, 15.36, 21.84 ]
+ },
+ "bohemian-rhapsody": {
+  "hash": "f1eb2b22eccd4172",
+  "seconds": 29.9,
+  "starts": [ 0, 13.04, 19.04, 24.72 ]
+ },
+ "hotel-california": {
+  "hash": "3cd436f83a5e9107",
+  "seconds": 29.5,
+  "starts": [ 0, 6.4, 14.88, 19.84 ]
+ },
+ "i-feel-love": {
+  "hash": "7c6388bf5a41256f",
+  "seconds": 28.7,
+  "starts": [ 0, 11.6, 18.72, 22.64 ]
+ },
+ "another-brick-in-the-wall": {
+  "hash": "4110d1fa6d581156",
+  "seconds": 29.1,
+  "starts": [ 0, 10.96, 20.96 ]
+ },
+ "every-breath-you-take": {
+  "hash": "a655e76054b9efca",
+  "seconds": 26.3,
+  "starts": [ 0, 8.56, 14.4, 21.2 ]
+ },
+ "walk-this-way": {
+  "hash": "1eaef8f9b9a6a8ed",
+  "seconds": 27.1,
+  "starts": [ 0, 10.32, 14.8, 22.64 ]
+ },
+ "fast-car": {
+  "hash": "bc93355493cece5f",
+  "seconds": 32.3,
+  "starts": [ 0, 11.2, 18.52, 24.24 ]
+ },
+ "gasolina": {
+  "hash": "d39d1d6c23125657",
+  "seconds": 30.7,
+  "starts": [ 0, 6.88, 14.88, 22.72 ]
+ },
+ "home": {
+  "hash": "167ec2666a47abd6",
+  "seconds": 175.7,
+  "starts": [ 0, 5.36, 15.04, 28.24, 30.4, 38.24, 43.28, 45.44, 54.88, 60.96, 68.96, 73.6, 76, 88.8, 92.88, 97.12, 107.44, 110.27, 115.6, 119.68, 124.27, 126.8, 135.31, 143.04, 151.12, 161.12, 162.48, 169.6, 174.16 ]
+ }
+}

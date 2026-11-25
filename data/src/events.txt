@@ -1,0 +1,241 @@
+# era|year|text|Wikipedia title   (20 per era, by overall historic importance; original wording)
+1|1890|Congress passes the Sherman Antitrust Act to curb monopolies|Sherman Antitrust Act
+1|1890|U.S. troops kill hundreds of Lakota people at Wounded Knee|Wounded Knee Massacre
+1|1892|Ellis Island opens as the main gateway for immigrants|Ellis Island
+1|1893|A financial panic starts a four-year depression|Panic of 1893
+1|1894|The Pullman Strike halts railroads across the country|Pullman Strike
+1|1896|The Supreme Court upholds segregation in Plessy v. Ferguson|Plessy v. Ferguson
+1|1898|The U.S. defeats Spain and becomes an overseas power|Spanish–American War
+1|1898|White supremacists overthrow the elected government of Wilmington, North Carolina|Wilmington massacre
+1|1901|President McKinley is assassinated and Theodore Roosevelt takes office|Assassination of William McKinley
+1|1903|The Wright brothers make the first powered airplane flight|Wright Flyer
+1|1906|An earthquake and fire destroy much of San Francisco|1906 San Francisco earthquake
+1|1908|Ford introduces the affordable Model T|Ford Model T
+1|1909|The NAACP is founded to fight for civil rights|NAACP
+1|1911|A garment factory fire kills 146 workers and spurs safety laws|Triangle Shirtwaist Factory fire
+1|1913|The Sixteenth Amendment allows a federal income tax|Sixteenth Amendment to the United States Constitution
+1|1913|The Federal Reserve Act creates the central bank|Federal Reserve Act
+1|1914|World War I begins in Europe|World War I
+1|1914|The Panama Canal opens|Panama Canal
+1|1917|Revolution in Russia brings the Bolsheviks to power|Russian Revolution
+1|1918|An influenza pandemic begins that kills tens of millions worldwide|Spanish flu
+2|1919|The Treaty of Versailles sets the terms of peace after World War I|Treaty of Versailles
+2|1919|Racial violence breaks out in dozens of cities during the Red Summer|Red Summer
+2|1919|The Eighteenth Amendment, banning alcohol sales, is ratified|Eighteenth Amendment to the United States Constitution
+2|1919|Government raids target suspected radicals in the first Red Scare|Palmer Raids
+2|1920|The Nineteenth Amendment guarantees women the right to vote|Nineteenth Amendment to the United States Constitution
+2|1920|Commercial radio begins as KDKA broadcasts election returns|KDKA (AM)
+2|1921|A white mob destroys the Black district of Greenwood in Tulsa|Tulsa race massacre
+2|1921|Insulin is discovered, transforming the treatment of diabetes|Insulin
+2|1922|The Soviet Union is formed|Soviet Union
+2|1922|Mussolini takes power in Italy after the March on Rome|March on Rome
+2|1922|Secret oil leases set off the Teapot Dome scandal|Teapot Dome scandal
+2|1924|The Immigration Act sharply limits immigration by national origin|Immigration Act of 1924
+2|1924|Native Americans are granted U.S. citizenship|Indian Citizenship Act
+2|1925|The Scopes trial puts the teaching of evolution before the nation|Scopes trial
+2|1925|The Ku Klux Klan, near its peak, marches in Washington|Ku Klux Klan
+2|1927|The Mississippi River floods, displacing hundreds of thousands|Great Mississippi Flood of 1927
+2|1927|Charles Lindbergh flies alone across the Atlantic|Spirit of St. Louis
+2|1928|Alexander Fleming discovers penicillin|Alexander Fleming
+2|1929|Gangsters kill seven men in Chicago on St. Valentine's Day|Saint Valentine's Day Massacre
+2|1929|The stock market crashes|Wall Street crash of 1929
+3|1930|The Dust Bowl begins on the Great Plains|Dust Bowl
+3|1930|The Smoot–Hawley tariff deepens the collapse in world trade|Smoot–Hawley Tariff Act
+3|1931|Nine Black teenagers are falsely accused in the Scottsboro case|Scottsboro Boys
+3|1932|Troops drive protesting veterans, the Bonus Army, from Washington|Bonus Army
+3|1932|Franklin D. Roosevelt is elected president|1932 United States presidential election
+3|1933|Hitler becomes chancellor of Germany|Adolf Hitler's rise to power
+3|1933|The New Deal begins|New Deal
+3|1933|Prohibition is repealed|Twenty-first Amendment to the United States Constitution
+3|1935|The Social Security Act creates old-age pensions|Social Security Act
+3|1935|The Wagner Act protects the right to form unions|National Labor Relations Act of 1935
+3|1937|Japan's invasion of China grows into full-scale war|Second Sino-Japanese War
+3|1938|The Fair Labor Standards Act sets a minimum wage and limits child labor|Fair Labor Standards Act of 1938
+3|1939|Germany invades Poland and World War II begins|Invasion of Poland
+3|1941|The Holocaust enters its stage of mass murder; about six million Jews are killed by 1945|The Holocaust
+3|1941|Japan attacks Pearl Harbor and the U.S. enters the war|Attack on Pearl Harbor
+3|1942|Japanese Americans are forced into internment camps|Internment of Japanese Americans
+3|1944|Allied forces land in Normandy on D-Day|Normandy landings
+3|1944|The G.I. Bill funds college and homes for returning veterans|G.I. Bill
+3|1945|Germany surrenders, ending the war in Europe|Victory in Europe Day
+3|1945|Atomic bombs are dropped on Hiroshima and Nagasaki|Atomic bombings of Hiroshima and Nagasaki
+4|1946|The first session of the United Nations General Assembly meets|United Nations General Assembly
+4|1946|Leading Nazis are convicted at Nuremberg|Nuremberg trials
+4|1946|The postwar baby boom begins|Baby boomers
+4|1947|The Truman Doctrine commits the U.S. to containing communism|Truman Doctrine
+4|1947|Jackie Robinson breaks baseball's color line|Jackie Robinson
+4|1947|India and Pakistan become independent amid a violent partition|Partition of India
+4|1947|The transistor is invented at Bell Labs|Transistor
+4|1947|Building begins on Levittown, a model for mass suburbs|Levittown
+4|1948|The Marshall Plan begins rebuilding Western Europe|Marshall Plan
+4|1948|Truman orders the desegregation of the armed forces|Executive Order 9981
+4|1948|The State of Israel is declared and the first Arab–Israeli war follows|1948 Arab–Israeli War
+4|1948|The Soviet Union blockades Berlin|Berlin Blockade
+4|1949|NATO is founded|NATO
+4|1949|The Soviet Union tests its first atomic bomb|RDS-1
+4|1949|The People's Republic of China is proclaimed|Proclamation of the People's Republic of China
+4|1950|The Korean War begins|Korean War
+4|1950|Senator McCarthy's accusations mark the peak of the Red Scare|McCarthyism
+4|1952|The U.S. tests the first hydrogen bomb|Ivy Mike
+4|1953|The structure of DNA is published|Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid
+4|1954|The Supreme Court rules school segregation unconstitutional|Brown v. Board of Education
+5|1954|A Geneva settlement divides Vietnam after France's defeat|1954 Geneva Conference
+5|1955|The murder of Emmett Till shocks the country|Emmett Till
+5|1955|The Montgomery bus boycott begins|Montgomery bus boycott
+5|1955|Jonas Salk's polio vaccine is declared safe and effective|Polio vaccine
+5|1956|The Interstate Highway System is authorized|Federal-Aid Highway Act of 1956
+5|1956|Soviet forces crush an uprising in Hungary|Hungarian Revolution of 1956
+5|1956|Egypt's seizure of the canal sets off the Suez Crisis|Suez Crisis
+5|1957|Federal troops protect nine Black students in Little Rock|Little Rock Nine
+5|1957|The Soviet Union launches Sputnik, opening the Space Race|Sputnik 1
+5|1957|Ghana wins independence as decolonization spreads in Africa|Ghana
+5|1959|Revolution brings Fidel Castro to power in Cuba|Cuban Revolution
+5|1960|Sit-ins at lunch counters begin in Greensboro|Greensboro sit-ins
+5|1960|The first birth control pill is approved|Combined oral contraceptive pill
+5|1960|John F. Kennedy is elected president|1960 United States presidential election
+5|1961|The Bay of Pigs invasion of Cuba fails|Bay of Pigs Invasion
+5|1961|Freedom Riders challenge segregated buses|Freedom Riders
+5|1961|The Berlin Wall goes up|Berlin Wall
+5|1962|The Cuban Missile Crisis brings the world close to nuclear war|Cuban Missile Crisis
+5|1963|Martin Luther King Jr. speaks at the March on Washington|March on Washington for Jobs and Freedom
+5|1963|President Kennedy is assassinated in Dallas|Assassination of John F. Kennedy
+6|1964|The Civil Rights Act bans discrimination in jobs and public places|Civil Rights Act of 1964
+6|1964|The Gulf of Tonkin Resolution widens the war in Vietnam|Gulf of Tonkin Resolution
+6|1964|Three civil rights workers are murdered during Freedom Summer|Murders of Chaney, Goodman, and Schwerner
+6|1964|President Johnson declares a War on Poverty|War on poverty
+6|1965|Malcolm X is assassinated|Malcolm X
+6|1965|Marchers are beaten on the way from Selma to Montgomery|Selma to Montgomery marches
+6|1965|The Voting Rights Act protects Black voters|Voting Rights Act of 1965
+6|1965|Medicare and Medicaid are created|Social Security Amendments of 1965
+6|1965|A new immigration law ends national-origin quotas|Immigration and Nationality Act of 1965
+6|1965|Los Angeles's Watts neighborhood erupts in six days of unrest|Watts riots
+6|1966|The Black Panther Party is founded in Oakland|Black Panther Party
+6|1966|The Cultural Revolution begins in China|Cultural Revolution
+6|1967|Israel defeats its neighbors in the Six-Day War|Six-Day War
+6|1967|The Supreme Court strikes down bans on interracial marriage|Loving v. Virginia
+6|1968|The Tet Offensive turns many Americans against the war|Tet Offensive
+6|1968|Martin Luther King Jr. is assassinated in Memphis|Assassination of Martin Luther King Jr.
+6|1968|Robert F. Kennedy is assassinated in Los Angeles|Assassination of Robert F. Kennedy
+6|1968|Police and protesters clash at the Democratic convention in Chicago|1968 Democratic National Convention
+6|1969|The Stonewall uprising energizes the gay rights movement|Stonewall riots
+6|1969|Apollo 11 lands the first people on the Moon|Apollo 11
+7|1970|National Guard troops kill four students at Kent State|Kent State shootings
+7|1970|The first Earth Day and the new EPA mark the rise of environmentalism|Earth Day
+7|1971|The Pentagon Papers reveal a secret history of the Vietnam War|Pentagon Papers
+7|1971|The voting age is lowered to 18|Twenty-sixth Amendment to the United States Constitution
+7|1971|The U.S. stops exchanging dollars for gold|Nixon shock
+7|1972|Nixon visits China|1972 visit by Richard Nixon to China
+7|1972|Title IX bans sex discrimination in federally funded education|Title IX
+7|1972|Burglars are caught at the Watergate offices; Nixon resigns in 1974|Watergate scandal
+7|1973|The Paris Peace Accords end direct U.S. combat in Vietnam|Paris Peace Accords
+7|1973|The Supreme Court recognizes a right to abortion in Roe v. Wade|Roe v. Wade
+7|1973|Native activists occupy Wounded Knee for 71 days|Wounded Knee Occupation
+7|1973|An Arab oil embargo sets off an energy crisis|1973 oil crisis
+7|1975|Saigon falls and the Vietnam War ends|Fall of Saigon
+7|1975|The Khmer Rouge takes Cambodia and begins a genocide|Cambodian genocide
+7|1975|Microsoft is founded, followed by Apple in 1976|Microsoft
+7|1978|Egypt and Israel reach the Camp David Accords|Camp David Accords
+7|1979|A reactor partly melts down at Three Mile Island|Three Mile Island accident
+7|1979|Revolution in Iran leads to a 444-day hostage crisis|Iran hostage crisis
+7|1979|The Soviet Union invades Afghanistan|Soviet–Afghan War
+7|1980|Ronald Reagan is elected president|1980 United States presidential election
+8|1981|The first cases of what becomes known as AIDS are reported|HIV/AIDS in the United States
+8|1981|President Reagan survives an assassination attempt|Attempted assassination of Ronald Reagan
+8|1981|Reagan fires striking air traffic controllers|1981 Professional Air Traffic Controllers Organization strike
+8|1981|A major tax cut begins the economic program called Reaganomics|Reaganomics
+8|1981|Sandra Day O'Connor becomes the first woman on the Supreme Court|Sandra Day O'Connor
+8|1983|The internet's core networks switch to the protocol still used today|ARPANET
+8|1983|A bombing in Beirut kills 241 U.S. service members|1983 Beirut barracks bombings
+8|1984|Toxic gas kills thousands in Bhopal, India|Bhopal disaster
+8|1984|Famine in Ethiopia prompts a worldwide relief effort|1983–1985 famine in Ethiopia
+8|1985|Mikhail Gorbachev comes to power in the Soviet Union|Mikhail Gorbachev
+8|1986|The space shuttle Challenger breaks apart after launch|Space Shuttle Challenger disaster
+8|1986|A reactor explodes at Chernobyl|Chernobyl disaster
+8|1986|The Anti-Drug Abuse Act sets harsh mandatory sentences|Anti-Drug Abuse Act of 1986
+8|1986|The Iran–Contra affair comes to light|Iran–Contra affair
+8|1987|The stock market falls more than 22 percent in a day|Black Monday (1987)
+8|1989|China crushes protests in Tiananmen Square|1989 Tiananmen Square protests and massacre
+8|1989|The Berlin Wall falls|Fall of the Berlin Wall
+8|1990|Nelson Mandela is freed as apartheid begins to end|Nelson Mandela
+8|1990|The Americans with Disabilities Act becomes law|Americans with Disabilities Act of 1990
+8|1991|A U.S.-led coalition drives Iraq from Kuwait|Gulf War
+9|1991|The Soviet Union dissolves|Dissolution of the Soviet Union
+9|1991|Anita Hill's testimony brings sexual harassment into national debate|Anita Hill
+9|1991|The World Wide Web is released to the whole internet|World Wide Web
+9|1992|Los Angeles erupts after officers are acquitted in the Rodney King beating|1992 Los Angeles riots
+9|1992|Bill Clinton is elected president|1992 United States presidential election
+9|1993|A bomb goes off under the World Trade Center|1993 World Trade Center bombing
+9|1993|A federal siege near Waco ends in a deadly fire|Waco siege
+9|1993|Israel and the PLO sign the Oslo Accords|Oslo Accords
+9|1994|The NAFTA trade agreement takes effect|North American Free Trade Agreement
+9|1994|Genocide in Rwanda kills hundreds of thousands|Rwandan genocide
+9|1994|Nelson Mandela wins South Africa's first election open to all races|1994 South African general election
+9|1994|A federal crime bill funds police and prisons and bans some weapons|Violent Crime Control and Law Enforcement Act
+9|1995|A bombing in Oklahoma City kills 168 people|Oklahoma City bombing
+9|1995|The Dayton Agreement ends the war in Bosnia|Dayton Agreement
+9|1996|A welfare overhaul ends a six-decade federal guarantee|Personal Responsibility and Work Opportunity Act
+9|1996|Dolly the sheep is the first mammal cloned from an adult cell|Dolly (sheep)
+9|1998|The House impeaches President Clinton|Impeachment of Bill Clinton
+9|1998|Google is founded|Google
+9|1999|Two students kill 13 people at Columbine High School|Columbine High School massacre
+9|2000|The Supreme Court settles the presidential election in Bush v. Gore|Bush v. Gore
+10|2001|Al-Qaeda attacks kill nearly 3,000 people on September 11|September 11 attacks
+10|2001|The U.S. invades Afghanistan|War in Afghanistan (2001–2021)
+10|2001|The Patriot Act expands government surveillance|Patriot Act
+10|2001|China joins the World Trade Organization|China and the World Trade Organization
+10|2001|Enron collapses in an accounting scandal|Enron scandal
+10|2002|The Department of Homeland Security is created|United States Department of Homeland Security
+10|2002|The No Child Left Behind Act reshapes public schools|No Child Left Behind Act
+10|2003|The space shuttle Columbia breaks apart on reentry|Space Shuttle Columbia disaster
+10|2003|The U.S. invades Iraq|2003 invasion of Iraq
+10|2003|Scientists complete the Human Genome Project|Human Genome Project
+10|2003|The Supreme Court strikes down sodomy laws|Lawrence v. Texas
+10|2004|Photos reveal abuse of prisoners at Abu Ghraib|Abu Ghraib torture and prisoner abuse
+10|2004|Facebook is launched|Facebook
+10|2004|Massachusetts becomes the first state with same-sex marriage|Same-sex marriage in Massachusetts
+10|2004|A tsunami kills more than 200,000 people around the Indian Ocean|2004 Indian Ocean earthquake and tsunami
+10|2005|Hurricane Katrina floods New Orleans|Hurricane Katrina
+10|2007|A gunman kills 32 people at Virginia Tech|Virginia Tech shooting
+10|2007|Apple introduces the iPhone|IPhone
+10|2008|Lehman Brothers fails as a financial crisis spreads worldwide|2008 financial crisis
+10|2008|Barack Obama is elected the first Black president|2008 United States presidential election
+11|2009|A large stimulus law responds to the Great Recession|American Recovery and Reinvestment Act of 2009
+11|2009|An H1N1 influenza pandemic spreads worldwide|2009 swine flu pandemic
+11|2009|The Tea Party movement forms|Tea Party movement
+11|2010|An earthquake devastates Haiti|2010 Haiti earthquake
+11|2010|The Affordable Care Act becomes law|Affordable Care Act
+11|2010|The Deepwater Horizon explosion causes a vast Gulf oil spill|Deepwater Horizon oil spill
+11|2010|The Citizens United ruling loosens limits on campaign spending|Citizens United v. FEC
+11|2011|The Arab Spring uprisings topple governments|Arab Spring
+11|2011|An earthquake and tsunami cause a nuclear disaster in Japan|2011 Tōhoku earthquake and tsunami
+11|2011|U.S. forces kill Osama bin Laden|Killing of Osama bin Laden
+11|2011|Occupy Wall Street protests inequality|Occupy Wall Street
+11|2012|A gunman kills 26 people at Sandy Hook Elementary School|Sandy Hook Elementary School shooting
+11|2013|Edward Snowden reveals mass surveillance|2010s global surveillance disclosures
+11|2013|The Supreme Court ends a key part of the Voting Rights Act|Shelby County v. Holder
+11|2014|Russia annexes Crimea|Annexation of Crimea by the Russian Federation
+11|2014|A police killing sets off protests in Ferguson, Missouri|Ferguson unrest
+11|2015|Same-sex marriage becomes legal nationwide|Obergefell v. Hodges
+11|2015|Nations adopt the Paris climate agreement|Paris Agreement
+11|2016|Britain votes to leave the European Union|2016 United Kingdom European Union membership referendum
+11|2016|Donald Trump is elected president|2016 United States presidential election
+12|2017|The #MeToo movement spreads worldwide|MeToo movement
+12|2017|White nationalists rally in Charlottesville; a counterprotester is killed|Unite the Right rally
+12|2018|A school shooting in Parkland, Florida sparks a student movement|Parkland high school shooting
+12|2019|The House impeaches President Trump for the first time|First impeachment of Donald Trump
+12|2020|The COVID-19 pandemic begins|COVID-19 pandemic
+12|2020|The murder of George Floyd sets off nationwide protests|George Floyd protests
+12|2020|Joe Biden is elected president|2020 United States presidential election
+12|2021|Rioters attack the U.S. Capitol|January 6 United States Capitol attack
+12|2021|COVID-19 vaccines reach the general public|COVID-19 vaccination in the United States
+12|2021|U.S. forces leave Afghanistan and the Taliban retake Kabul|Fall of Kabul (2021)
+12|2021|A global surge in inflation begins|2021–2023 inflation
+12|2022|Russia launches a full-scale invasion of Ukraine|Russian invasion of Ukraine
+12|2022|The Supreme Court overturns Roe v. Wade|Dobbs v. Jackson Women's Health Organization
+12|2022|ChatGPT brings generative AI to a mass audience|ChatGPT
+12|2023|Hamas attacks Israel and the Gaza war begins|Gaza war
+12|2024|Donald Trump survives a shooting at a rally in Pennsylvania|Attempted assassination of Donald Trump in Pennsylvania
+12|2024|Donald Trump is elected president again|2024 United States presidential election
+12|2025|Sweeping new tariffs shake world trade|Tariffs in the second Trump administration
+12|2026|The U.S. captures Venezuela's president, Nicolás Maduro|2026 United States intervention in Venezuela
+12|2026|A U.S. and Israeli war with Iran begins|2026 Iran war

@@ -1,0 +1,207 @@
+# piece|phrase in the text|Wikipedia title
+era-1|rapid industrialization|Second Industrial Revolution
+era-1|massive European immigration|Immigration to the United States
+era-1|Jim Crow segregation|Jim Crow laws
+era-1|entered World War I|American entry into World War I
+era-1|Tin Pan Alley|Tin Pan Alley
+over-there|entered World War I|American entry into World War I
+over-there|national mobilization|United States home front during World War I
+in-the-good-old-summer-time|turn-of-the-century leisure culture|Progressive Era
+shine-on-harvest-moon|Ziegfeld Follies of 1908|Ziegfeld Follies
+era-2|Constitutional Prohibition|Prohibition in the United States
+era-2|illegal speakeasies|Speakeasy
+era-2|First Great Migration|Great Migration (African American)
+era-2|Harlem Renaissance|Harlem Renaissance
+era-2|Jazz Age|Jazz Age
+era-2|Roaring Twenties|Roaring Twenties
+era-2|race records|Race record
+charleston|signature dance craze|Charleston (dance)
+charleston|Prohibition era|Prohibition in the United States
+era-3|Wall Street crash of 1929|Wall Street crash of 1929
+era-3|Great Depression|Great Depression
+era-3|Dust Bowl|Dust Bowl
+era-3|New Deal programs|New Deal
+era-3|outbreak of World War II|World War II
+era-3|restructuring the domestic workforce|United States home front during World War II
+brother-can-you-spare-a-dime|Great Depression|Great Depression
+brother-can-you-spare-a-dime|proud veteran|Bonus Army
+it-dont-mean-a-thing-if-it-aint-got-that-swing|Swing Era|Swing era
+sing-sing-sing-with-a-swing|late Depression years|Great Depression
+strange-fruit|Southern lynchings|Lynching in the United States
+in-the-mood|American home-front morale|United States home front during World War II
+this-land-is-your-land|relief office|New Deal
+ill-be-seeing-you|World War II|World War II
+era-4|rapid economic expansion|Post–World War II economic expansion
+era-4|suburban growth|Suburbanization
+era-4|car culture|Effects of the car on societies
+era-4|Cold War|Cold War
+era-4|Red Scare|McCarthyism
+era-4|segregation|Racial segregation in the United States
+era-4|Brown v. Board of Education|Brown v. Board of Education
+get-your-kicks-on-route-66|post-war highway travel|U.S. Route 66
+era-5|Civil Rights movement|Civil rights movement
+era-5|Montgomery Bus Boycott|Montgomery bus boycott
+era-5|freedom rides|Freedom Riders
+era-5|1963 March on Washington|March on Washington for Jobs and Freedom
+era-5|post-war economic growth|Post–World War II economic expansion
+era-5|youth culture|Youth culture
+blowin-in-the-wind|Civil Rights movement|Civil rights movement
+blowin-in-the-wind|anti-war movement|Opposition to United States involvement in the Vietnam War
+era-6|Vietnam War|Vietnam War
+era-6|student anti-war protests|Opposition to United States involvement in the Vietnam War
+era-6|Civil Rights Act of 1964|Civil Rights Act of 1964
+era-6|Voting Rights Act of 1965|Voting Rights Act of 1965
+era-6|Martin Luther King Jr.|Assassination of Martin Luther King Jr.
+era-6|Robert F. Kennedy|Assassination of Robert F. Kennedy
+era-6|urban unrest|Ghetto riots (1964–1969)
+era-6|counterculture|Counterculture of the 1960s
+era-6|1969 Woodstock festival|Woodstock
+era-6|British Invasion|British Invasion
+i-want-to-hold-your-hand|British Invasion|British Invasion
+i-want-to-hold-your-hand|President Kennedy's assassination|Assassination of John F. Kennedy
+a-change-is-gonna-come|Civil Rights movement|Civil rights movement
+respect|Civil Rights movement|Civil rights movement
+respect|women's liberation|Women's liberation movement
+say-it-loud-im-black-and-im-proud|assassination of Martin Luther King Jr.|Assassination of Martin Luther King Jr.
+say-it-loud-im-black-and-im-proud|Black Power movement|Black Power movement
+fortunate-son|Vietnam military draft|Conscription in the United States
+era-7|Vietnam War|Vietnam War
+era-7|Watergate scandal|Watergate scandal
+era-7|1973 oil crisis|1973 oil crisis
+era-7|stagflation|Stagflation
+era-7|political rise of Ronald Reagan|Ronald Reagan
+whats-going-on|returning Vietnam veterans|Vietnam veteran
+era-8|President Ronald Reagan|Presidency of Ronald Reagan
+era-8|economic deregulation|Reaganomics
+era-8|AIDS epidemic|HIV/AIDS in the United States
+era-8|activist movements|ACT UP
+era-8|fall of the Berlin Wall|Fall of the Berlin Wall
+era-8|conclusion of the Cold War|Cold War (1985–1991)
+era-8|1981 launch of MTV|MTV
+the-message|urban poverty|Urban decay
+born-in-the-u-s-a|returning Vietnam veterans|Vietnam veteran
+vogue|underground ballroom dance subculture|Ball culture
+era-9|collapse of the Soviet Union|Dissolution of the Soviet Union
+era-9|economic expansion|1990s United States boom
+era-9|birth of the consumer internet|History of the Internet
+era-9|urban crime legislation|Violent Crime Control and Law Enforcement Act
+era-9|social values|Culture war
+era-9|Napster|Napster
+smells-like-teen-spirit|Gen-X disillusionment|Generation X
+era-10|September 11 terrorist attacks|September 11 attacks
+era-10|War on Terror|War on terror
+era-10|Afghanistan|War in Afghanistan (2001–2021)
+era-10|Iraq|Iraq War
+era-10|civil liberties|Patriot Act
+era-10|2008 subprime mortgage crisis|Subprime mortgage crisis
+era-10|Great Recession|Great Recession
+courtesy-of-the-red-white-and-blue-the-angry-ame|September 11|September 11 attacks
+where-is-the-love|post-9/11 warfare|War on terror
+american-idiot|Iraq War era|Iraq War
+era-11|Great Recession|Great Recession
+era-11|Barack Obama's presidency|Presidency of Barack Obama
+era-11|Black Lives Matter|Black Lives Matter
+era-11|Legalization of same-sex marriage|Same-sex marriage in the United States
+era-11|2016 election|2016 United States presidential election
+alright|police brutality|Police brutality in the United States
+alright|Black Lives Matter demonstrations|Black Lives Matter
+formation|Super Bowl halftime performance|Super Bowl 50 halftime show
+era-12|political polarization|Political polarization in the United States
+era-12|economic inflation|2021–2023 inflation
+era-12|COVID-19 pandemic|COVID-19 pandemic
+era-12|lockdown isolation|COVID-19 lockdowns
+era-12|artificial intelligence|AI boom
+this-is-america|gun violence|Gun violence in the United States
+this-is-america|racism|Racism in the United States
+blinding-lights|COVID-19 pandemic|COVID-19 pandemic
+all-too-well|master recordings|Taylor Swift masters dispute
+wildwood-flower|first recordings in Bristol, Tennessee|Bristol sessions
+cross-road-blues|folk revival|American folk music revival
+over-the-rainbow|The Wizard of Oz|The Wizard of Oz
+over-the-rainbow|hardship of the same decade|Great Depression
+sixteen-tons|scrip|Company scrip
+sixteen-tons|company store|Company store
+la-bamba|February 1959 plane crash|The Day the Music Died
+crazy|Nashville sound|Nashville sound
+you-dont-own-me|The Feminine Mystique|The Feminine Mystique
+you-dont-own-me|women's independence|Second-wave feminism
+big-yellow-taxi|first Earth Day|Earth Day
+big-yellow-taxi|environmental movement|Environmental movement in the United States
+another-brick-in-the-wall|South Africa's unequal schools|Bantu Education Act, 1953
+another-brick-in-the-wall|apartheid government|Apartheid
+fast-car|poverty|Poverty in the United States
+fast-car|London concert for Nelson Mandela's seventieth birthday|Nelson Mandela 70th Birthday Tribute
+gasolina|reggaeton|Reggaeton
+dust-on-the-wind|artificial intelligence|Music and artificial intelligence
+dust-on-the-wind|wax cylinders|Phonograph cylinder
+golden|K-pop song|K-pop
+calm-down|Afrobeats love song|Afrobeats
+b-1|Plessy v. Ferguson|Plessy v. Ferguson
+b-1|Jim Crow laws|Jim Crow laws
+b-1|rapid industrialization|Second Industrial Revolution
+b-1|peak European immigration|Immigration to the United States
+b-1|Spanish-American War|Spanish–American War
+b-1|entry into World War I|American entry into World War I
+b-2|18th (Prohibition)|Eighteenth Amendment to the United States Constitution
+b-2|19th (Women's Suffrage)|Nineteenth Amendment to the United States Constitution
+b-2|First Great Migration|Great Migration (African American)
+b-2|1929 Wall Street crash|Wall Street crash of 1929
+b-3|Great Depression|Great Depression
+b-3|New Deal programs|New Deal
+b-3|Dust Bowl|Dust Bowl
+b-3|World War II|World War II
+b-4|Post-WWII economic expansion|Post–World War II economic expansion
+b-4|suburbanization|Suburbanization
+b-4|Cold War|Cold War
+b-4|Red Scare|McCarthyism
+b-4|Brown v. Board of Education|Brown v. Board of Education
+b-5|Civil Rights movement|Civil rights movement
+b-5|Montgomery Bus Boycott|Montgomery bus boycott
+b-5|March on Washington|March on Washington for Jobs and Freedom
+b-5|Cuban Missile Crisis|Cuban Missile Crisis
+b-5|JFK assassination|Assassination of John F. Kennedy
+b-6|Vietnam War|Vietnam War
+b-6|Civil Rights Act (1964)|Civil Rights Act of 1964
+b-6|Voting Rights Act (1965)|Voting Rights Act of 1965
+b-6|MLK|Assassination of Martin Luther King Jr.
+b-6|RFK|Assassination of Robert F. Kennedy
+b-6|counterculture boom|Counterculture of the 1960s
+b-6|Woodstock festival|Woodstock
+b-7|End of the Vietnam War|Fall of Saigon
+b-7|Watergate scandal|Watergate scandal
+b-7|1973 oil crisis|1973 oil crisis
+b-7|economic stagflation|Stagflation
+b-7|election of Ronald Reagan|1980 United States presidential election
+b-8|Reaganomics|Reaganomics
+b-8|AIDS epidemic|HIV/AIDS in the United States
+b-8|Cold War|Cold War (1985–1991)
+b-8|Fall of the Berlin Wall|Fall of the Berlin Wall
+b-8|Gulf War|Gulf War
+b-9|Post-Cold War unipolar era|Post–Cold War era
+b-9|1990s economic expansion|1990s United States boom
+b-9|early commercial internet adoption|History of the Internet
+b-9|culture wars|Culture war
+b-9|1990s urban crime bills|Violent Crime Control and Law Enforcement Act
+b-10|September 11 terrorist attacks|September 11 attacks
+b-10|Afghanistan|War in Afghanistan (2001–2021)
+b-10|Iraq|Iraq War
+b-10|2008 housing crash|Subprime mortgage crisis
+b-10|Great Recession|Great Recession
+b-11|Great Recession|Great Recession
+b-11|Obama presidency|Presidency of Barack Obama
+b-11|Black Lives Matter|Black Lives Matter
+b-11|legalization of same-sex marriage|Obergefell v. Hodges
+b-11|2016 presidential election|2016 United States presidential election
+b-12|political polarization|Political polarization in the United States
+b-12|COVID-19 global pandemic|COVID-19 pandemic
+b-12|lockdown isolation|COVID-19 lockdowns
+b-12|economic inflation|2021–2023 inflation
+b-12|Artificial Intelligence|AI boom
+get-your-kicks-on-route-66|Green Book|The Negro Motorist Green Book
+sing-sing-sing-with-a-swing|concert at Carnegie Hall|The Famous 1938 Carnegie Hall Jazz Concert
+fortunate-son|David Eisenhower|David Eisenhower
+stayin-alive|At a Chicago ballpark in July 1979|Disco Demolition Night
+born-in-the-u-s-a|campaign stop in September 1984|Ronald Reagan 1984 presidential campaign
+home|Great Migration|Great Migration (African American)
+home|Tin Pan Alley|Tin Pan Alley
+home|British bands|British Invasion

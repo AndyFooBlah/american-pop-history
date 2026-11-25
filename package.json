@@ -1,0 +1,31 @@
+{
+  "name": "pop-history",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 5211 --strictPort",
+    "build": "tsc --noEmit && vite build && node scripts/scan-bundle.mjs",
+    "test": "node --test scripts/*.test.mjs",
+    "check": "node --test scripts/*.test.mjs && tsc --noEmit",
+    "prebuild": "node scripts/build-content.mjs",
+    "predev": "node scripts/build-content.mjs"
+  },
+  "devDependencies": {
+    "@fontsource-variable/archivo": "^5.3.0",
+    "@fontsource-variable/newsreader": "^5.3.0",
+    "@fontsource/audiowide": "^5.3.0",
+    "@fontsource/bowlby-one": "^5.3.0",
+    "@fontsource/limelight": "^5.3.0",
+    "@fontsource/permanent-marker": "^5.3.0",
+    "@fontsource/poiret-one": "^5.3.0",
+    "@fontsource/poppins": "^5.3.0",
+    "@fontsource/righteous": "^5.3.0",
+    "@fontsource/shrikhand": "^5.3.0",
+    "@fontsource/syncopate": "^5.3.0",
+    "@fontsource/unbounded": "^5.3.0",
+    "@fontsource/vast-shadow": "^5.3.0",
+    "@fontsource/yellowtail": "^5.3.0",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.8"
+  }
+}

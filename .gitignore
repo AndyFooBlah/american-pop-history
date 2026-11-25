@@ -1,0 +1,10 @@
+node_modules
+dist
+public
+narration
+.env*
+.spotify-*
+.firebase
+.DS_Store
+*-debug.log
+data/src/wiki-cache.json

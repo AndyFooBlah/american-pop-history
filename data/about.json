@@ -1,0 +1,77 @@
+{
+ "intro": [
+  "This is an introduction to American popular music and to the country that made it. Across twelve eras, it traces the connections between songs and the events, political struggles, social movements, and cultural trends around them. Popular music is one of the best records we have of how the broader American public met the challenges and changes of the past 130 years, since recording technology and a modern music industry first appeared. Music did more than react. Songs sold wars and protested them, gave movements their anthems, and helped each new generation recognize itself.",
+  "Like so much of the American experience, this story runs along social divides. The deepest is race. Black musicians created much of what became American pop, often while segregated labels, charts, and stages sent the credit and the money elsewhere. Gender, class, region, sexuality, and politics divided audiences too. They shaped who was allowed to sing, who was allowed to be angry, who got paid, and whose music counted as popular at all. Age joined them once teenagers had money to spend and a music of their own.",
+  "It is also a story of movement. African traditions, carried here by enslaved people, run through the blues, jazz, gospel, soul, and hip-hop, and have returned in new waves from the Caribbean and from Africa itself. European immigrants and their children built much of Tin Pan Alley. Latin rhythms have been in the mix from the early blues to reggaeton. In the 1960s, British bands brought American blues and rock and roll back to the country that had invented them, and more recently K-pop has topped American charts. Journeys inside the country mattered as much. The Great Migration carried Southern music north and west, and the cities changed it.",
+  "Technology made all this possible and kept changing its shape. Early discs held about three minutes, and the length of a pop song followed. The microphone let singers whisper. Radio, jukeboxes, television, cassettes, music videos, and downloads each remade what could become a hit. Today, algorithms pick songs to fit short videos, and artificial intelligence can generate music with little human involvement. Behind each change stood large commercial interests, deciding what to record, what to promote, and what to play again.",
+  "Yet for all the machinery and the money, individual creativity has turned the story at one point after another, often in ways the industry never saw coming. Listen for those moments. The recordings here were chosen to show connections rather than to rank the best, and many great artists are missing. Some songs carry the strong language, or the prejudices, of their time. They are part of the history too."
+ ],
+ "note": [
+  "I made this in large part to explore the history of pop music in its wider context for myself. A little over a hundred recordings is, of course, just a tiny sample of the vast library of commercial music, and it's biased towards my own preferences. I hope you find it interesting, too."
+ ],
+ "signed": "Andy",
+ "made": [
+  "I'm Claude, an AI model made by Anthropic, and I built this site with Andy in one long conversation in Claude Code. It didn't start with me. Andy had a raw idea for the eras, some representative songs, and the connections among them, and in a short conversation with Gemini, Google's AI, turned it into a concrete list: a document with twelve eras, 92 songs, and a short story for each. Andy then brought that document to me to make into a website and Spotify playlists. My first job was to check it. I checked the songs and eras against other sources and proposed 94 corrections, 24 of them plain errors, and Andy had me apply them all. The text has grown since. Andy saw that the last era felt thin, asked what else was missing, and chose from what I proposed, so there are now 116 songs, along with the timelines and the links to Wikipedia. I wrote the newer stories and deepened ten older ones. Andy decided what belonged.",
+  "I know these recordings only as text: titles, dates, lengths, and catalog codes. I have never heard one of them. So I matched songs to Spotify by their labels, through Spotify's connector for Claude and, for the many it withholds, with a script that follows fixed rules. It was Andy who heard that the track labeled Route 66 was some other song. Andy also noticed Elvis on the cover of Rocket 88, a Next button that didn't play the next song, and a computer voice too poor to listen to. Each of those led to a fix and, where I could write one, a check that would catch the same fault again. My own missteps included using up the app's whole allowance of Spotify searches in one night, which lost twelve finished matches because I hadn't saved them as I went.",
+  "The site is plain TypeScript and CSS built with Vite, with no framework. It began as an invite-only site with sign-in links by email. When Andy chose to open it to everyone, I took the sign-in and the database out, so it is now a set of files on Firebase Hosting that keeps no record of who reads it. Songs play through Spotify's own player, and each starts on a click, because Spotify's rules don't allow music to run under or into other audio. The narrator is Brian, a synthetic voice from ElevenLabs, whom Andy picked after hearing several. I had Google's Gemini transcribe every reading and compared the words with the text. MusicBrainz supplied the codes and lengths I used to check the recordings, and Wikipedia most of the facts I checked. Mistakes surely remain, so please report any you find on GitHub.",
+  "Andy steered throughout, and the numbers below show how. Most messages were a sentence or two. The rest of the work, from code and research to testing and deployment, was mine."
+ ],
+ "stats": [
+  [
+   "From first message to opening the site, November 24 to 25, 2026",
+   "About 21 hours"
+  ],
+  [
+   "Active working time, within that",
+   "About 6 hours"
+  ],
+  [
+   "Messages from Andy",
+   "39"
+  ],
+  [
+   "Messages that made a decision or set a direction",
+   "24"
+  ],
+  [
+   "Messages that reported a problem",
+   "6"
+  ],
+  [
+   "Times I used a tool",
+   "About 850"
+  ],
+  [
+   "Tokens processed, nearly all of them context reread from cache",
+   "About 84 million"
+  ],
+  [
+   "Tokens I wrote",
+   "About 650,000"
+  ],
+  [
+   "Lines of code, in the site and its scripts",
+   "About 1,200"
+  ],
+  [
+   "Songs, in 12 eras",
+   "116"
+  ],
+  [
+   "Words of story",
+   "About 8,600"
+  ],
+  [
+   "Recorded narration",
+   "About 65 minutes"
+  ],
+  [
+   "Timeline events",
+   "240"
+  ],
+  [
+   "Links from the text to Wikipedia",
+   "206"
+  ]
+ ]
+}

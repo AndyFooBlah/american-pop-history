@@ -1,0 +1,1354 @@
+[
+ {
+  "n": 1,
+  "title": "The Gilded Age, Segregation & World War I",
+  "start": 1890,
+  "end": 1918,
+  "boundaries": "The consolidation of Jim Crow laws (Plessy v. Ferguson), rapid industrialization, peak European immigration, the Spanish-American War, and America's eventual entry into World War I.",
+  "trends": "Birth of sheet music publishing industry (Tin Pan Alley); popularization of syncopated rhythms via Ragtime; transition from brass band marches to early pop ballads and vaudeville stage songs; first published blues compositions (from 1912).",
+  "tech": "Music boxes, piano rolls, commercial cylinders and early shellac discs competing side by side; dominance of sheet music sales as the primary driver of commercial success.",
+  "songs": [
+   {
+    "id": "after-the-ball",
+    "title": "After the Ball",
+    "artistAsWritten": "George J. Gaskin",
+    "dateAsWritten": "c. 1893",
+    "significance": "Often described as the first Tin Pan Alley sheet music hit to sell millions of copies, establishing the commercial blueprint for early American pop songcraft.",
+    "artist": "George J. Gaskin",
+    "playlistLine": "After the Ball - George J. Gaskin",
+    "narration": "We open with a song recorded around 1893 by Irish-born vocalist George J. Gaskin. Written by Charles K. Harris, this sentimental waltz is often described as the first sheet music hit to sell millions of copies. It established the commercial blueprint for Tin Pan Alley, demonstrating that popular music could become a lucrative national industry."
+   },
+   {
+    "id": "maple-leaf-rag",
+    "title": "Maple Leaf Rag",
+    "artistAsWritten": "Scott Joplin",
+    "dateAsWritten": "1899 / 1916 piano roll",
+    "significance": "Polyrhythmic piano composition that popularized ragtime nationwide, bridging Black folk syncopation and formal notation.",
+    "artist": "Scott Joplin",
+    "playlistLine": "Maple Leaf Rag - Scott Joplin",
+    "narration": "Next is Scott Joplin's masterwork, reproduced here from a 1916 piano roll credited to Joplin. Joplin was an African American composer whose polyrhythmic genius brought ragtime into mainstream culture. By combining Black syncopated rhythms with classical formal structure, Joplin created a nationwide musical craze that permanently altered American pop music."
+   },
+   {
+    "id": "in-the-good-old-summer-time",
+    "title": "In the Good Old Summer Time",
+    "artistAsWritten": "Haydn Quartet",
+    "dateAsWritten": "1902",
+    "significance": "Defining early vaudeville-style parlor song standard reflecting turn-of-the-century leisure culture.",
+    "artist": "Haydn Quartet",
+    "playlistLine": "In the Good Old Summer Time - Haydn Quartet",
+    "narration": "First recorded in November 1902 by the Haydn Quartet, with tenors John Bieling and Harry Macdonough, this parlor song captures turn-of-the-century leisure culture. Introduced on Broadway in 1902, its cheerful harmony and memorable waltz melody made it an instant public favorite. It stands as a prime example of the accessible, comforting pop standards of early twentieth-century urban entertainment."
+   },
+   {
+    "id": "shine-on-harvest-moon",
+    "title": "Shine On, Harvest Moon",
+    "artistAsWritten": "Harry Macdonough & Miss Walton (Elise Stevenson)",
+    "dateAsWritten": "1909",
+    "significance": "Classic vaudeville duet that became a foundational pop standard recorded across multiple eras.",
+    "artist": "Harry Macdonough & Elise Stevenson",
+    "playlistLine": "Shine On, Harvest Moon - Harry Macdonough & Elise Stevenson",
+    "narration": "Nora Bayes and Jack Norworth, a famous husband-and-wife vaudeville team, introduced this song in the Ziegfeld Follies of 1908, and the published credit is theirs. Their own recording was never released, so we hear Harry Macdonough and Elise Stevenson, in one of the first records made of it. Its catchy chorus and romantic narrative captivated audiences across the country. It quickly became a quintessential American pop standard, re-recorded by generations of performers."
+   },
+   {
+    "id": "st-louis-blues",
+    "title": "St. Louis Blues",
+    "artistAsWritten": "W.C. Handy / Prince's Band",
+    "dateAsWritten": "1915",
+    "significance": "Codified blues harmonic structures into published music, introducing rural Southern Black musical forms to mainstream urban audiences.",
+    "artist": "Prince's Band",
+    "playlistLine": "St. Louis Blues - Prince's Band",
+    "narration": "Published by W.C. Handy in 1914 and recorded in December 1915 by Prince's Band, this instrumental is regarded as the first recording of the song. It codified rural Black blues structures into published music. Handy integrated southern blues phrasing with tango rhythms and pop song forms. The song would go on to introduce wide audiences to the emotional depth of the blues, bridging southern folk heritage and national popular culture."
+   },
+   {
+    "id": "over-there",
+    "title": "Over There",
+    "artistAsWritten": "Enrico Caruso",
+    "dateAsWritten": "written 1917, recorded 1918",
+    "significance": "Iconic patriotic anthem defining American entry into World War I, demonstrating music's power for mass political mobilization.",
+    "artist": "Enrico Caruso",
+    "playlistLine": "Over There - Enrico Caruso",
+    "narration": "We close Era 1 with George M. Cohan's legendary war song, written in 1917 and performed here in July 1918 by world-renowned operatic tenor Enrico Caruso, who sings it in English and then French. Written as the United States entered World War I, its martial brass and urgent lyrics galvanized American patriotism. This record demonstrated how popular music could serve as a unifying tool for national mobilization in times of global crisis."
+   }
+  ],
+  "playlistTitle": "Pop History 01 (1890–1918): Gilded Age to WWI",
+  "intro": [
+   "Welcome to our exploration of American popular music. We begin in the last decade of the nineteenth century, a period defined by rapid industrialization, massive European immigration, and deep social divides under Jim Crow segregation. As cities expanded and the nation entered World War I, commercial music emerged as a powerful force in everyday life. Sheet music publishing centered in New York's Tin Pan Alley transformed songs into mass consumer products, while early brass bands and vaudeville stages entertained millions.",
+   "At the same time, syncopated African American rhythms began reshaping the cultural soundscape. Ragtime piano and the first published blues bridged rural folk traditions and urban markets, establishing the foundation of American pop songcraft. Mechanical music boxes, piano rolls, and fragile shellac discs allowed music to enter American homes in ways never before possible. These six recordings capture a society moving from nineteenth-century parlor traditions into the modern industrial age."
+  ]
+ },
+ {
+  "n": 2,
+  "title": "Prohibition, The Great Migration & The Roaring Twenties",
+  "start": 1919,
+  "end": 1929,
+  "boundaries": "Passage of the 18th (Prohibition) and 19th (Women's Suffrage) Amendments, the First Great Migration of African Americans to Northern urban centers, economic boom, and the 1929 Wall Street crash.",
+  "trends": "The \"Jazz Age\"; explosion of commercial \"race records\" and \"hillbilly music\"; Harlem Renaissance; speakeasy dance culture; formal orchestration of jazz.",
+  "tech": "Advent of commercial AM radio broadcasting; electrical recording techniques replacing acoustic horns (1925), introducing higher fidelity and crooning vocal styles; introduction of sound films (*The Jazz Singer*, 1927).",
+  "songs": [
+   {
+    "id": "crazy-blues",
+    "title": "Crazy Blues",
+    "artistAsWritten": "Mamie Smith",
+    "dateAsWritten": "1920",
+    "significance": "First vocal blues recording by an African American singer, revealing a massive untapped market and launching the \"race records\" industry.",
+    "artist": "Mamie Smith",
+    "playlistLine": "Crazy Blues - Mamie Smith",
+    "narration": "In 1920, vaudeville singer Mamie Smith made music history with the first vocal blues record by an African American singer. Supported by her Jazz Hounds, Smith's powerful vocal delivery reportedly sold seventy-five thousand copies in its first months. This surprise commercial sensation revealed a massive market for Black musicians, launching the race records industry."
+   },
+   {
+    "id": "charleston",
+    "title": "Charleston",
+    "artistAsWritten": "Arthur Gibbs & His Gang (composed by James P. Johnson and Cecil Mack)",
+    "dateAsWritten": "1923",
+    "significance": "Emblematic anthem of the Roaring Twenties that defined the signature dance craze of the Prohibition era.",
+    "artist": "Arthur Gibbs & His Gang",
+    "playlistLine": "Charleston - Arthur Gibbs & His Gang",
+    "narration": "Composed by Harlem stride piano master James P. Johnson with lyricist Cecil Mack, and recorded here in October 1923 by Arthur Gibbs and His Gang, this track helped define the signature dance craze of the 1920s. Featured in the Black Broadway musical Runnin' Wild, its driving syncopation captivated youth culture worldwide. It remains one of the most recognizable musical symbols of the Prohibition era."
+   },
+   {
+    "id": "rhapsody-in-blue",
+    "title": "Rhapsody in Blue",
+    "artistAsWritten": "Paul Whiteman & His Orchestra with George Gershwin",
+    "dateAsWritten": "1924",
+    "significance": "High-profile fusion of African American jazz idioms with classical symphonic arrangements, elevating jazz into concert halls.",
+    "artist": "George Gershwin & Paul Whiteman",
+    "playlistLine": "Rhapsody in Blue - George Gershwin & Paul Whiteman",
+    "narration": "This June 1924 recording, shortened to fit two sides of a disc, features George Gershwin on piano with Paul Whiteman's orchestra. Gershwin fused jazz harmonies and syncopated rhythms with classical symphonic orchestrations. Premiered at New York's Aeolian Hall, it sparked intense debates about high art and popular culture, successfully bringing jazz idioms into prestigious concert halls."
+   },
+   {
+    "id": "my-blue-heaven",
+    "title": "My Blue Heaven",
+    "artistAsWritten": "Gene Austin",
+    "dateAsWritten": "1927",
+    "significance": "Early masterclass in intimate \"crooning\" style, made possible by the introduction of the electric microphone.",
+    "artist": "Gene Austin",
+    "playlistLine": "My Blue Heaven - Gene Austin",
+    "narration": "Tenor Gene Austin recorded this warm ballad in 1927, creating one of the best-selling records of the pre-digital era. Made possible by the recent introduction of electric microphones, Austin's conversational vocal tone helped pioneer the crooning technique. The song provided a comforting vision of domestic happiness during an era of rapid social change."
+   },
+   {
+    "id": "west-end-blues",
+    "title": "West End Blues",
+    "artistAsWritten": "Louis Armstrong & His Hot Five",
+    "dateAsWritten": "1928",
+    "significance": "Revolutionary trumpet intro and virtuosic improvisation that came to symbolize the shift in jazz from ensemble dance music to a soloist's art form.",
+    "artist": "Louis Armstrong",
+    "playlistLine": "West End Blues - Louis Armstrong",
+    "narration": "Recorded in 1928 by Louis Armstrong and His Hot Five, this performance fundamentally altered the direction of American music. Armstrong's opening unaccompanied trumpet cadenza displayed breathtaking speed, tone, and rhythmic sophistication. The recording came to symbolize the shift in jazz from collective improvisation to the virtuoso soloist."
+   },
+   {
+    "id": "wildwood-flower",
+    "title": "Wildwood Flower",
+    "artistAsWritten": "The Carter Family",
+    "dateAsWritten": "1928",
+    "significance": "Foundational country recording that carried a nineteenth-century parlor song into the record age.",
+    "artist": "The Carter Family",
+    "playlistLine": "Wildwood Flower - The Carter Family",
+    "narration": "The Carter Family of Virginia made their first recordings in Bristol, Tennessee, in 1927, and this one followed for Victor in 1928. The song began as a parlor piece published in 1860 and changed as it was handed down by ear. Maybelle Carter plays melody and rhythm at once on a single guitar, a technique later called the Carter scratch. It became a cornerstone of country music and a model for generations of guitarists."
+   },
+   {
+    "id": "makin-whoopee",
+    "title": "Makin' Whoopee",
+    "artistAsWritten": "Eddie Cantor",
+    "dateAsWritten": "1928",
+    "significance": "Musical theater hit capturing the cynical humor, sexual revolution, and lifestyle trends of late 1920s Broadway.",
+    "artist": "Eddie Cantor",
+    "playlistLine": "Makin' Whoopee - Eddie Cantor",
+    "narration": "We close Era 2 with Eddie Cantor's 1928 performance from the hit Broadway musical Whoopee! Written by Walter Donaldson and Gus Kahn, the song uses lyrical wit to offer a cynical look at courtship and marriage. It captures the sophisticated humor and changing social values of late-1920s theatrical pop culture."
+   }
+  ],
+  "playlistTitle": "Pop History 02 (1919–1929): Jazz Age & Roaring Twenties",
+  "intro": [
+   "The 1920s brought unprecedented cultural velocity to the United States. Constitutional Prohibition transformed nightlife, giving rise to illegal speakeasies where young urbanites gathered to dance. Meanwhile, the First Great Migration brought more than a million African Americans from the rural South into Northern industrial hubs like Chicago, Detroit, and New York, sparking cultural explosions like the Harlem Renaissance.",
+   "This dynamic decade birthed the Jazz Age. Commercial record labels recognized new markets, giving rise to race records and hillbilly recordings. Technological innovations transformed the industry as electrical microphones replaced acoustic recording horns in 1925, allowing subtle crooning styles to emerge alongside booming big bands. These seven selections illustrate the energy, glamour, and artistic breakthroughs of the Roaring Twenties."
+  ]
+ },
+ {
+  "n": 3,
+  "title": "The Great Depression, The New Deal & World War II",
+  "start": 1929,
+  "end": 1945,
+  "boundaries": "The Great Depression, FDR's New Deal programs, the Dust Bowl, and total global mobilization during World War II.",
+  "trends": "Dominance of Big Band Swing as mainstream pop; escapist Hollywood musicals; populist political folk songs; poignant ballads of separation and wartime longing.",
+  "tech": "Jukebox proliferation sustaining record sales during economic slump; national network radio (CBS, NBC) standardizing national taste; cheap 35-cent records from Decca (1934).",
+  "songs": [
+   {
+    "id": "brother-can-you-spare-a-dime",
+    "title": "Brother, Can You Spare a Dime?",
+    "artistAsWritten": "Bing Crosby",
+    "dateAsWritten": "1932",
+    "significance": "Dark, realistic musical portrait of Great Depression desperation, capturing popular disillusionment.",
+    "artist": "Bing Crosby",
+    "playlistLine": "Brother, Can You Spare a Dime? - Bing Crosby",
+    "narration": "Recorded in 1932, Bing Crosby's haunting rendition of this E.Y. Harburg and Jay Gorney composition gave voice to the Great Depression. Instead of offering light escapism, the song directly confronted economic collapse through the eyes of a proud veteran left penniless. Crosby's expressive crooning made it a defining cultural reflection of early 1930s hardship."
+   },
+   {
+    "id": "it-dont-mean-a-thing-if-it-aint-got-that-swing",
+    "title": "It Don't Mean a Thing (If It Ain't Got That Swing)",
+    "artistAsWritten": "Duke Ellington & His Orchestra",
+    "dateAsWritten": "1932",
+    "significance": "Early landmark recording that presaged and named the Swing Era, showcasing sophisticated big-band arranging.",
+    "artist": "Duke Ellington",
+    "playlistLine": "It Don't Mean a Thing (If It Ain't Got That Swing) - Duke Ellington",
+    "narration": "Recorded in 1932 featuring vocalist Ivie Anderson, Duke Ellington's landmark track gave the upcoming decade its name and rhythm. Ellington's sophisticated big band arrangement combined driving swing beats with inventive horn voicings. This release presaged the Swing Era, proving that complex orchestral jazz could remain broadly accessible to popular dance audiences."
+   },
+   {
+    "id": "cross-road-blues",
+    "title": "Cross Road Blues",
+    "artistAsWritten": "Robert Johnson",
+    "dateAsWritten": "1936",
+    "significance": "Delta blues recording, little heard in its day, that became a foundation of rock.",
+    "artist": "Robert Johnson",
+    "playlistLine": "Cross Road Blues - Robert Johnson",
+    "narration": "Robert Johnson recorded this in San Antonio, Texas, in November 1936, alone with a slide guitar. The single sold mainly around the Mississippi Delta, and Johnson died in 1938 little known beyond it. A 1961 album brought the recordings to the folk revival and then to British rock, where Cream, with Eric Clapton, turned this song into Crossroads in 1968. Few records show more clearly how Black Southern music became the foundation of rock."
+   },
+   {
+    "id": "sing-sing-sing-with-a-swing",
+    "title": "Sing, Sing, Sing (With a Swing)",
+    "artistAsWritten": "Benny Goodman & His Orchestra",
+    "dateAsWritten": "1937",
+    "significance": "High-energy instrumental performance that solidified swing as America's dominant pop music and confirmed Goodman as the \"King of Swing\"; composed by Louis Prima.",
+    "artist": "Benny Goodman",
+    "playlistLine": "Sing, Sing, Sing (With a Swing) - Benny Goodman",
+    "narration": "Clarinetist Benny Goodman and his orchestra recorded this energetic instrumental in 1937, featuring powerful drumming from Gene Krupa. Goodman's band bridged racial divides by hiring Black arrangers and soloists, bringing swing into mainstream ballrooms. In January 1938, it was the climax of Goodman's landmark concert at Carnegie Hall, where members of the Count Basie and Duke Ellington bands joined him on stage at a time when integrated performance was still rare. This track became a defining anthem of youth energy during the late Depression years."
+   },
+   {
+    "id": "strange-fruit",
+    "title": "Strange Fruit",
+    "artistAsWritten": "Billie Holiday",
+    "dateAsWritten": "1939",
+    "significance": "Uncompromising musical protest against Southern lynching, serving as an early artistic foundation for the Civil Rights movement.",
+    "artist": "Billie Holiday",
+    "playlistLine": "Strange Fruit - Billie Holiday",
+    "narration": "In 1939, jazz vocalist Billie Holiday recorded Abel Meeropol's uncompromising poem confronting Southern lynchings. Despite reluctance from major record labels, Holiday recorded the song with Commodore Records, delivering a quiet, solemn performance. It stands as one of the earliest civil rights protest songs in American pop history."
+   },
+   {
+    "id": "over-the-rainbow",
+    "title": "Over the Rainbow",
+    "artistAsWritten": "Judy Garland",
+    "dateAsWritten": "1939",
+    "significance": "Academy Award-winning ballad from The Wizard of Oz, representing the years when Hollywood supplied pop with its standards.",
+    "artist": "Judy Garland",
+    "playlistLine": "Over the Rainbow - Judy Garland",
+    "narration": "Harold Arlen and Yip Harburg wrote this ballad for Judy Garland to sing in The Wizard of Oz, and it was almost cut from the film. Harburg had already written the words to Brother, Can You Spare a Dime, and here the hardship of the same decade turns into longing for somewhere better. It won the Academy Award for Best Original Song and became Garland's signature. It stands for the years when Hollywood gave popular music many of its standards."
+   },
+   {
+    "id": "in-the-mood",
+    "title": "In the Mood",
+    "artistAsWritten": "Glenn Miller & His Orchestra",
+    "dateAsWritten": "1939",
+    "significance": "The quintessential big band dance anthem, defining the soundtrack of home-front civilian life during WWII.",
+    "artist": "Glenn Miller",
+    "playlistLine": "In the Mood - Glenn Miller",
+    "narration": "Recorded in 1939, Glenn Miller's version of Joe Garland's composition became the signature dance track of the World War II era. Its repeating sax riffs and precise brass climaxes offered uplifting, rhythmic energy to civilian and military audiences alike. The recording remains an enduring symbol of American home-front morale."
+   },
+   {
+    "id": "this-land-is-your-land",
+    "title": "This Land Is Your Land",
+    "artistAsWritten": "Woody Guthrie",
+    "dateAsWritten": "written 1940, recorded 1944",
+    "significance": "Populist counter-anthem to \"God Bless America,\" establishing the modern American political folk tradition. Recorded in 1944, first released in 1951.",
+    "artist": "Woody Guthrie",
+    "playlistLine": "This Land Is Your Land - Woody Guthrie",
+    "narration": "Folk poet Woody Guthrie wrote this populist response to God Bless America in 1940 and recorded it in 1944. Accompanied by simple acoustic guitar, Guthrie celebrated the country's natural beauty. His original lyrics also questioned private property and described hungry people at the relief office, but the familiar recording leaves those verses out. It established a lasting foundation for modern political folk music."
+   },
+   {
+    "id": "ill-be-seeing-you",
+    "title": "I'll Be Seeing You",
+    "artistAsWritten": "Bing Crosby or Billie Holiday",
+    "dateAsWritten": "1944",
+    "significance": "Emotional ballad capturing the grief, separation, and hope of military families during WWII.",
+    "artist": "Bing Crosby",
+    "playlistLine": "I'll Be Seeing You - Bing Crosby",
+    "narration": "We close Era 3 with Bing Crosby's emotional 1944 recording of Sammy Fain and Irving Kahal's ballad. Released during the height of World War II, its lyrics captured the tender grief and hope of families separated by wartime deployment. Crosby's gentle delivery resonated deeply with listeners, topping the charts in the summer of 1944."
+   }
+  ],
+  "playlistTitle": "Pop History 03 (1929–1945): Great Depression & WWII",
+  "intro": [
+   "The Wall Street crash of 1929 brought an end to the Roaring Twenties, plunging the nation into the Great Depression. Severe economic hardship and Dust Bowl dislocation reshaped everyday life, prompting Franklin D. Roosevelt's New Deal programs. A decade later, the outbreak of World War II required total economic and military mobilization, sending millions of Americans overseas and restructuring the domestic workforce.",
+   "Music provided essential comfort, escapism, and political commentary during these twin crises. Jukeboxes in taverns and national radio networks kept record culture alive. Big Band Swing emerged as the country's dominant pop music, uniting diverse audiences in crowded dance halls, while folk singers voiced populist struggles. These nine tracks illustrate how music reflected both the dark realities and the resilient spirit of this transformative period."
+  ]
+ },
+ {
+  "n": 4,
+  "title": "Post-War Prosperity, The Early Cold War & Jim Crow's Cracks",
+  "start": 1946,
+  "end": 1954,
+  "boundaries": "Post-WWII economic expansion, suburbanization, initiation of the Cold War, Red Scare paranoia, and early legal challenges to segregation (Brown v. Board of Education).",
+  "trends": "Shift from big bands to solo vocalists; transformation of \"race music\" into Rhythm & Blues (R&B) and \"hillbilly\" into Country & Western; emergence of jump blues and electric urban blues; early proto-rock & roll experiments.",
+  "tech": "Introduction of 33⅓ RPM vinyl LP and 45 RPM single formats; growth of independent radio stations; adoption of magnetic tape recording allowing multi-take editing.",
+  "songs": [
+   {
+    "id": "get-your-kicks-on-route-66",
+    "title": "(Get Your Kicks on) Route 66",
+    "artistAsWritten": "The Nat King Cole Trio",
+    "dateAsWritten": "1946",
+    "significance": "Post-war travel pop anthem celebrating automobile mobility and the iconic U.S. highway network.",
+    "artist": "The Nat King Cole Trio",
+    "playlistLine": "(Get Your Kicks on) Route 66 - The Nat King Cole Trio",
+    "narration": "Recorded in 1946, Bobby Troup's classic composition was immortalized by Nat King Cole's smooth vocals and polished piano trio. The song celebrated post-war highway travel, reflecting a growing culture of automobile leisure. For Black musicians like Cole, that freedom had limits. Many hotels and restaurants turned Black travelers away, and guides such as the Green Book listed the places that would take them. Cole himself sued Northern hotels that hired him to perform but refused to serve him. It remains a milestone of smooth jazz-pop crossover success."
+   },
+   {
+    "id": "good-rockin-tonight",
+    "title": "Good Rockin' Tonight",
+    "artistAsWritten": "Wynonie Harris",
+    "dateAsWritten": "1948",
+    "significance": "High-octane jump blues track featuring heavy backbeats that directly laid the musical foundation for 1950s rock & roll.",
+    "artist": "Wynonie Harris",
+    "playlistLine": "Good Rockin' Tonight - Wynonie Harris",
+    "narration": "Shouting blues vocalist Wynonie Harris recorded Roy Brown's jump blues track at the end of 1947, and it became a number one R&B hit in 1948. Driven by heavy handclaps, a sax-driven rhythm section, and upbeat lyrics, Harris delivered a performance packed with energetic party spirit. Its driving backbeat laid crucial groundwork for early rockabilly and rock & roll."
+   },
+   {
+    "id": "lovesick-blues",
+    "title": "Lovesick Blues",
+    "artistAsWritten": "Hank Williams",
+    "dateAsWritten": "1949",
+    "significance": "Consolidated hillbilly music into modern Country & Western, establishing Williams as a country superstar.",
+    "artist": "Hank Williams",
+    "playlistLine": "Lovesick Blues - Hank Williams",
+    "narration": "In 1949, country singer-songwriter Hank Williams released his breakthrough hit, recorded the previous December, transforming a 1920s show tune with his signature yodel and raw vocal emotion. Backed by steel guitar and fiddle, Williams bridged traditional string-band sounds and modern commercial country. The record established him as country music's first major superstar."
+   },
+   {
+    "id": "rocket-88",
+    "title": "Rocket 88",
+    "artistAsWritten": "Jackie Brenston and his Delta Cats [Ike Turner]",
+    "dateAsWritten": "1951",
+    "significance": "Widely cited as the first rock & roll record, featuring overdriven distorted guitar and themes of youth car culture.",
+    "artist": "Jackie Brenston and his Delta Cats",
+    "playlistLine": "Rocket 88 - Jackie Brenston and his Delta Cats",
+    "narration": "Recorded at Sam Phillips' Memphis studio in 1951, this track featured Ike Turner's band with saxophonist Jackie Brenston on lead vocals. Highlighting Willie Kizart's distorted guitar tone, caused by a damaged amplifier speaker, the song celebrated youth car culture. It is widely recognized as one of the foundational early rock & roll recordings."
+   },
+   {
+    "id": "how-high-the-moon",
+    "title": "How High the Moon",
+    "artistAsWritten": "Les Paul & Mary Ford",
+    "dateAsWritten": "1951",
+    "significance": "Technological breakthrough showcase for sound-on-sound overdubbing and tape delay in popular music.",
+    "artist": "Les Paul & Mary Ford",
+    "playlistLine": "How High the Moon - Les Paul & Mary Ford",
+    "narration": "This 1951 chart-topper showcases guitarist Les Paul and vocalist Mary Ford pushing the boundaries of studio technology. Paul used sound-on-sound overdubbing to stack about two dozen guitar and vocal parts in his home studio. This release altered popular music production, proving that recordings could create soundscapes impossible to replicate live."
+   },
+   {
+    "id": "hound-dog",
+    "title": "Hound Dog",
+    "artistAsWritten": "Big Mama Thornton",
+    "dateAsWritten": "1953",
+    "significance": "Raw urban blues masterpiece that topped R&B charts, illustrating Black creative origins prior to mainstream white crossovers.",
+    "artist": "Big Mama Thornton",
+    "playlistLine": "Hound Dog - Big Mama Thornton",
+    "narration": "We close Era 4 with Willie Mae \"Big Mama\" Thornton's original recording, made in 1952 and released in 1953, of Jerry Leiber and Mike Stoller's blues track. Thornton's commanding vocal delivery and Pete Lewis's gritty guitar work topped the R&B charts for weeks. Leiber and Stoller, both nineteen and white, wrote it for Thornton's fierce style. Elvis Presley's 1956 version went on to sell about ten million copies, a measure of how differently the market treated the same song. It stands as an authentic masterpiece of urban electric blues before its themes were adapted for pop crossovers."
+   }
+  ],
+  "playlistTitle": "Pop History 04 (1946–1954): Post-War & Early Cold War",
+  "intro": [
+   "Following World War II, the United States entered an era of rapid economic expansion and suburban growth. The rise of car culture and consumer goods reshaped middle-class family life. However, beneath this material prosperity grew international tensions under the Cold War, accompanied by internal Red Scare paranoia. At the same time, returning Black veterans and civil rights advocates mounted initial legal challenges against segregation, leading to the landmark Brown v. Board of Education decision in 1954.",
+   "These post-war shifts fundamentally transformed the music business. Big swing bands gave way to solo vocalists and smaller, higher-energy ensembles. Record formats evolved rapidly with the introduction of 33-RPM long-playing records and 45-RPM singles, while magnetic tape recording enabled new studio editing techniques. Race music was rebranded as Rhythm & Blues, and hillbilly music became Country & Western, setting the stage for rock & roll. Here are six tracks that capture this dynamic post-war transition."
+  ]
+ },
+ {
+  "n": 5,
+  "title": "The Civil Rights Movement & The Rise of Youth Culture",
+  "start": 1954,
+  "end": 1963,
+  "boundaries": "Height of the Civil Rights movement (Montgomery Bus Boycott, March on Washington), the suburban teenage economic demographic, the Cuban Missile Crisis, and the JFK assassination.",
+  "trends": "Explosion of Rock & Roll as a youth rebellion movement; origin of Girl Groups and early Motown soul; urban folk revival movement; integration of Black music into mainstream pop charts.",
+  "tech": "Transistor radio allowing portable, private teenage music consumption; television music shows (*American Bandstand*) dictating national dance trends; 45-RPM vinyl single dominant commercial format.",
+  "songs": [
+   {
+    "id": "rock-around-the-clock",
+    "title": "Rock Around the Clock",
+    "artistAsWritten": "Bill Haley & His Comets",
+    "dateAsWritten": "1954",
+    "significance": "The anthem that brought rock & roll into mainstream global consciousness after featuring in the film *Blackboard Jungle*.",
+    "artist": "Bill Haley & His Comets",
+    "playlistLine": "Rock Around the Clock - Bill Haley & His Comets",
+    "narration": "Recorded in 1954 and popularized by the 1955 film Blackboard Jungle, this upbeat track launched rock & roll into mainstream consciousness. Bill Haley's blend of jump blues and Western swing gave teenagers a rebellious dance rhythm. Its chart success demonstrated the immense commercial power of the new teenage audience."
+   },
+   {
+    "id": "sixteen-tons",
+    "title": "Sixteen Tons",
+    "artistAsWritten": "Tennessee Ernie Ford",
+    "dateAsWritten": "1955",
+    "significance": "Labor protest about company-store debt that became one of the biggest pop hits of its decade.",
+    "artist": "Tennessee Ernie Ford",
+    "playlistLine": "Sixteen Tons - Tennessee Ernie Ford",
+    "narration": "Merle Travis wrote this song about Kentucky coal miners and recorded it in 1946. Tennessee Ernie Ford's 1955 version, with its finger snaps and dry clarinet, sold two million copies in about two months and spent eight weeks at number one. Behind the easy swing is a protest: miners paid in scrip, good only at the company store, could work all day and still owe their employer. Few protest songs have ever been so popular."
+   },
+   {
+    "id": "maybellene",
+    "title": "Maybellene",
+    "artistAsWritten": "Chuck Berry",
+    "dateAsWritten": "1955",
+    "significance": "Fused country guitar riffs with R&B rhythms, establishing the guitar-driven blueprint and lyricism of rock music.",
+    "artist": "Chuck Berry",
+    "playlistLine": "Maybellene - Chuck Berry",
+    "narration": "In 1955, Chuck Berry recorded his debut single, blending country-style guitar and storytelling with a rhythm and blues beat. Berry's clever lyrics focused on teenage romance and car chases, while his inventive double-stop guitar work established the blueprint for rock music instrumentation. He crossed racial chart boundaries, becoming one of rock's foundational architects."
+   },
+   {
+    "id": "tutti-frutti",
+    "title": "Tutti Frutti",
+    "artistAsWritten": "Little Richard",
+    "dateAsWritten": "1955",
+    "significance": "Explosive debut hit that set a model for the volume, speed, and showmanship of rock and roll.",
+    "artist": "Little Richard",
+    "playlistLine": "Tutti Frutti - Little Richard",
+    "narration": "Little Richard recorded this in New Orleans in September 1955, after songwriter Dorothy LaBostrie was called in to clean up its bawdy lyrics. The famous opening shout imitates a drum pattern. Loud, fast, and joyously uninhibited, it set a model for rock and roll and for flamboyant performers ever since. Pat Boone's milder cover climbed higher on the pop chart, a sign of how radio still favored white versions of Black records."
+   },
+   {
+    "id": "heartbreak-hotel",
+    "title": "Heartbreak Hotel",
+    "artistAsWritten": "Elvis Presley",
+    "dateAsWritten": "1956",
+    "significance": "Crossover phenomenon blending rockabilly and blues, launching Elvis as a global youth culture icon.",
+    "artist": "Elvis Presley",
+    "playlistLine": "Heartbreak Hotel - Elvis Presley",
+    "narration": "Recorded in 1956, this single marked Elvis Presley's national breakthrough with RCA Victor. Featuring reverb-drenched vocals, a haunting blues progression, and dramatic phrasing, the song captured teenage emotional angst. Presley's charismatic television performances made him a global icon of youth culture."
+   },
+   {
+    "id": "la-bamba",
+    "title": "La Bamba",
+    "artistAsWritten": "Ritchie Valens",
+    "dateAsWritten": "1958",
+    "significance": "Mexican folk song turned rock and roll, and an early Spanish-language hit in the United States.",
+    "artist": "Ritchie Valens",
+    "playlistLine": "La Bamba - Ritchie Valens",
+    "narration": "Ritchie Valens, born Richard Valenzuela to a Mexican American family in California, turned a folk song from Veracruz into rock and roll in 1958, singing it entirely in Spanish. It came out as the B-side of Donna and reached the top forty on its own. Valens died at seventeen in the February 1959 plane crash that also killed Buddy Holly and the Big Bopper. The record opened a door that Latin artists would walk through for decades."
+   },
+   {
+    "id": "whatd-i-say",
+    "title": "What'd I Say",
+    "artistAsWritten": "Ray Charles",
+    "dateAsWritten": "1959",
+    "significance": "Synthesized gospel fervor with secular blues lyrics, helping to invent soul music and breaking down sacred/secular boundaries.",
+    "artist": "Ray Charles",
+    "playlistLine": "What'd I Say - Ray Charles",
+    "narration": "Ray Charles recorded this spontaneous, call-and-response track in 1959, fusing gospel fervor with secular blues lyrics. Driven by an electric Wurlitzer piano riff and energetic backing vocals, the song bridged sacred traditions and secular pop culture. This breakthrough record helped establish soul music as a dominant force in popular music."
+   },
+   {
+    "id": "will-you-love-me-tomorrow",
+    "title": "Will You Love Me Tomorrow",
+    "artistAsWritten": "The Shirelles",
+    "dateAsWritten": "1960",
+    "significance": "First #1 pop hit by an all-female Black group, launching the Girl Group era and written by Carole King/Gerry Goffin.",
+    "artist": "The Shirelles",
+    "playlistLine": "Will You Love Me Tomorrow - The Shirelles",
+    "narration": "Written by Carole King and Gerry Goffin and released in late 1960, this song made The Shirelles the first all-female Black vocal group to reach number one on the pop charts, in January 1961. Produced with orchestral strings, the song addressed teenage romantic decisions with honesty and musical elegance. It initiated the Girl Group era of the early 1960s."
+   },
+   {
+    "id": "crazy",
+    "title": "Crazy",
+    "artistAsWritten": "Patsy Cline",
+    "dateAsWritten": "1961",
+    "significance": "Country-pop crossover that defined the polished Nashville sound.",
+    "artist": "Patsy Cline",
+    "playlistLine": "Crazy - Patsy Cline",
+    "narration": "Willie Nelson, then a little-known songwriter, wrote this ballad, and Patsy Cline recorded it in 1961. Producer Owen Bradley set Cline's voice against jazz-tinged chords, Floyd Cramer's piano, and the harmonies of the Jordanaires, a polish that came to be called the Nashville sound. It reached number two on the country chart and crossed into the pop top ten. By 1996 it was the most played jukebox song in the United States."
+   },
+   {
+    "id": "you-dont-own-me",
+    "title": "You Don't Own Me",
+    "artistAsWritten": "Lesley Gore",
+    "dateAsWritten": "1963",
+    "significance": "Teenage pop single that became an early anthem of women's independence.",
+    "artist": "Lesley Gore",
+    "playlistLine": "You Don't Own Me - Lesley Gore",
+    "narration": "Lesley Gore was seventeen when this song by John Madara and David White was recorded in 1963, the year Betty Friedan published The Feminine Mystique. Its singer tells a boyfriend not to command her or put her on display, a startling stance for teenage pop. Early in 1964 it spent three weeks at number two, held off only by the Beatles' I Want to Hold Your Hand, the song that opens our next era. It has been an anthem of women's independence ever since."
+   },
+   {
+    "id": "blowin-in-the-wind",
+    "title": "Blowin' in the Wind",
+    "artistAsWritten": "Peter, Paul and Mary",
+    "dateAsWritten": "1963",
+    "significance": "Pop-accessible cover of Bob Dylan's protest composition, serving as an explicit anthem for the Civil Rights and anti-war movements.",
+    "artist": "Peter, Paul and Mary",
+    "playlistLine": "Blowin' in the Wind - Peter, Paul and Mary",
+    "narration": "We conclude Era 5 with Peter, Paul and Mary's 1963 acoustic cover of Bob Dylan's protest composition. Their polished vocal harmonies brought Dylan's questions about freedom and peace to top-40 radio. The song became an anthem for the Civil Rights movement and, later, for the anti-war movement."
+   }
+  ],
+  "playlistTitle": "Pop History 05 (1954–1963): Civil Rights & Youth Culture",
+  "intro": [
+   "Between 1954 and 1963, the United States underwent profound social and cultural change. The Civil Rights movement gained national momentum through nonviolent protests, including the Montgomery Bus Boycott, freedom rides, and the 1963 March on Washington. At the same time, post-war economic growth created a distinct, financially independent teenage demographic eager to define its own identity apart from adult preferences.",
+   "This new youth culture adopted Rock & Roll as its primary form of expression. Portable transistor radios and television programs like American Bandstand brought integrated music directly into suburban homes. Early rock & roll merged Black rhythm and blues with country and pop, sparking intense generational debate. Meanwhile, early Motown soul, girl group harmonies, and an urban folk revival broadened pop music's thematic boundaries. These eleven tracks capture the sound of a rising generation demanding change."
+  ]
+ },
+ {
+  "n": 6,
+  "title": "The Vietnam War, Civil Rights Legislation & Counterculture",
+  "start": 1964,
+  "end": 1969,
+  "boundaries": "Escalation of the Vietnam War, passage of the Civil Rights Act (1964) and Voting Rights Act (1965), political assassinations (MLK, RFK), counterculture boom, and the Woodstock festival.",
+  "trends": "The British Invasion; Motown/Stax Southern soul dominance; psychedelic rock; rise of album-oriented rock; political protest and Black Power pride music.",
+  "tech": "Transition from mono to stereo recording; multi-track studio expansion (8-track and 16-track); rise of FM radio broadcasting offering album-cut alternatives to top-40 AM radio.",
+  "songs": [
+   {
+    "id": "i-want-to-hold-your-hand",
+    "title": "I Want to Hold Your Hand",
+    "artistAsWritten": "The Beatles",
+    "dateAsWritten": "1964",
+    "significance": "Spearheaded the British Invasion, fundamentally altering the American music industry landscape and pop songwriting.",
+    "artist": "The Beatles",
+    "playlistLine": "I Want to Hold Your Hand - The Beatles",
+    "narration": "Rushed out in the United States on December 26, 1963, and number one by the following February, this single spearheaded the British Invasion. Written by John Lennon and Paul McCartney, its bright vocal harmonies and energetic guitars brought joy to a nation mourning President Kennedy's assassination. The record transformed American pop culture, initiating a decade of artistic innovation."
+   },
+   {
+    "id": "a-change-is-gonna-come",
+    "title": "A Change Is Gonna Come",
+    "artistAsWritten": "Sam Cooke",
+    "dateAsWritten": "1964",
+    "significance": "Lush, orchestral Civil Rights anthem inspired by personal discrimination and Bob Dylan's protest songwriting.",
+    "artist": "Sam Cooke",
+    "playlistLine": "A Change Is Gonna Come - Sam Cooke",
+    "narration": "Soul singer Sam Cooke recorded this orchestral masterpiece in 1964, a few months after a Louisiana motel turned his party away and police in Shreveport arrested them for disturbing the peace. He had also heard Bob Dylan's Blowin' in the Wind, and was moved that a white songwriter had written it and ashamed that he had not yet written something like it himself. Featuring dramatic strings and gospel-infused vocals, the lyrics expressed quiet hope in the face of racial injustice. First heard on an album earlier that year and released as a single shortly after Cooke's death, it became an enduring anthem of the Civil Rights movement."
+   },
+   {
+    "id": "my-girl",
+    "title": "My Girl",
+    "artistAsWritten": "The Temptations",
+    "dateAsWritten": "1964",
+    "significance": "Definitive Motown classic showcasing polished vocal harmonies and the pop-crossover power of Berry Gordy's label.",
+    "artist": "The Temptations",
+    "playlistLine": "My Girl - The Temptations",
+    "narration": "Composed by Smokey Robinson and Ronald White, this song, released at the end of 1964, stands as a cornerstone of Motown's crossover success. Featuring David Ruffin's expressive lead vocals, a memorable bassline, and orchestral string arrangements, the song demonstrated the polished sound of Berry Gordy's label. It reached number one in March 1965, proving the universal appeal of Detroit soul."
+   },
+   {
+    "id": "i-cant-get-no-satisfaction",
+    "title": "(I Can't Get No) Satisfaction",
+    "artistAsWritten": "The Rolling Stones",
+    "dateAsWritten": "1965",
+    "significance": "Iconic guitar fuzz-tone riff and cynical lyrics capturing mid-60s youth alienation and anti-consumerism.",
+    "artist": "The Rolling Stones",
+    "playlistLine": "(I Can't Get No) Satisfaction - The Rolling Stones",
+    "narration": "Driven by Keith Richards' fuzz-toned guitar riff and Mick Jagger's cynical vocals, this 1965 single established The Rolling Stones as rock icons. The lyrics attacked commercialism and voiced youth disillusionment, capturing the rebellious attitude of mid-sixties rock culture. It remains a definitive rock anthem."
+   },
+   {
+    "id": "like-a-rolling-stone",
+    "title": "Like a Rolling Stone",
+    "artistAsWritten": "Bob Dylan",
+    "dateAsWritten": "1965",
+    "significance": "Shattered standard 3-minute single restrictions and literary boundaries by introducing complex stream-of-consciousness poetry to folk-rock.",
+    "artist": "Bob Dylan",
+    "playlistLine": "Like a Rolling Stone - Bob Dylan",
+    "narration": "In 1965, Bob Dylan reshaped rock music by pairing poetic lyrics with an electric rock band driven by Al Kooper's organ riffs. Running over six minutes, the song rejected standard pop length restrictions and commercial radio conventions. Dylan's confrontational vocals transformed pop songwriting into a serious literary form."
+   },
+   {
+    "id": "my-generation",
+    "title": "My Generation",
+    "artistAsWritten": "The Who",
+    "dateAsWritten": "1965",
+    "significance": "Aggressive mod-rock anthem emphasizing generational divide and introducing proto-punk attitude and feedback.",
+    "artist": "The Who",
+    "playlistLine": "My Generation - The Who",
+    "narration": "This 1965 mod-rock anthem by The Who captured the growing divide between youth culture and the older establishment. Featuring Pete Townshend's aggressive power chords and Roger Daltrey's vocal stuttering, the track delivered energy and distortion. It anticipated the attitude and sound of later punk rock movements."
+   },
+   {
+    "id": "good-vibrations",
+    "title": "Good Vibrations",
+    "artistAsWritten": "The Beach Boys",
+    "dateAsWritten": "1966",
+    "significance": "Studio-as-an-instrument masterpiece utilizing modular recording techniques, Theremin tones, and radical symphonic arrangements.",
+    "artist": "The Beach Boys",
+    "playlistLine": "Good Vibrations - The Beach Boys",
+    "narration": "Produced by Brian Wilson in 1966, this track was a triumph of studio experimentation. Assembled from modular recording sessions across multiple studios, Wilson combined vocal harmonies with unconventional instruments like the electro-theremin and cello. It set a new standard for pop music production, demonstrating that the recording studio could function as an instrument."
+   },
+   {
+    "id": "purple-haze",
+    "title": "Purple Haze",
+    "artistAsWritten": "The Jimi Hendrix Experience",
+    "dateAsWritten": "1967",
+    "significance": "Psychedelic landmark that remade the sound of the electric guitar.",
+    "artist": "The Jimi Hendrix Experience",
+    "playlistLine": "Purple Haze - The Jimi Hendrix Experience",
+    "narration": "Jimi Hendrix, an American who found fame in London, released this single with the Jimi Hendrix Experience in 1967. Its clashing opening, its fuzz, and a solo that was the first to use the Octavia effect made the electric guitar sound new. Many listeners heard a drug song, though Hendrix described it as a love song. Rooted in the blues and transformed by electronics, it became a signature of psychedelic rock."
+   },
+   {
+    "id": "respect",
+    "title": "Respect",
+    "artistAsWritten": "Aretha Franklin",
+    "dateAsWritten": "1967",
+    "significance": "Definitive Soul anthem reinterpreted as a double declaration for African American civil rights and feminist empowerment.",
+    "artist": "Aretha Franklin",
+    "playlistLine": "Respect - Aretha Franklin",
+    "narration": "Otis Redding's 1965 original was a working man's plea for his due when he came home. In 1967, Aretha Franklin turned it around, adding the spelled-out title, so that the demand came from a woman. Backed by the Muscle Shoals rhythm section and her sisters' vocal harmonies, Franklin's soulful delivery resonated broadly. The song became a shared anthem for both the Civil Rights movement and women's liberation."
+   },
+   {
+    "id": "say-it-loud-im-black-and-im-proud",
+    "title": "Say It Loud – I'm Black and I'm Proud",
+    "artistAsWritten": "James Brown",
+    "dateAsWritten": "1968",
+    "significance": "Groundbreaking funk landmark explicitly asserting Black identity, self-respect, and political consciousness during the Black Power movement.",
+    "artist": "James Brown",
+    "playlistLine": "Say It Loud – I'm Black and I'm Proud - James Brown",
+    "narration": "Released in 1968 following the assassination of Martin Luther King Jr., James Brown's funk single delivered an explicit message of Black identity and pride. Built around heavy basslines, horn stabs, and a call-and-response children's chorus, the song reflected the rising Black Power movement. It solidified Brown's role as a major cultural leader."
+   },
+   {
+    "id": "fortunate-son",
+    "title": "Fortunate Son",
+    "artistAsWritten": "Creedence Clearwater Revival",
+    "dateAsWritten": "1969",
+    "significance": "Uncompromising anti-war protest song highlighting class disparities regarding draft policies during the Vietnam War.",
+    "artist": "Creedence Clearwater Revival",
+    "playlistLine": "Fortunate Son - Creedence Clearwater Revival",
+    "narration": "We close Era 6 with Creedence Clearwater Revival and John Fogerty's 1969 anti-war protest. Over urgent guitar riffs and raspy vocals, the song criticized class disparities within the Vietnam military draft system. Fogerty, who had served in the Army Reserve, wrote it thinking of David Eisenhower, a president's grandson who had married another president's daughter. Eisenhower later served in the Navy, but the song's target was larger: a system that let privilege decide who went to war. It remains a classic protest song highlighting working-class perspectives during conflict."
+   }
+  ],
+  "playlistTitle": "Pop History 06 (1964–1969): Counterculture & Vietnam",
+  "intro": [
+   "The late 1960s was one of the most turbulent periods in modern history. Escalating American military involvement in the Vietnam War ignited widespread student anti-war protests. The passage of the Civil Rights Act of 1964 and Voting Rights Act of 1965 represented major legal victories, yet tragic assassinations—including Martin Luther King Jr. and Robert F. Kennedy—alongside urban unrest highlighted deep ongoing tensions. A vibrant counterculture emerged, challenging established social norms at gatherings like the 1969 Woodstock festival.",
+   "Music became the voice of this cultural transformation. The British Invasion revitalized rock & roll, while Detroit's Motown and Memphis's Stax sound elevated Black soul music into global pop culture. Psychedelic rock explored new studio possibilities using multi-track recorders, while album-oriented FM radio allowed artists to move beyond standard three-minute single formats. Here are eleven tracks that capture the creative energy and political passion of the late sixties."
+  ]
+ },
+ {
+  "n": 7,
+  "title": "Watergate, Stagflation & Post-60s Fragmentation",
+  "start": 1970,
+  "end": 1980,
+  "boundaries": "End of the Vietnam War, Watergate scandal, 1973 oil crisis, economic stagflation, and the election of Ronald Reagan.",
+  "trends": "Genre fragmentation (Soft Rock, Heavy Metal, Progressive Rock, Funk, Disco, Punk, Early Hip-Hop); introspective singer-songwriter boom; club dance cultures (LGBTQ+ and Black/Latino urban roots of disco); DIY subcultures.",
+  "tech": "Dominance of the 33 RPM LP vinyl album over the single; emergence of cassette tapes; high-fidelity home stereo systems; birth of hip-hop turntablism and breakbeats in the Bronx.",
+  "songs": [
+   {
+    "id": "bridge-over-troubled-water",
+    "title": "Bridge Over Troubled Water",
+    "artistAsWritten": "Simon & Garfunkel",
+    "dateAsWritten": "1970",
+    "significance": "Comforting gospel-influenced pop ballad offering emotional solace at the end of the turbulent 1960s.",
+    "artist": "Simon & Garfunkel",
+    "playlistLine": "Bridge Over Troubled Water - Simon & Garfunkel",
+    "narration": "Released in 1970, Paul Simon's gospel-inspired composition featured Art Garfunkel's soaring lead vocals accompanied by Larry Knechtel's piano. Offering emotional solace at the close of a tumultuous decade, the arrangement built toward a grand orchestral climax. The record swept the Grammy Awards, offering comfort to a divided nation."
+   },
+   {
+    "id": "big-yellow-taxi",
+    "title": "Big Yellow Taxi",
+    "artistAsWritten": "Joni Mitchell",
+    "dateAsWritten": "1970",
+    "significance": "Playful folk-pop protest that became one of the best-known songs of the environmental movement.",
+    "artist": "Joni Mitchell",
+    "playlistLine": "Big Yellow Taxi - Joni Mitchell",
+    "narration": "Joni Mitchell wrote this song on a first trip to Hawaii, where the view from a hotel window ended in a parking lot. Released in April 1970, the month of the first Earth Day, it set a complaint about pavement and pesticides to a tune as light as a jingle. It was only a modest hit in the United States at first, but it became one of the best-known songs of the environmental movement, covered by each generation since."
+   },
+   {
+    "id": "paranoid",
+    "title": "Paranoid",
+    "artistAsWritten": "Black Sabbath",
+    "dateAsWritten": "1970",
+    "significance": "Blueprint for heavy metal, featuring dark themes, heavy guitar riffs, and aggressive tempos.",
+    "artist": "Black Sabbath",
+    "playlistLine": "Paranoid - Black Sabbath",
+    "narration": "Recorded in 1970 by the English band Black Sabbath, from Birmingham, this fast-paced track helped define heavy metal. Featuring Tony Iommi's heavy guitar riffs, Ozzy Osbourne's distinctive vocals, and lyrics exploring dark psychological themes, the song rejected the peace-and-love tropes of sixties rock. It established a dark new subgenre that resonated with working-class youth."
+   },
+   {
+    "id": "whats-going-on",
+    "title": "What's Going On",
+    "artistAsWritten": "Marvin Gaye",
+    "dateAsWritten": "1971",
+    "significance": "Title track of a concept album; the song addresses war, protest, and police brutality through sophisticated soul.",
+    "artist": "Marvin Gaye",
+    "playlistLine": "What's Going On - Marvin Gaye",
+    "narration": "In 1971, Marvin Gaye pushed past Motown's traditional singles formula to produce a socially conscious soul track. Inspired by returning Vietnam veterans and urban struggles, Gaye layered smooth vocals over sophisticated percussion and orchestral strings. The release demonstrated that R&B artists could create cohesive, politically meaningful concept albums."
+   },
+   {
+    "id": "youve-got-a-friend",
+    "title": "You've Got a Friend",
+    "artistAsWritten": "Carole King",
+    "dateAsWritten": "1971",
+    "significance": "Key text of the early 70s singer-songwriter movement, prioritizing emotional vulnerability and organic acoustic arrangements.",
+    "artist": "Carole King",
+    "playlistLine": "You've Got a Friend - Carole King",
+    "narration": "Featured on her landmark 1971 album Tapestry, Carole King's warm performance captured the personal intimacy of the 1970s singer-songwriter movement. Featuring gentle piano and acoustic instrumentation, the song prioritized emotional vulnerability and friendship. It solidified King's status as one of pop music's premier songsmiths."
+   },
+   {
+    "id": "stairway-to-heaven",
+    "title": "Stairway to Heaven",
+    "artistAsWritten": "Led Zeppelin",
+    "dateAsWritten": "1971",
+    "significance": "Eight-minute album track that became an FM radio staple and a defining work of hard rock.",
+    "artist": "Led Zeppelin",
+    "playlistLine": "Stairway to Heaven - Led Zeppelin",
+    "narration": "Released on Led Zeppelin's untitled fourth album in November 1971, this eight-minute song climbs from acoustic guitar and recorders to full-volume hard rock. Jimmy Page composed the music and Robert Plant wrote the words. It was never sold as a single in the United States, yet it became the most requested song on FM radio. It shows how albums and FM stations freed rock from the three-minute hit."
+   },
+   {
+    "id": "superstition",
+    "title": "Superstition",
+    "artistAsWritten": "Stevie Wonder",
+    "dateAsWritten": "1972",
+    "significance": "Clavinet-driven funk masterpiece demonstrating creative control and synth innovation in Black pop music.",
+    "artist": "Stevie Wonder",
+    "playlistLine": "Superstition - Stevie Wonder",
+    "narration": "Released in 1972, this track featured Stevie Wonder playing a rhythmic Clavinet riff, driving horn arrangements, and energetic vocals. Having secured total creative control from Motown, Wonder integrated new electronic instruments into Black popular music. The track stands as a timeless masterpiece of seventies funk-pop innovation."
+   },
+   {
+    "id": "bohemian-rhapsody",
+    "title": "Bohemian Rhapsody",
+    "artistAsWritten": "Queen",
+    "dateAsWritten": "1975",
+    "significance": "Six-minute mock opera that stretched the limits of the pop single and helped establish the music video.",
+    "artist": "Queen",
+    "playlistLine": "Bohemian Rhapsody - Queen",
+    "narration": "Freddie Mercury combined three songs into what Mercury called a mock opera, and Queen recorded it in 1975 with so many overdubbed voices that the tape was copied across eight generations. The six-minute single moves from ballad to opera to hard rock, with no chorus at all. It topped the British chart for nine weeks, and its promotional film helped shape the music video. It returned to the American charts in 1992 by way of the film Wayne's World."
+   },
+   {
+    "id": "2112-overture-the-temples-of-syrinx",
+    "title": "2112: Overture / The Temples of Syrinx",
+    "artistAsWritten": "Rush",
+    "dateAsWritten": "1976",
+    "significance": "Progressive rock epic highlighting conceptual storytelling, complex time signatures, and technical virtuosity.",
+    "artist": "Rush",
+    "playlistLine": "2112: Overture / The Temples of Syrinx - Rush",
+    "narration": "Recorded in 1976 by Canadian power trio Rush, these are the opening two sections of a twenty-minute suite that exemplifies the technical ambition of progressive rock. Combining complex time signatures, heavy guitar work, and sci-fi narrative lyrics written by Neil Peart, the song resisted radio single conventions. It established a dedicated fanbase and showcased the album-oriented listening habits of seventies rock fans."
+   },
+   {
+    "id": "blitzkrieg-bop",
+    "title": "Blitzkrieg Bop",
+    "artistAsWritten": "Ramones",
+    "dateAsWritten": "1976",
+    "significance": "Stripped-down, fast-paced response to overproduced stadium rock, establishing the minimalist template for American punk rock.",
+    "artist": "Ramones",
+    "playlistLine": "Blitzkrieg Bop - Ramones",
+    "narration": "Released in 1976 by the Ramones, this simple, fast-paced single stripped rock music back to its bare essentials. Rejecting the complex production of stadium rock, the band delivered three-chord guitar progressions, driving drums, and memorable vocal chants. It established the minimalist blueprint for American punk rock."
+   },
+   {
+    "id": "hotel-california",
+    "title": "Hotel California",
+    "artistAsWritten": "Eagles",
+    "dateAsWritten": "1977",
+    "significance": "Number one single that marked the height of California country rock and questioned its excess.",
+    "artist": "Eagles",
+    "playlistLine": "Hotel California - Eagles",
+    "narration": "The Eagles released this song as a single in February 1977, from the album of the same name. Don Felder wrote the music, and Don Henley and Glenn Frey's lyrics turned the high life of Los Angeles into a dark parable of excess. It ends with a long exchange of harmonized guitars by Felder and Joe Walsh. It reached number one and won the Grammy for Record of the Year, marking the height of California country rock and casting a wary eye on the decade's pursuit of pleasure."
+   },
+   {
+    "id": "i-feel-love",
+    "title": "I Feel Love",
+    "artistAsWritten": "Donna Summer",
+    "dateAsWritten": "1977",
+    "significance": "Synthesizer-driven disco single that laid the foundations of electronic dance music.",
+    "artist": "Donna Summer",
+    "playlistLine": "I Feel Love - Donna Summer",
+    "narration": "Donna Summer and producers Giorgio Moroder and Pete Bellotte made this 1977 track as a picture of the future, for an album whose other songs recalled past decades. Nearly everything behind the voice comes from a Moog synthesizer, pulsing like a machine under Summer's floating melody. It reached number six in the United States and number one in Britain. House, techno, and the electronic dance pop of later eras all build on its steady pulse."
+   },
+   {
+    "id": "stayin-alive",
+    "title": "Stayin' Alive",
+    "artistAsWritten": "Bee Gees",
+    "dateAsWritten": "1977",
+    "significance": "Global disco explosion centerpiece from *Saturday Night Fever*, defining late-70s club culture and pop chart dominance.",
+    "artist": "Bee Gees",
+    "playlistLine": "Stayin' Alive - Bee Gees",
+    "narration": "From the 1977 Saturday Night Fever soundtrack, this Bee Gees track helped propel disco into a global pop phenomenon. Built around a steady rhythmic beat, falsetto harmonies, and funk basslines, the song captured the dance floor escapism of city nightlife. It dominated charts worldwide, becoming a defining cultural artifact of the late 1970s. Disco had grown out of Black, Latino, and gay clubs, and its triumph brought a backlash. At a Chicago ballpark in July 1979, a radio host blew up a crate of disco records and thousands of fans stormed the field, a night some critics have since read as hostility toward the people who made the music."
+   },
+   {
+    "id": "another-brick-in-the-wall",
+    "title": "Another Brick in the Wall, Part 2",
+    "artistAsWritten": "Pink Floyd",
+    "dateAsWritten": "1979",
+    "significance": "Protest against abusive schooling that gave a progressive rock band a worldwide number one.",
+    "artist": "Pink Floyd",
+    "playlistLine": "Another Brick in the Wall, Part 2 - Pink Floyd",
+    "narration": "Roger Waters wrote this song for Pink Floyd's 1979 album The Wall as a protest against rigid and abusive schooling, and a children's choir carries the complaint. Producer Bob Ezrin suggested a touch of disco, giving the progressive rock band a dance beat and an unlikely number one in both Britain and the United States. In 1980, students boycotting South Africa's unequal schools took it up as an anthem, and the apartheid government banned it."
+   },
+   {
+    "id": "rappers-delight",
+    "title": "Rapper's Delight",
+    "artistAsWritten": "The Sugarhill Gang",
+    "dateAsWritten": "1979",
+    "significance": "First commercially successful hip-hop single, proving the viability of rap on record, over a band's re-creation of a disco groove.",
+    "artist": "The Sugarhill Gang",
+    "playlistLine": "Rapper's Delight - The Sugarhill Gang",
+    "narration": "We close Era 7 with the 1979 single that introduced hip-hop to mainstream radio. Built over a re-recorded rhythm track inspired by Chic's disco hit Good Times, the Sugarhill Gang delivered playful spoken rhymes over a persistent groove. This release demonstrated the commercial potential of hip-hop, initiating its journey toward global popularity."
+   }
+  ],
+  "playlistTitle": "Pop History 07 (1970–1980): Post-60s Fragmentation",
+  "intro": [
+   "The 1970s brought an end to the Vietnam War, but the decade was defined by economic challenge and institutional skepticism. The Watergate scandal undermined public trust in government, while the 1973 oil crisis ushered in severe stagflation. As the idealistic optimism of the 1960s faded, American culture turned inward, seeking personal authenticity, escapism, and new community identities, culminating in the political rise of Ronald Reagan at the decade's end.",
+   "Popular music responded by fragmenting into distinct subgenres. High-fidelity vinyl LPs and audio cassettes replaced singles as the primary medium, supporting diverse styles like heavy metal, progressive rock, funk, and soft singer-songwriter pop. Meanwhile, urban nightlife birthed disco in Black, Latino, and LGBTQ+ clubs, while disenfranchised youth created punk rock and early hip-hop on urban street corners. These fifteen tracks reflect the broad stylistic diversity of the 1970s."
+  ]
+ },
+ {
+  "n": 8,
+  "title": "The Reagan Era, The AIDS Crisis & The End of the Cold War",
+  "start": 1981,
+  "end": 1991,
+  "boundaries": "Reaganomics, the AIDS epidemic, intensification and resolution of the Cold War (Fall of the Berlin Wall), and the Gulf War.",
+  "trends": "MTV era visual pop culture; synth-pop and new wave dominance; mainstream expansion of Golden Age Hip-Hop; hair metal and thrash metal explosion; mega-charity pop anthems and concerts (\"We Are the World\", Live Aid).",
+  "tech": "MTV launch (1981) making music videos essential for marketing; Compact Disc (CD) digital playback system introduction; digital synthesizers and MIDI (Musical Instrument Digital Interface) standardization.",
+  "songs": [
+   {
+    "id": "in-the-air-tonight",
+    "title": "In the Air Tonight",
+    "artistAsWritten": "Phil Collins",
+    "dateAsWritten": "1981",
+    "significance": "Popularized the gated-reverb drum sound of the 1980s, paired with atmospheric synth-pop songwriting.",
+    "artist": "Phil Collins",
+    "playlistLine": "In the Air Tonight - Phil Collins",
+    "narration": "Released in 1981, Phil Collins' solo debut popularized the gated-reverb drum sound of the 1980s. Paired with atmospheric synthesizers and dramatic vocals, the track built toward a famous drum fill breakdown. It remains an iconic example of early eighties dark pop production."
+   },
+   {
+    "id": "the-message",
+    "title": "The Message",
+    "artistAsWritten": "Grandmaster Flash and the Furious Five",
+    "dateAsWritten": "1982",
+    "significance": "Pivotal hip-hop track that brought social realism and political commentary about inner-city poverty to the forefront of rap.",
+    "artist": "Grandmaster Flash and the Furious Five",
+    "playlistLine": "The Message - Grandmaster Flash and the Furious Five",
+    "narration": "Credited to Grandmaster Flash and the Furious Five, this 1982 record actually features only group member Melle Mel and co-writer Duke Bootee. Its lyrics brought social realism to the forefront of hip-hop, detailing urban poverty, economic stress, and institutional neglect with vivid honesty. This release expanded hip-hop beyond party music, establishing a tradition of political commentary within the genre."
+   },
+   {
+    "id": "billie-jean",
+    "title": "Billie Jean",
+    "artistAsWritten": "Michael Jackson",
+    "dateAsWritten": "1983",
+    "significance": "Pop masterpiece that broke the color barrier on MTV, cementing Jackson's status as the global \"King of Pop.\"",
+    "artist": "Michael Jackson",
+    "playlistLine": "Billie Jean - Michael Jackson",
+    "narration": "Produced by Quincy Jones for the 1982 album Thriller, this dance-pop masterpiece featured a driving bassline and Michael Jackson's expressive vocal performance. Its cinematic music video helped break racial barriers on MTV, elevating Jackson to unrivaled global superstardom. It stands as an enduring classic of modern pop music."
+   },
+   {
+    "id": "every-breath-you-take",
+    "title": "Every Breath You Take",
+    "artistAsWritten": "The Police",
+    "dateAsWritten": "1983",
+    "significance": "Biggest American hit of 1983, a song of obsession often mistaken for romance.",
+    "artist": "The Police",
+    "playlistLine": "Every Breath You Take - The Police",
+    "narration": "Written by Sting and released in 1983, this Police single sounds like a love song but describes obsession and surveillance. Andy Summers's clean, circling guitar figure leaves space around Sting's cool vocal. It spent eight weeks at number one, was the biggest American hit of the year, and won the Grammy for Song of the Year. In 2019, BMI recognized it as the most played song in radio history."
+   },
+   {
+    "id": "born-in-the-u-s-a",
+    "title": "Born in the U.S.A.",
+    "artistAsWritten": "Bruce Springsteen",
+    "dateAsWritten": "1984",
+    "significance": "Misunderstood critique of Vietnam veteran neglect that became a massive stadium-rock cultural phenomenon.",
+    "artist": "Bruce Springsteen",
+    "playlistLine": "Born in the U.S.A. - Bruce Springsteen",
+    "narration": "Released in 1984, Bruce Springsteen's title track combined driving stadium rock drums and synthesizers with lyrics describing the hardships faced by returning Vietnam veterans. Often misinterpreted as simple celebration due to its triumphant chorus, the song offered a critical look at working-class struggles, becoming an iconic eighties rock anthem. At a campaign stop in September 1984, President Reagan praised the message of hope in Springsteen's songs. Two days later, on stage in Pittsburgh, Springsteen wondered aloud what the president's favorite album might be, then played a bleak song about an unemployed auto worker."
+   },
+   {
+    "id": "like-a-virgin",
+    "title": "Like a Virgin",
+    "artistAsWritten": "Madonna",
+    "dateAsWritten": "1984",
+    "significance": "Re-engineered female pop stardom, combining provocative imagery, dance-pop, and video-era visuals.",
+    "artist": "Madonna",
+    "playlistLine": "Like a Virgin - Madonna",
+    "narration": "Produced by Nile Rodgers in 1984, this dance-pop track established Madonna as a major pop cultural innovator. Combining synth basslines with catchy melodies, the song was paired with provocative imagery and memorable MTV video performances. Madonna used the video era to challenge traditional portrayals of female pop stars."
+   },
+   {
+    "id": "when-doves-cry",
+    "title": "When Doves Cry",
+    "artistAsWritten": "Prince",
+    "dateAsWritten": "1984",
+    "significance": "Bass-less synth-funk experiment showcase from *Purple Rain*, demonstrating Prince's avant-garde approach to pop dominance.",
+    "artist": "Prince",
+    "playlistLine": "When Doves Cry - Prince",
+    "narration": "Written, arranged, and performed entirely by Prince for his 1984 film Purple Rain, this track reached number one while featuring no bass guitar line. Driven instead by a Linn LM-1 drum machine, synth textures, and expressive vocal phrasing, the song highlighted Prince's bold studio innovation. It became the best-selling single of 1984."
+   },
+   {
+    "id": "walk-this-way",
+    "title": "Walk This Way",
+    "artistAsWritten": "Run-D.M.C.",
+    "dateAsWritten": "1986",
+    "significance": "Rap-rock collaboration with Aerosmith that helped bring hip-hop to mainstream radio and MTV.",
+    "artist": "Run-D.M.C.",
+    "playlistLine": "Walk This Way - Run-D.M.C.",
+    "narration": "In 1986, producer Rick Rubin suggested that Run-D.M.C. remake a 1975 Aerosmith song, with Steven Tyler and Joe Perry joining in. It reached number four, making it one of rap's first big pop hits. In the video, Tyler breaks through the wall between the two bands' studios, a picture of what the record did on radio and MTV. It opened the way for hip-hop in the mainstream and for the rap rock that followed."
+   },
+   {
+    "id": "livin-on-a-prayer",
+    "title": "Livin' on a Prayer",
+    "artistAsWritten": "Bon Jovi",
+    "dateAsWritten": "1986",
+    "significance": "Quintessential hair metal/pop-rock crossover anthem capturing blue-collar economic anxiety through soaring choruses.",
+    "artist": "Bon Jovi",
+    "playlistLine": "Livin' on a Prayer - Bon Jovi",
+    "narration": "Released in 1986, Bon Jovi's signature hit brought hair metal melody and talk-box guitar effects into mainstream pop. Telling the story of a working-class couple navigating economic uncertainty, the soaring chorus resonated with broad audiences. It remains a classic stadium-rock anthem of hope and endurance."
+   },
+   {
+    "id": "master-of-puppets",
+    "title": "Master of Puppets",
+    "artistAsWritten": "Metallica",
+    "dateAsWritten": "1986",
+    "significance": "Peak composition of thrash metal, featuring complex arrangements, speed, and themes of control and addiction.",
+    "artist": "Metallica",
+    "playlistLine": "Master of Puppets - Metallica",
+    "narration": "This 1986 title track by Metallica stands as a defining work of thrash metal. Combining fast down-picked guitar riffs, complex time signature changes, and lyrics exploring themes of addiction and control, the song showcased technical metal virtuosity. It demonstrated that underground metal could achieve major commercial impact without mainstream radio play."
+   },
+   {
+    "id": "fast-car",
+    "title": "Fast Car",
+    "artistAsWritten": "Tracy Chapman",
+    "dateAsWritten": "1988",
+    "significance": "Acoustic story of poverty and escape that returned folk songwriting to the charts.",
+    "artist": "Tracy Chapman",
+    "playlistLine": "Fast Car - Tracy Chapman",
+    "narration": "Tracy Chapman's debut single, released in April 1988, tells of a young woman trying to drive away from poverty, with a simple acoustic guitar figure beneath the story. Chapman's performance that June at a London concert for Nelson Mandela's seventieth birthday made it a worldwide hit. In a decade of synthesizers and spectacle, it brought the folk song back to the charts. In 2023, Luke Combs's country cover made Chapman the first Black winner of the Country Music Association's Song of the Year."
+   },
+   {
+    "id": "fight-the-power",
+    "title": "Fight the Power",
+    "artistAsWritten": "Public Enemy",
+    "dateAsWritten": "1989",
+    "significance": "Hardcore hip-hop masterpiece utilizing dense Bomb Squad sampling to deliver a message of Black empowerment and anti-establishment resistance.",
+    "artist": "Public Enemy",
+    "playlistLine": "Fight the Power - Public Enemy",
+    "narration": "Commissioned by director Spike Lee for his 1989 film Do the Right Thing, Public Enemy's anthem delivered an explicit political message. Produced by the Bomb Squad, the track layered vocal samples, funk grooves, and Chuck D's commanding delivery. It remains one of the most powerful political hip-hop tracks ever recorded."
+   },
+   {
+    "id": "vogue",
+    "title": "Vogue",
+    "artistAsWritten": "Madonna",
+    "dateAsWritten": "1990",
+    "significance": "Brought underground queer/Black/Latino ballroom dance culture into global mainstream pop consciousness.",
+    "artist": "Madonna",
+    "playlistLine": "Vogue - Madonna",
+    "narration": "We conclude Era 8 with Madonna's 1990 tribute to house music and Harlem's underground ballroom dance subculture. Combining deep bass grooves, piano lines, and spoken-word Hollywood references, the song reached number one in over thirty countries. It introduced underground LGBTQ+ and Black and Latino dance traditions to global pop audiences."
+   }
+  ],
+  "playlistTitle": "Pop History 08 (1981–1991): Cable TV & Cold War End",
+  "intro": [
+   "The 1980s were marked by conservative politics under President Ronald Reagan, economic deregulation, and the rise of cable television culture. Domestically, the nation faced the devastating AIDS epidemic, which galvanized activist movements. Internationally, escalating Cold War defense policies eventually gave way to diplomatic breakthroughs, culminating in the fall of the Berlin Wall and the conclusion of the Cold War by 1991.",
+   "Visual media transformed popular music during this decade. The 1981 launch of MTV made music videos essential for commercial success, turning pop star image crafting into a primary artistic arena. Technological developments like compact discs, digital synthesizers, and MIDI standardized new production standards. From pop and synth-pop to hair metal, thrash, and the Golden Age of hip-hop, these thirteen songs highlight a colorful decade of media expansion."
+  ]
+ },
+ {
+  "n": 9,
+  "title": "Post-Cold War America, Culture Wars & Globalization",
+  "start": 1991,
+  "end": 2001,
+  "boundaries": "Post-Cold War unipolar era, 1990s economic expansion, early commercial internet adoption, culture wars, and the 1990s urban crime bills.",
+  "trends": "Alternative Rock/Grunge mainstream takeover; East Coast vs. West Coast Hip-Hop rivalry; R&B vocal groups and modern pop production; Pop-Punk and Industrial subcultures; late 90s Teen Pop resurgence.",
+  "tech": "SoundScan point-of-sale barcode tracking revolutionizing Billboard charts; digital audio workstations (Pro Tools) altering studio recording; introduction of MP3 compression technology and early peer-to-peer file sharing (Napster).",
+  "songs": [
+   {
+    "id": "smells-like-teen-spirit",
+    "title": "Smells Like Teen Spirit",
+    "artistAsWritten": "Nirvana",
+    "dateAsWritten": "1991",
+    "significance": "Displaced 80s hair metal overnight, launching the Alternative Rock and Grunge explosion into the pop mainstream.",
+    "artist": "Nirvana",
+    "playlistLine": "Smells Like Teen Spirit - Nirvana",
+    "narration": "Released in September 1991, Nirvana's breakthrough single, built on Kurt Cobain's heavy guitar riff and quiet-loud dynamics, pushed aside 1980s pop metal almost overnight. Capturing Gen-X disillusionment through raw vocal delivery, the record propelled alternative rock and Seattle grunge into mainstream pop culture. It stands as a pivotal turning point in rock history."
+   },
+   {
+    "id": "achy-breaky-heart",
+    "title": "Achy Breaky Heart",
+    "artistAsWritten": "Billy Ray Cyrus",
+    "dateAsWritten": "1992",
+    "significance": "Crossover hit of the 1990s country boom, with a music video that helped bring line dancing into the mainstream.",
+    "artist": "Billy Ray Cyrus",
+    "playlistLine": "Achy Breaky Heart - Billy Ray Cyrus",
+    "narration": "Songwriter Don Von Tress's tune was first recorded in 1991 by the Marcy Brothers as \"Don't Tell My Heart.\" Billy Ray Cyrus's 1992 version topped the country chart for five weeks, reached number four on the Hot 100, and came with a music video that helped carry line dancing into the mainstream. Cyrus's debut album, Some Gave All, went on to spend seventeen straight weeks at number one on the Billboard 200, a sign of how large the country audience had become."
+   },
+   {
+    "id": "nuthin-but-a-g-thang",
+    "title": "Nuthin' but a 'G' Thang",
+    "artistAsWritten": "Dr. Dre feat. Snoop Doggy Dogg",
+    "dateAsWritten": "1992",
+    "significance": "Defined the West Coast G-Funk sound, establishing hip-hop as the dominant force in mainstream youth culture.",
+    "artist": "Dr. Dre feat. Snoop Doggy Dogg",
+    "playlistLine": "Nuthin' but a 'G' Thang - Dr. Dre feat. Snoop Doggy Dogg",
+    "narration": "On the 1992 album The Chronic, Dr. Dre popularized the West Coast G-Funk sound by pairing slowed-down seventies funk samples with smooth vocal flows from Snoop Doggy Dogg. The track's laid-back groove and polished production helped make hip-hop a driving force of nineties youth culture."
+   },
+   {
+    "id": "i-will-always-love-you",
+    "title": "I Will Always Love You",
+    "artistAsWritten": "Whitney Houston",
+    "dateAsWritten": "1992",
+    "significance": "High-water mark of film soundtrack power and vocal balladry, becoming one of the best-selling singles of all time.",
+    "artist": "Whitney Houston",
+    "playlistLine": "I Will Always Love You - Whitney Houston",
+    "narration": "Recorded for the soundtrack of the 1992 film The Bodyguard, Whitney Houston's rendition of Dolly Parton's 1974 country song stands as a high-water mark of pop vocal performance. Beginning a cappella before building into full vocal power, the single spent fourteen weeks at number one, becoming a global hit. Parton had once refused to let Elvis Presley record the song, because Presley's manager wanted half the publishing rights. Keeping them paid off: after Houston's version, she has said, she made enough money to buy Graceland. It is a lesson in ownership that returns with Taylor Swift's All Too Well."
+   },
+   {
+    "id": "a-whole-new-world",
+    "title": "A Whole New World",
+    "artistAsWritten": "Peabo Bryson & Regina Belle",
+    "dateAsWritten": "1992",
+    "significance": "Anchor of the Disney Renaissance period, showcasing global cross-generational corporate animation pop ballads.",
+    "artist": "Peabo Bryson & Regina Belle",
+    "playlistLine": "A Whole New World - Peabo Bryson & Regina Belle",
+    "narration": "Recorded for Disney's 1992 animated film Aladdin, this pop duet composed by Alan Menken with lyrics by Tim Rice reached number one on the Billboard Hot 100, the only song from a Disney animated film to do so until 2022. Showcasing polished vocal performances, the track reflects the Disney Renaissance period."
+   },
+   {
+    "id": "creep",
+    "title": "Creep",
+    "artistAsWritten": "TLC",
+    "dateAsWritten": "1994",
+    "significance": "Fused hip-hop production with smooth R&B vocals, defining 90s female empowerment and contemporary urban pop trends.",
+    "artist": "TLC",
+    "playlistLine": "Creep - TLC",
+    "narration": "Released in 1994 as the lead single from CrazySexyCool, this TLC track fused smooth R&B vocal harmonies with heavy hip-hop drum loops and trumpet hooks. Written by Dallas Austin, the lyrics addressed infidelity from a candid female perspective. It established TLC as one of the most successful female vocal groups in music history."
+   },
+   {
+    "id": "linoleum",
+    "title": "Linoleum",
+    "artistAsWritten": "NOFX",
+    "dateAsWritten": "1994",
+    "significance": "Underground skate-punk standard highlighting the 90s indie punk revival movement.",
+    "artist": "NOFX",
+    "playlistLine": "Linoleum - NOFX",
+    "narration": "Featured on their 1994 album Punk in Drublic, NOFX's track stands as an underground classic of the 1990s skate-punk revival. Featuring fast guitar tempos, driving drums, and self-reflective lyrics, the song succeeded entirely through independent distribution and touring, illustrating the strength of nineties punk subculture."
+   },
+   {
+    "id": "you-oughta-know",
+    "title": "You Oughta Know",
+    "artistAsWritten": "Alanis Morissette",
+    "dateAsWritten": "1995",
+    "significance": "Raw alt-pop landmark that broke open radio formats for aggressive, candid female singer-songwriters in the mid-90s.",
+    "artist": "Alanis Morissette",
+    "playlistLine": "You Oughta Know - Alanis Morissette",
+    "narration": "Featuring Dave Navarro on guitar and Flea on bass, this candid 1995 alt-pop single came from Canadian singer-songwriter Alanis Morissette. Her raw vocal delivery and explicit breakup lyrics resonated with listeners, opening radio formats for candid female alternative artists throughout the mid-1990s."
+   },
+   {
+    "id": "megalomaniac",
+    "title": "Megalomaniac",
+    "artistAsWritten": "KMFDM",
+    "dateAsWritten": "1997",
+    "significance": "Highlighted the late-90s crossover of industrial rock and electronic music into mainstream alternative culture.",
+    "artist": "KMFDM",
+    "playlistLine": "Megalomaniac - KMFDM",
+    "narration": "On this 1997 single, the German industrial rock band KMFDM combined heavy guitar riffs, dance beats, and electronic synthesis with lyrics satirizing power and self-importance. The track highlighted the late-1990s crossover of industrial and electronic rock into mainstream alternative music culture."
+   },
+   {
+    "id": "baby-one-more-time",
+    "title": "...Baby One More Time",
+    "artistAsWritten": "Britney Spears",
+    "dateAsWritten": "1998",
+    "significance": "Launched late-90s teen pop boom, featuring Max Martin's signature pristine Swedish pop production style.",
+    "artist": "Britney Spears",
+    "playlistLine": "...Baby One More Time - Britney Spears",
+    "narration": "We close Era 9 with Britney Spears' 1998 debut single, produced by Max Martin and Rami Yacoub in Stockholm. Combining precise pop production, heavy bass hooks, and an iconic music video, the record launched a late-1990s teen pop resurgence, establishing production styles that shaped pop music for years to come."
+   }
+  ],
+  "playlistTitle": "Pop History 09 (1991–2001): Globalization & Internet",
+  "intro": [
+   "The 1991 collapse of the Soviet Union left the United States as the world's dominant superpower during a decade of economic expansion. The 1990s witnessed the birth of the consumer internet, shifting how information and media were shared. However, intense internal debate emerged over social values, explicit content, and urban crime legislation, sparking broad cultural disagreements throughout the decade.",
+   "Music underwent major structural change. SoundScan's barcode sales tracking revealed massive, hidden markets for alternative rock, country, and hip-hop. Digital audio workstations like Pro Tools entered recording studios, while MP3 files and early file-sharing platforms like Napster began disrupting traditional record label models. From grunge and West Coast rap to smooth R&B and late-90s teen pop, these ten tracks highlight a dynamic decade."
+  ]
+ },
+ {
+  "n": 10,
+  "title": "9/11, The War on Terror & The Digital Shift",
+  "start": 2001,
+  "end": 2008,
+  "boundaries": "September 11 terrorist attacks, Wars in Afghanistan and Iraq, post-9/11 patriotism and polarization, and the 2008 housing crash/Great Recession.",
+  "trends": "Patriotic country and post-grunge mainstream rock; Southern Hip-Hop/Crunk dominance; Pop-Punk revival; Neo-Soul movements; early internet viral novelty hits.",
+  "tech": "iTunes Store and iPod standardizing digital single downloads; decline of physical CD sales; emergence of early social media platforms (MySpace, YouTube) for music discovery.",
+  "songs": [
+   {
+    "id": "courtesy-of-the-red-white-and-blue-the-angry-ame",
+    "title": "Courtesy of the Red, White and Blue (The Angry American)",
+    "artistAsWritten": "Toby Keith",
+    "dateAsWritten": "2002",
+    "significance": "Aggressive patriotic country anthem capturing post-9/11 militarism and political consolidation in mainstream country.",
+    "artist": "Toby Keith",
+    "playlistLine": "Courtesy of the Red, White and Blue (The Angry American) - Toby Keith",
+    "narration": "Written following September 11 and the passing of his father, Toby Keith's 2002 country single expressed military pride and national defense sentiments. Driven by electric guitars and patriotic lyrics, the song resonated strongly with mainstream country audiences while highlighting post-9/11 political divides."
+   },
+   {
+    "id": "crazy-in-love",
+    "title": "Crazy in Love",
+    "artistAsWritten": "Beyoncé feat. Jay-Z",
+    "dateAsWritten": "2003",
+    "significance": "Lead single from her solo debut album, establishing Beyoncé as a premier 21st-century pop/R&B icon, featuring horn-heavy production.",
+    "artist": "Beyoncé feat. Jay-Z",
+    "playlistLine": "Crazy in Love - Beyoncé feat. Jay-Z",
+    "narration": "Featuring a memorable Chi-Lites horn sample produced by Rich Harrison, the lead single from Beyoncé's 2003 solo debut album established her as a premier 21st-century pop-R&B icon. Paired with a rap verse from Jay-Z and high-energy vocals, the track topped global charts, marking a new era of solo pop stardom."
+   },
+   {
+    "id": "hey-ya",
+    "title": "Hey Ya!",
+    "artistAsWritten": "OutKast",
+    "dateAsWritten": "2003",
+    "significance": "Eclectic fusion of funk, pop, rock, and hip-hop, showcasing the artistic dominance of Southern hip-hop.",
+    "artist": "OutKast",
+    "playlistLine": "Hey Ya! - OutKast",
+    "narration": "Written and performed by André 3000 for OutKast's 2003 double album Speakerboxxx and The Love Below, this track merged pop, funk, rock, and hip-hop into an upbeat single. Despite its cheerful sound, the lyrics explored relationship complexities. The song demonstrated the creative range and mainstream dominance of Southern hip-hop."
+   },
+   {
+    "id": "where-is-the-love",
+    "title": "Where Is the Love?",
+    "artistAsWritten": "The Black Eyed Peas",
+    "dateAsWritten": "2003",
+    "significance": "Global pop-rap reflection on post-9/11 international turmoil, warfare, and societal division.",
+    "artist": "The Black Eyed Peas",
+    "playlistLine": "Where Is the Love? - The Black Eyed Peas",
+    "narration": "Released in 2003 featuring uncredited vocals from Justin Timberlake, this pop-rap single addressed post-9/11 warfare, discrimination, and societal anxiety. Built around acoustic guitars and clear vocal melodies, the track resonated internationally, becoming a major global pop hit of the early 2000s."
+   },
+   {
+    "id": "gasolina",
+    "title": "Gasolina",
+    "artistAsWritten": "Daddy Yankee",
+    "dateAsWritten": "2004",
+    "significance": "Breakthrough reggaeton single that opened American radio to the genre.",
+    "artist": "Daddy Yankee",
+    "playlistLine": "Gasolina - Daddy Yankee",
+    "narration": "Puerto Rican rapper Daddy Yankee released this single from the album Barrio Fino in October 2004. Its shouted hook, sung with an uncredited Glory, rides dembow, the Jamaican-derived rhythm at the heart of reggaeton. It was the first reggaeton song to reach the American top forty and the first nominated for the Latin Grammy for Record of the Year. More than a decade before Despacito, which also features Daddy Yankee, it opened the door for Spanish-language pop in the United States."
+   },
+   {
+    "id": "american-idiot",
+    "title": "American Idiot",
+    "artistAsWritten": "Green Day",
+    "dateAsWritten": "2004",
+    "significance": "Pop-punk rock opera title track criticizing media paranoia and military intervention during the George W. Bush administration.",
+    "artist": "Green Day",
+    "playlistLine": "American Idiot - Green Day",
+    "narration": "In 2004, punk band Green Day released the title track of their political rock opera, criticizing media paranoia and government decisions during the Iraq War era. Driven by fast power chords and clear vocal delivery, the song proved that punk-pop bands could deliver effective political commentary to wide audiences."
+   },
+   {
+    "id": "mr-brightside",
+    "title": "Mr. Brightside",
+    "artistAsWritten": "The Killers",
+    "dateAsWritten": "2004",
+    "significance": "2000s indie/post-punk revival classic that demonstrated unprecedented streaming longevity across multi-generational audiences.",
+    "artist": "The Killers",
+    "playlistLine": "Mr. Brightside - The Killers",
+    "narration": "Released in 2003 and again in 2004, this song by Las Vegas band The Killers became a flagship anthem of the 2000s indie rock revival. Featuring bright guitar riffs, synth textures, and Brandon Flowers' expressive vocals, the song achieved unprecedented streaming longevity, spending more than ten years on the British singles chart."
+   },
+   {
+    "id": "crank-that-soulja-boy",
+    "title": "Crank That (Soulja Boy)",
+    "artistAsWritten": "Soulja Boy Tell 'Em",
+    "dateAsWritten": "2007",
+    "significance": "Early internet-native hit created on basic home software, driven by a self-promoted YouTube dance video.",
+    "artist": "Soulja Boy Tell 'Em",
+    "playlistLine": "Crank That (Soulja Boy) - Soulja Boy Tell 'Em",
+    "narration": "We close Era 10 with Soulja Boy's self-produced 2007 hit, created using basic software tools. Driven by a steel drum preset loop and accompanied by a self-promoted YouTube instructional dance video, the single reached number one on the Billboard Hot 100. It established the modern blueprint for internet-driven viral music hits."
+   }
+  ],
+  "playlistTitle": "Pop History 10 (2001–2008): Post-9/11 & Digital Transition",
+  "intro": [
+   "The twenty-first century opened with the tragic September 11 terrorist attacks in 2001, leading to the War on Terror and long military engagements in Afghanistan and Iraq. Domestically, the period was marked by heightened political polarization, patriotism, and debate over civil liberties. The decade closed under severe economic stress as the 2008 subprime mortgage crisis triggered the Great Recession.",
+   "During these years, the music industry shifted decisively into the digital age. Apple's iPod and iTunes Store popularized individual digital downloads and began to erode physical CD sales. Early social platforms like MySpace and YouTube created new avenues for viral music discovery. From post-9/11 country anthems and Southern crunk to pop-punk and early viral internet hits, these eight tracks define the mid-2000s transition."
+  ]
+ },
+ {
+  "n": 11,
+  "title": "The Great Recession, Social Media & Cultural Reckonings",
+  "start": 2009,
+  "end": 2016,
+  "boundaries": "The Great Recession recovery, Obama presidency, Black Lives Matter movement origins, legalization of same-sex marriage, and the 2016 presidential election.",
+  "trends": "EDM (Electronic Dance Music) and Pop integration; introspective and minimalist R&B/Pop; Trap music rise in mainstream Hip-Hop; explicit sociopolitical anthems dealing with race, identity, and inequality.",
+  "tech": "Shift from digital downloads to audio streaming services (Spotify, Apple Music); smartphone ubiquity; social media platforms (Instagram, Vine, Twitter) directly driving viral hitmaking.",
+  "songs": [
+   {
+    "id": "bad-romance",
+    "title": "Bad Romance",
+    "artistAsWritten": "Lady Gaga",
+    "dateAsWritten": "2009",
+    "significance": "High-concept maximalist synth-pop production that defined late-2000s electronic club music and visual iconography.",
+    "artist": "Lady Gaga",
+    "playlistLine": "Bad Romance - Lady Gaga",
+    "narration": "Released in late 2009, Lady Gaga's maximalist synth-pop production defined electronic dance pop at the start of the decade. Featuring energetic beats, multi-lingual hooks, and an iconic music video, the track established her visual artistry. It led a wave of electronic dance music dominating top-40 radio."
+   },
+   {
+    "id": "we-found-love",
+    "title": "We Found Love",
+    "artistAsWritten": "Rihanna feat. Calvin Harris",
+    "dateAsWritten": "2011",
+    "significance": "Exemplified the global peak of EDM-pop integration on mainstream top-40 radio.",
+    "artist": "Rihanna feat. Calvin Harris",
+    "playlistLine": "We Found Love - Rihanna feat. Calvin Harris",
+    "narration": "Produced by Scottish DJ Calvin Harris, this 2011 single exemplified the global peak of EDM-pop integration. Combining house beats with Rihanna's expressive vocals, the song spent ten weeks at number one on the Billboard Hot 100. It illustrated how dance club production had moved to the center of mainstream pop."
+   },
+   {
+    "id": "all-too-well",
+    "title": "All Too Well",
+    "artistAsWritten": "Taylor Swift",
+    "dateAsWritten": "2012",
+    "significance": "Fan-made classic whose ten-minute 2021 re-recording became a landmark in artists' fight to own their master recordings.",
+    "artist": "Taylor Swift",
+    "playlistLine": "All Too Well - Taylor Swift",
+    "narration": "Written with Liz Rose for the 2012 album Red, this breakup ballad was never a single, yet fans made it one of Taylor Swift's best-loved songs. We hear that original. Its story also became a landmark in the music business. In 2019, Swift's former label, Big Machine, was sold, and the master recordings of Swift's first six albums went with it, over Swift's objections. Swift had written the songs but did not own the recordings. Because the rights in a song are separate from the rights in a recording, Swift could record the songs again, and in 2021 released a ten-minute version that became the longest song ever to top the Hot 100. In 2025, Swift bought the original masters back. The dispute taught a generation of fans the difference between writing a song and owning its recording."
+   },
+   {
+    "id": "royals",
+    "title": "Royals",
+    "artistAsWritten": "Lorde",
+    "dateAsWritten": "2013",
+    "significance": "Stripped-back minimal pop anthem rejecting luxury-obsessed hip-hop and pop tropes, reshaping 2010s pop production.",
+    "artist": "Lorde",
+    "playlistLine": "Royals - Lorde",
+    "narration": "Written by New Zealand teenager Lorde and producer Joel Little, this 2013 minimalist hit rejected the luxury-focused tropes of contemporary pop music. Featuring a simple finger-snap drum beat and bass synth beneath layered vocal harmonies, the song's success reshaped pop production, encouraging a wave of stripped-back recording styles."
+   },
+   {
+    "id": "let-it-go",
+    "title": "Let It Go",
+    "artistAsWritten": "Idina Menzel",
+    "dateAsWritten": "2013",
+    "significance": "Massive global Disney animated feature anthem that achieved cross-generational chart dominance via streaming and video views.",
+    "artist": "Idina Menzel",
+    "playlistLine": "Let It Go - Idina Menzel",
+    "narration": "Composed by Kristen Anderson-Lopez and Robert Lopez for Disney's 2013 film Frozen, this theatrical ballad achieved massive global cross-generational success. Performed by Broadway vocalist Idina Menzel, the song's themes of self-acceptance resonated with listeners worldwide. Powered by viral streaming and video views, it became a modern pop classic."
+   },
+   {
+    "id": "uptown-funk",
+    "title": "Uptown Funk",
+    "artistAsWritten": "Mark Ronson feat. Bruno Mars",
+    "dateAsWritten": "2014",
+    "significance": "Retro-funk revival blockbuster demonstrating high production value and cross-demographic appeal.",
+    "artist": "Mark Ronson feat. Bruno Mars",
+    "playlistLine": "Uptown Funk - Mark Ronson feat. Bruno Mars",
+    "narration": "In late 2014, British producer Mark Ronson and vocalist Bruno Mars released a high-energy tribute to 1980s funk and Minneapolis pop sounds. Featuring live horn arrangements, slap bass, and charismatic vocal delivery, the single spent fourteen weeks at number one. It proved that high-production retro live music could dominate the digital streaming era."
+   },
+   {
+    "id": "alright",
+    "title": "Alright",
+    "artistAsWritten": "Kendrick Lamar",
+    "dateAsWritten": "2015",
+    "significance": "Acclaimed hip-hop track adopted as an unofficial protest anthem for the Black Lives Matter movement.",
+    "artist": "Kendrick Lamar",
+    "playlistLine": "Alright - Kendrick Lamar",
+    "narration": "From the 2015 album To Pimp a Butterfly, this complex hip-hop track, produced by Pharrell Williams and Sounwave, set Kendrick Lamar's reflective lyrics against jazz elements. Addressing racial tensions and police brutality, its comforting chorus was adopted as a shared anthem during Black Lives Matter demonstrations. It stands as a landmark of political hip-hop."
+   },
+   {
+    "id": "formation",
+    "title": "Formation",
+    "artistAsWritten": "Beyoncé",
+    "dateAsWritten": "2016",
+    "significance": "Unapologetic celebration of Southern Black culture, identity, and resilience amid ongoing racial reckonings.",
+    "artist": "Beyoncé",
+    "playlistLine": "Formation - Beyoncé",
+    "narration": "Released in early 2016 as the lead single for Lemonade, this Beyoncé song is an explicit celebration of Southern Black identity, resilience, and female empowerment. Produced by Mike Will Made It, the trap beat accompanied political visuals in its music video and Super Bowl halftime performance. The song stands as a powerful cultural milestone of its era."
+   },
+   {
+    "id": "closer",
+    "title": "Closer",
+    "artistAsWritten": "The Chainsmokers feat. Halsey",
+    "dateAsWritten": "2016",
+    "significance": "Mid-2010s streaming-era staple combining EDM drops, ambient pop hooks, and nostalgic youth narrative.",
+    "artist": "The Chainsmokers feat. Halsey",
+    "playlistLine": "Closer - The Chainsmokers feat. Halsey",
+    "narration": "We close Era 11 with a 2016 electronic pop duet by The Chainsmokers and Halsey. Combining simple synth melodies, an accessible EDM drop, and conversational vocal lines exploring youth nostalgia, the track spent twelve weeks at number one. It stands as a defining example of mid-2010s streaming-era pop production."
+   }
+  ],
+  "playlistTitle": "Pop History 11 (2009–2016): Streaming & Social Media",
+  "intro": [
+   "The period between 2009 and 2016 saw recovery from the Great Recession alongside the expansion of social media into daily life. Barack Obama's presidency marked a historic milestone, while social justice movements like Black Lives Matter arose to protest systemic inequalities. Legalization of same-sex marriage reflected shifting social values, even as national political debate grew increasingly polarized leading into the 2016 election.",
+   "Music consumption transformed completely during these years as audio streaming platforms like Spotify and Apple Music replaced digital downloads. Smartphones made music instantly accessible everywhere, while video platforms directly drove viral chart successes. Mainstream pop embraced Electronic Dance Music drops, trap hip-hop, and explicit political commentary. These nine tracks reflect the sounds and social reckonings of the early 2010s."
+  ]
+ },
+ {
+  "n": 12,
+  "title": "Political Polarization, The Pandemic & Globalized Feeds",
+  "start": 2017,
+  "end": null,
+  "boundaries": "Deepening political polarization, COVID-19 global pandemic, lockdown isolation, economic inflation, and the rapid advancement of Artificial Intelligence technologies.",
+  "trends": "Short-form viral video music adoption; complete erosion of traditional genre boundaries; dominance of Latin, Afrobeats, and global sounds in U.S. charts; revival of country music and bedroom pop aesthetics.",
+  "tech": "TikTok as the premier global hitmaker and A&R engine; algorithmic feed curation driving micro-genres; spatial audio; emerging generative AI music software tools.",
+  "songs": [
+   {
+    "id": "despacito-remix",
+    "title": "Despacito (Remix)",
+    "artistAsWritten": "Luis Fonsi & Daddy Yankee feat. Justin Bieber",
+    "dateAsWritten": "2017",
+    "significance": "Massive streaming hit that ignited a global Latin pop explosion on English-language radio and charts.",
+    "artist": "Luis Fonsi & Daddy Yankee feat. Justin Bieber",
+    "playlistLine": "Despacito (Remix) - Luis Fonsi & Daddy Yankee feat. Justin Bieber",
+    "narration": "Released in 2017, this reggaeton-pop single brought Latin music to unprecedented levels of global radio and streaming dominance. Blending the Puerto Rican cuatro and reggaeton beats with bilingual vocals, including a guest verse from Justin Bieber, the track spent sixteen weeks at number one in the United States, initiating a historic global explosion for Spanish-language pop."
+   },
+   {
+    "id": "this-is-america",
+    "title": "This Is America",
+    "artistAsWritten": "Childish Gambino",
+    "dateAsWritten": "2018",
+    "significance": "Viral musical and visual commentary on gun violence, racism, and viral distraction in modern America.",
+    "artist": "Childish Gambino",
+    "playlistLine": "This Is America - Childish Gambino",
+    "narration": "In 2018, Donald Glover, performing as Childish Gambino, released a single addressing gun violence, racism, and social media distraction. Shifting between cheerful folk-choral melodies and dark trap beats, the record debuted at number one, driven by its acclaimed music video. It stands as a major artistic critique of contemporary American culture."
+   },
+   {
+    "id": "old-town-road",
+    "title": "Old Town Road",
+    "artistAsWritten": "Lil Nas X feat. Billy Ray Cyrus",
+    "dateAsWritten": "2019",
+    "significance": "Country-trap crossover hit engineered through viral TikTok memes, challenging traditional genre definitions and chart classifications.",
+    "artist": "Lil Nas X feat. Billy Ray Cyrus",
+    "playlistLine": "Old Town Road - Lil Nas X feat. Billy Ray Cyrus",
+    "narration": "Over a YoungKio beat that combined a Nine Inch Nails sample with trap drums, Lil Nas X created a viral TikTok sensation in 2019. Billboard removed it from the country chart, saying it did not embrace enough elements of today's country music, a decision that raised the question of who gets to be country. Billy Ray Cyrus, whom we met with Achy Breaky Heart, joined a remix, and the song spent nineteen weeks at number one, a record at the time. During that run, Lil Nas X came out as gay. It demonstrated how short-form video platforms could subvert traditional genre boundaries."
+   },
+   {
+    "id": "bad-guy",
+    "title": "bad guy",
+    "artistAsWritten": "Billie Eilish",
+    "dateAsWritten": "2019",
+    "significance": "Minimalist bedroom-pop recording featuring bass-heavy sound design that subverted traditional vocal pop production.",
+    "artist": "Billie Eilish",
+    "playlistLine": "bad guy - Billie Eilish",
+    "narration": "Recorded in a home bedroom studio with her brother Finneas, seventeen-year-old Billie Eilish delivered a minimalist pop hit in 2019. Featuring quiet, whispered vocals over a heavy bassline, the track rejected traditional loud pop production. It swept top categories at the Grammy Awards, inspiring a new wave of bedroom pop creators."
+   },
+   {
+    "id": "blinding-lights",
+    "title": "Blinding Lights",
+    "artistAsWritten": "The Weeknd",
+    "dateAsWritten": "2019/2020",
+    "significance": "1980s synth-wave revival single that became one of the biggest Billboard hits in history during the COVID-19 pandemic.",
+    "artist": "The Weeknd",
+    "playlistLine": "Blinding Lights - The Weeknd",
+    "narration": "In late 2019, Canadian artist The Weeknd released a track inspired by 1980s synth-pop, produced with Max Martin. Featuring fast electronic drum beats and emotional vocal melodies, the single spent ninety weeks on the Billboard Hot 100, a record at the time, its run spanning the COVID-19 pandemic. It stands as one of the most successful chart singles in popular music history."
+   },
+   {
+    "id": "calm-down",
+    "title": "Calm Down",
+    "artistAsWritten": "Rema & Selena Gomez",
+    "dateAsWritten": "2022",
+    "significance": "Afrobeats crossover hit whose remix led Billboard's U.S. Afrobeats chart for a record 58 weeks.",
+    "artist": "Rema & Selena Gomez",
+    "playlistLine": "Calm Down - Rema & Selena Gomez",
+    "narration": "Nigerian singer Rema released this Afrobeats love song in early 2022, and a remix with Selena Gomez followed that August. The remix reached number three on the Hot 100 and led Billboard's U.S. Afrobeats chart for a record fifty-eight weeks. Its success showed how far a West African pop sound could travel on American radio and streaming playlists."
+   },
+   {
+    "id": "espresso",
+    "title": "Espresso",
+    "artistAsWritten": "Sabrina Carpenter",
+    "dateAsWritten": "2024",
+    "significance": "Bouncy, disco-inflected pop single demonstrating modern internet pop culture meme humor and high-velocity playlisting success.",
+    "artist": "Sabrina Carpenter",
+    "playlistLine": "Espresso - Sabrina Carpenter",
+    "narration": "In 2024, singer Sabrina Carpenter delivered a bouncy, disco-infused pop single that became a global summer hit. Featuring playful lyrics, guitar grooves, and memorable vocal phrasing, the track spread rapidly across social video feeds and streaming playlists. It showcases the upbeat energy of contemporary pop music culture."
+   },
+   {
+    "id": "a-bar-song-tipsy",
+    "title": "A Bar Song (Tipsy)",
+    "artistAsWritten": "Shaboozey",
+    "dateAsWritten": "2024",
+    "significance": "Fused hip-hop interpolations with modern country instrumentation, topping multi-genre charts and highlighting Black artists reshaping country music.",
+    "artist": "Shaboozey",
+    "playlistLine": "A Bar Song (Tipsy) - Shaboozey",
+    "narration": "Shaboozey's 2024 hit interpolates J-Kwon's 2004 hip-hop track into a modern country-acoustic singalong. It spent nineteen weeks at number one on the Hot 100, tying the record Old Town Road then held. The song illustrates how contemporary artists draw from diverse traditions, bringing hip-hop and country to the same barroom chorus."
+   },
+   {
+    "id": "not-like-us",
+    "title": "Not Like Us",
+    "artistAsWritten": "Kendrick Lamar",
+    "dateAsWritten": "2024",
+    "significance": "Chart-topping diss track that won five Grammy Awards, confirming hip-hop's place at the center of American entertainment.",
+    "artist": "Kendrick Lamar",
+    "playlistLine": "Not Like Us - Kendrick Lamar",
+    "narration": "Kendrick Lamar released this West Coast rap single in May 2024, at the height of a public feud with Drake. Produced mainly by Mustard, the diss track debuted at number one and went on to win all five of its Grammy nominations, including Record of the Year and Song of the Year. Lamar then performed it at the Super Bowl halftime show in February 2025, showing how completely hip-hop had become the mainstream of American entertainment."
+   },
+   {
+    "id": "golden",
+    "title": "Golden",
+    "artistAsWritten": "HUNTR/X",
+    "dateAsWritten": "2025",
+    "significance": "Soundtrack hit by a fictional group; the first K-pop song to win a Grammy Award and an Academy Award.",
+    "artist": "HUNTR/X",
+    "playlistLine": "Golden - HUNTR/X",
+    "narration": "Released in 2025 for the animated Netflix film KPop Demon Hunters, this soaring single is credited to the fictional girl group HUNTR/X and sung by Ejae, Audrey Nuna, and Rei Ami. It became the longest-running number one on the Hot 100 by an animated act. It was also the first K-pop song to win a Grammy Award and the first to win an Academy Award."
+   },
+   {
+    "id": "dust-on-the-wind",
+    "title": "Dust on the Wind",
+    "artistAsWritten": "The Velvet Sundown",
+    "dateAsWritten": "2025",
+    "significance": "One of the first viral AI-made bands, marking the arrival of generative music on mainstream streaming.",
+    "artist": "The Velvet Sundown",
+    "playlistLine": "Dust on the Wind - The Velvet Sundown",
+    "narration": "We conclude our journey through more than 130 years of music with a band that has no known members. The Velvet Sundown appeared on Spotify in June 2025, and within weeks its 1970s-style rock had drawn a reported one million monthly listeners. In July, the project acknowledged that its music was made with the help of artificial intelligence. A story that began with voices cut into wax cylinders ends, for now, with a voice that belongs to no one, and an open question: who, or what, will make the songs that come next?"
+   }
+  ],
+  "playlistTitle": "Pop History 12 (2017–Present): Polarization & Global Feeds",
+  "intro": [
+   "Our final era brings us to the present day, a period defined by intense political polarization, economic inflation, and historic global events. The COVID-19 pandemic altered global life, forcing months of lockdown isolation and accelerating remote digital communication. At the same time, rapid advancements in artificial intelligence have begun reshaping industry, creative culture, and human interaction across the globe.",
+   "Today's music landscape is shaped by algorithmic feeds and short-form video platforms like TikTok, which serve as primary hitmakers. Traditional genre boundaries have largely dissolved, allowing Latin, Afrobeats, country, and bedroom pop artists to achieve global chart success simultaneously. These eleven tracks capture the diverse, globalized, and fast-paced sound of contemporary popular music."
+  ]
+ }
+]
