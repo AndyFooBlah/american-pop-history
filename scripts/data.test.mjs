@@ -42,3 +42,8 @@ test('each era has 20 events in order, inside its years; each linked phrase is i
   const text = Object.fromEntries([...pieces(eras).map((p) => [p.id, p.text]), ...eras.map((e) => [`b-${e.n}`, e.boundaries])]);
   for (const [id, l] of Object.entries(wl)) for (const [p] of l) assert.ok((id.startsWith('b-') ? [text[id]] : sentences(text[id])).some((s) => s.includes(p)), `${id}: ${p}`);
 });
+
+test('every video belongs to a song and has a YouTube id, a description and a channel', () => {
+  const ids = new Set(songs.map((s) => s.id));
+  for (const [id, v] of Object.entries(j('videos.json'))) { assert.ok(ids.has(id), id); assert.match(v.yt, /^[\w-]{11}$/, id); assert.ok(v.what && v.channel, id); }
+});

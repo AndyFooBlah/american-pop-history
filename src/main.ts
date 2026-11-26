@@ -4,7 +4,7 @@ import '@fontsource/righteous/latin-400.css'; import '@fontsource/audiowide/lati
 import '@fontsource/syncopate/latin-700.css'; import '@fontsource/poppins/latin-800.css'; import '@fontsource/unbounded/latin-700.css';
 import '@fontsource-variable/newsreader'; import '@fontsource-variable/archivo';
 import './style.css';
-import { eras, tracks, pd, playlists, links, events, wiki, about, explicit, wikiUrl, setContent, songCount, span, year, FIRST, LAST, type Era, type Song } from './data';
+import { eras, tracks, pd, playlists, links, videos, events, wiki, about, explicit, wikiUrl, setContent, songCount, span, year, FIRST, LAST, type Era, type Song } from './data';
 import * as voice from './voice';
 import { sentences } from './sentences';
 import * as player from './player';
@@ -69,13 +69,20 @@ function elsewhere(s: Song) {
   return `<a class="find" data-away href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.label)}</a>`;
 }
 
+const watchUrl = (id: string) => `https://www.youtube.com/watch?v=${videos[id].yt}`;
+/** The song's video on YouTube, if we have one: an official music video, or a period performance for older songs. */
+function watch(s: Song) {
+  const v = videos[s.id]; if (!v) return '';
+  return `<a class="find watch" data-away href="${esc(watchUrl(s.id))}" target="_blank" rel="noopener" title="${esc(v.what)}, on YouTube (${esc(v.channel)})">Watch: ${esc(v.what)}</a>`;
+}
+
 function songRow(s: Song) {
   const playable = !!tracks[s.id] || !!pd[s.id];
   return `<li class="song" id="${s.id}"><div class="meta"><span class="when">${esc(s.dateAsWritten)}</span></div>
     <div class="body"><h3>${esc(s.title)}${explicit.has(s.id) ? ' <span class="exp">Strong language</span>' : ''}</h3><p class="artist">${esc(s.artist)}</p>
     <p class="story">${marked(s.id, s.narration)}</p>
     <p class="why">${esc(s.significance)}</p>
-    <div class="acts">${readBtn(s.id, 'Read to me')}${playable ? `<button class="play" data-play="${s.id}">Play song</button>` : elsewhere(s)}</div></div></li>`;
+    <div class="acts">${readBtn(s.id, 'Read to me')}${playable ? `<button class="play" data-play="${s.id}">Play song</button>` : elsewhere(s)}${watch(s)}</div></div></li>`;
 }
 
 function eraView(e: Era) {
@@ -133,7 +140,8 @@ function alts(id: string) {
   const q = encodeURIComponent(`${s.title} ${s.artist}`); const own = links[id];
   const list = services.map(([name, url]) => own && own.url.includes(new URL(url('x')).hostname) ? [name, own.url] : [name, url(q)]);
   if (tracks[id] && pd[id]) list.unshift(['Spotify', `https://open.spotify.com/track/${tracks[id].split(':')[2]}`]);
-  return `<p class="alts">${pd[id] ? `Public domain recording, from <a href="${esc(pd[id].url)}" target="_blank" rel="noopener">${esc(pd[id].source)}</a>. ` : ''}Also on ${list.map(([n, u]) => `<a data-away href="${esc(u)}" target="_blank" rel="noopener">${n}</a>`).join(' · ')}</p>`;
+  const v = videos[id] ? `Watch on YouTube: <a data-away href="${esc(watchUrl(id))}" target="_blank" rel="noopener">${esc(videos[id].what)}</a>. ` : '';
+  return `<p class="alts">${v}${pd[id] ? `Public domain recording, from <a href="${esc(pd[id].url)}" target="_blank" rel="noopener">${esc(pd[id].source)}</a>. ` : ''}Also on ${list.map(([n, u]) => `<a data-away href="${esc(u)}" target="_blank" rel="noopener">${n}</a>`).join(' · ')}</p>`;
 }
 
 /** Draws the player bar for the current step: what is on, the Next button, and links to other services. */

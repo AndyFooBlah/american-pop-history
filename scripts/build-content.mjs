@@ -13,7 +13,7 @@ export function content() {
   const pd = {};
   for (const [id, r] of Object.entries(j('pd.json'))) { const f = `${ROOT}audio/pd/${id}.mp3`;
     if (fs.existsSync(f)) pd[id] = { clip: `${id}.${crypto.createHash('sha256').update(fs.readFileSync(f)).digest('hex').slice(0, 10)}.mp3`, source: r.source, url: r.url }; }
-  return { eras, tracks, pd, playlists: j('playlists.json'), timings, clips, links: j('links.json'), events: j('events.json'), wiki: j('wikilinks.json'), about: j('about.json'), explicit: j('explicit.json') };
+  return { eras, tracks, pd, playlists: j('playlists.json'), timings, clips, links: j('links.json'), videos: j('videos.json'), events: j('events.json'), wiki: j('wikilinks.json'), about: j('about.json'), explicit: j('explicit.json') };
 }
 if (import.meta.url === `file://${process.argv[1]}`) {
   const c = content(); fs.rmSync(ROOT + 'public', { recursive: true, force: true }); fs.mkdirSync(ROOT + 'public/narration', { recursive: true });
