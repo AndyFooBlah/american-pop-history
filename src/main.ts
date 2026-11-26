@@ -58,7 +58,7 @@ function home() {
   document.body.dataset.era = '0'; document.title = 'Introduction to American Pop Music'; tune(null, null);
   $('#main').innerHTML = `<section class="home"><h1>Turn the dial.</h1>
     <p class="lede">${eras.length} eras and ${songCount()} recordings, from parlor songs on wax cylinders to songs made for a feed. Read each story or have it read to you, then play the record. Sign in to Spotify in this browser to hear whole songs rather than previews.</p>
-    ${about ? `<div class="about">${markedParas('home', about.intro)}<div class="acts">${readBtn('home', 'Read the introduction')}</div>${about.note.map((p) => `<p class="note">${esc(p)} <b>${esc(about!.signed)}</b></p>`).join('')}</div>` : ''}
+    ${about ? `<div class="about"><div class="acts top">${readBtn('home', 'Read the introduction')}</div>${markedParas('home', about.intro)}${about.note.map((p) => `<p class="note">${esc(p)} <b>${esc(about!.signed)}</b></p>`).join('')}</div>` : ''}
     <h2>The eras</h2>
     <ol class="eras">${eras.map((e) => `<li data-era="${e.n}"><a href="#/era/${e.n}"><span class="when">${span(e)}</span><span class="disp">${esc(e.title)}</span><span class="count">${e.songs.length} songs</span></a></li>`).join('')}</ol>
     ${about ? `<details class="context made"><summary>How this was made</summary>${about.made.map((p) => `<p>${esc(p)}</p>`).join('')}<dl class="stats">${about.stats.map(([k, v]) => `<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>`).join('')}</dl><p class="by">Written by Claude</p></details>` : ''}</section>`;
@@ -84,7 +84,7 @@ function eraView(e: Era) {
   const prev = eras[e.n - 2], next = eras[e.n];
   const id = `era-${e.n}`;
   $('#main').innerHTML = `<article class="era"><header><p class="when">Era ${e.n} of ${eras.length} · ${span(e)}</p><h1 class="disp">${esc(e.title)}</h1></header>
-    <div class="intro">${marked(id, e.intro.join(' '))}</div><div class="acts">${eraBtn(e.n)}${readBtn(id, 'Read the introduction')}${playlists[e.n] ? `<a class="find" href="https://open.spotify.com/playlist/${playlists[e.n]}" target="_blank" rel="noopener">Open the playlist on Spotify</a>` : ''}</div>
+    <div class="acts top">${eraBtn(e.n)}${readBtn(id, 'Read the introduction')}${playlists[e.n] ? `<a class="find" href="https://open.spotify.com/playlist/${playlists[e.n]}" target="_blank" rel="noopener">Open the playlist on Spotify</a>` : ''}</div><div class="intro">${marked(id, e.intro.join(' '))}</div>
     <details class="context"><summary>What was going on</summary><dl><dt>History</dt><dd>${linked(e.boundaries, [...(wiki[`b-${e.n}`] ?? [])])}</dd><dt>Music</dt><dd>${esc(e.trends)}</dd><dt>Technology and business</dt><dd>${esc(e.tech)}</dd></dl>${timeline(e.n)}</details>
     <h2>The records</h2><ol class="songs">${e.songs.map(songRow).join('')}</ol>
     <nav class="turn" aria-label="Neighboring eras">${prev ? `<a href="#/era/${prev.n}">← ${span(prev)}</a>` : '<span></span>'}${next ? `<a href="#/era/${next.n}">${span(next)} →</a>` : '<span></span>'}</nav></article>`;
