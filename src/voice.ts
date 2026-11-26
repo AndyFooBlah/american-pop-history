@@ -8,6 +8,10 @@ const listeners = new Set<Listener>();
 const audio = new Audio(); audio.preload = 'auto';
 let current: string | null = null;
 let run = 0;
+/** Settles the promise narrate() returned: true when the piece played to the end (or failed on its own), false when stopped. */
+let done: ((finished: boolean) => void) | null = null;
+const settle = (finished: boolean) => { const d = done; done = null; d?.(finished); };
+const end = () => { const d = done; done = null; stop(); d?.(true); };
 
 const emit = (sentence: number) => listeners.forEach((l) => l({ id: current, sentence }));
 export const onVoice = (l: Listener) => { listeners.add(l); };
@@ -15,7 +19,7 @@ export const speaking = () => current;
 export const supported = () => 'speechSynthesis' in window || Object.keys(timings).length > 0;
 
 export function stop() {
-  run++; current = null; audio.pause(); audio.ontimeupdate = audio.onended = audio.onerror = null;
+  settle(false); run++; current = null; audio.pause(); audio.ontimeupdate = audio.onended = audio.onerror = null;
   if ('speechSynthesis' in window) speechSynthesis.cancel();
   emit(-1);
 }
@@ -25,31 +29,33 @@ function pickVoice() {
   return en.find((v) => /premium|enhanced|natural/i.test(v.name)) ?? en.find((v) => /Samantha|Google US English/.test(v.name)) ?? en.find((v) => v.lang === 'en-US') ?? null;
 }
 
-export function narrate(id: string, text: string) {
+/** Reads a piece aloud. Resolves true when it reaches the end, false when something stops it first. */
+export function narrate(id: string, text: string): Promise<boolean> {
   stop();
   const mine = ++run; current = id;
-  if (timings[id] && clips[id]) { void recorded(id, text, mine); return; }
-  spoken(text, mine);
+  const finished = new Promise<boolean>((ok) => { done = ok; });
+  if (timings[id] && clips[id]) void recorded(id, text, mine); else spoken(text, mine);
+  return finished;
 }
 
 async function recorded(id: string, text: string, mine: number) {
   const at = timings[id]; emit(-1);
   audio.src = `/narration/${clips[id]}`; let last = -1;
   audio.ontimeupdate = () => { if (mine !== run) return; let i = 0; while (i + 1 < at.length && at[i + 1] <= audio.currentTime + 0.1) i++; if (i !== last) emit(last = i); };
-  audio.onended = () => { if (mine === run) stop(); };
-  audio.onerror = () => { if (mine === run && last < 1) spoken(text, mine); else if (mine === run) stop(); };
-  try { await audio.play(); } catch { if (mine === run && !audio.error) stop(); }
+  audio.onended = () => { if (mine === run) end(); };
+  audio.onerror = () => { if (mine === run && last < 1) spoken(text, mine); else if (mine === run) end(); };
+  try { await audio.play(); } catch { if (mine === run && !audio.error) stop(); } // blocked: the browser wants a click first
 }
 
 function spoken(text: string, mine: number) {
-  if (!('speechSynthesis' in window)) return stop();
+  if (!('speechSynthesis' in window)) return end();
   const parts = sentences(text);
   const say = (i: number) => {
     if (mine !== run) return;
-    if (i >= parts.length) return stop();
+    if (i >= parts.length) return end();
     const u = new SpeechSynthesisUtterance(parts[i]);
     const v = pickVoice(); if (v) u.voice = v;
-    u.rate = 0.97; u.onend = () => say(i + 1); u.onerror = () => mine === run && stop();
+    u.rate = 0.97; u.onend = () => say(i + 1); u.onerror = () => mine === run && end();
     emit(i); speechSynthesis.speak(u);
   };
   say(0);

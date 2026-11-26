@@ -1235,14 +1235,14 @@
   "tech": "TikTok as the premier global hitmaker and A&R engine; algorithmic feed curation driving micro-genres; spatial audio; emerging generative AI music software tools.",
   "songs": [
    {
-    "id": "despacito-remix",
-    "title": "Despacito (Remix)",
-    "artistAsWritten": "Luis Fonsi & Daddy Yankee feat. Justin Bieber",
+    "id": "despacito",
+    "title": "Despacito",
+    "artistAsWritten": "Luis Fonsi feat. Daddy Yankee",
     "dateAsWritten": "2017",
     "significance": "Massive streaming hit that ignited a global Latin pop explosion on English-language radio and charts.",
-    "artist": "Luis Fonsi & Daddy Yankee feat. Justin Bieber",
-    "playlistLine": "Despacito (Remix) - Luis Fonsi & Daddy Yankee feat. Justin Bieber",
-    "narration": "Released in 2017, this reggaeton-pop single brought Latin music to unprecedented levels of global radio and streaming dominance. Blending the Puerto Rican cuatro and reggaeton beats with bilingual vocals, including a guest verse from Justin Bieber, the track spent sixteen weeks at number one in the United States, initiating a historic global explosion for Spanish-language pop."
+    "artist": "Luis Fonsi feat. Daddy Yankee",
+    "playlistLine": "Despacito - Luis Fonsi feat. Daddy Yankee",
+    "narration": "Luis Fonsi released this single with Daddy Yankee in January 2017. It pairs the Puerto Rican cuatro with a reggaeton beat, and its video became the most watched on YouTube. A remix that April added a verse from Justin Bieber and carried the song to sixteen weeks at number one in the United States, tying the record and making it the first mostly Spanish-language number one since Macarena. Its success opened American radio and streaming to a wave of Latin pop."
    },
    {
     "id": "this-is-america",

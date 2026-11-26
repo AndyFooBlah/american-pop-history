@@ -1,7 +1,7 @@
 // Shown once, before the first song. Nothing is fetched from Spotify until the visitor continues; the answer stays in this browser.
 const KEY = 'pop-history.notice';
 let agreed = false;
-const seen = () => { try { return agreed || localStorage.getItem(KEY) === '1'; } catch { return agreed; } };
+export const seen = () => { try { return agreed || localStorage.getItem(KEY) === '1'; } catch { return agreed; } };
 export function ask(): Promise<boolean> {
   if (seen()) return Promise.resolve(true);
   const d = document.createElement('dialog'); d.className = 'notice'; d.setAttribute('aria-labelledby', 'notice-h');

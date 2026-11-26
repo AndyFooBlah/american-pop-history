@@ -84,7 +84,7 @@ function eraView(e: Era) {
   const prev = eras[e.n - 2], next = eras[e.n];
   const id = `era-${e.n}`;
   $('#main').innerHTML = `<article class="era"><header><p class="when">Era ${e.n} of ${eras.length} · ${span(e)}</p><h1 class="disp">${esc(e.title)}</h1></header>
-    <div class="intro">${marked(id, e.intro.join(' '))}</div><div class="acts">${readBtn(id, 'Read the introduction')}${playlists[e.n] ? `<a class="find" href="https://open.spotify.com/playlist/${playlists[e.n]}" target="_blank" rel="noopener">Open the playlist on Spotify</a>` : ''}</div>
+    <div class="intro">${marked(id, e.intro.join(' '))}</div><div class="acts">${eraBtn(e.n)}${readBtn(id, 'Read the introduction')}${playlists[e.n] ? `<a class="find" href="https://open.spotify.com/playlist/${playlists[e.n]}" target="_blank" rel="noopener">Open the playlist on Spotify</a>` : ''}</div>
     <details class="context"><summary>What was going on</summary><dl><dt>History</dt><dd>${linked(e.boundaries, [...(wiki[`b-${e.n}`] ?? [])])}</dd><dt>Music</dt><dd>${esc(e.trends)}</dd><dt>Technology and business</dt><dd>${esc(e.tech)}</dd></dl>${timeline(e.n)}</details>
     <h2>The records</h2><ol class="songs">${e.songs.map(songRow).join('')}</ol>
     <nav class="turn" aria-label="Neighboring eras">${prev ? `<a href="#/era/${prev.n}">← ${span(prev)}</a>` : '<span></span>'}${next ? `<a href="#/era/${next.n}">${span(next)} →</a>` : '<span></span>'}</nav></article>`;
@@ -92,7 +92,7 @@ function eraView(e: Era) {
 
 let playing: string | null = null;
 function route() {
-  voice.stop();
+  eraStop(); voice.stop();
   const m = location.hash.match(/^#\/era\/(\d+)(?:\/([\w-]+))?/);
   const e = m ? eras[Number(m[1]) - 1] : undefined;
   if (e) eraView(e); else if (location.hash === '#/about') { document.body.dataset.era = '0'; document.title = 'Terms, privacy, and credits'; tune(null, null); $('#main').innerHTML = aboutPage(); } else home();
@@ -105,8 +105,11 @@ const songs = new Map<string, { s: Song; e: Era }>();
 const textFor = (id: string) => id === 'home' ? about!.intro.join(' ') : id.startsWith('era-') && eras[Number(id.slice(4)) - 1] ? eras[Number(id.slice(4)) - 1].intro.join(' ') : songs.get(id)!.s.narration;
 
 document.addEventListener('click', async (ev) => {
-  if ((ev.target as HTMLElement).closest('[data-away]')) { voice.stop(); player.pause(); return; }
+  if ((ev.target as HTMLElement).closest('[data-away]')) { eraStop(); voice.stop(); player.pause(); return; }
   const b = (ev.target as HTMLElement).closest<HTMLButtonElement>('button'); if (!b) return;
+  if (b.dataset.era) { const n = Number(b.dataset.era); if (chain?.n === n) { eraStop(); voice.stop(); player.pause(); } else void playEra(n); return; }
+  if (b.dataset.skip && chain) { chain.skipTo = Number(b.dataset.skip); voice.stop(); player.cancel(); player.pause(); return; }
+  if (b.dataset.read || b.dataset.play || b.dataset.go) eraStop();
   if (b.dataset.read) { if (voice.speaking() === b.dataset.read) voice.stop(); else { player.pause(); voice.narrate(b.dataset.read, textFor(b.dataset.read)); } }
   if (b.dataset.play) await start(b.dataset.play);
   if (b.dataset.go) { const id = b.dataset.go; show(id); await start(id, true); }
@@ -123,12 +126,59 @@ async function start(id: string, fromDeck = false) {
   const { s, e } = songs.get(id)!; const uri = tracks[id];
   const deck = $('#deck'); deck.classList.add('open'); document.body.classList.add('playing');
   if (!deck.querySelector('#embed')) deck.innerHTML = '<div class="now"></div><div id="embed"></div>';
-  const i = e.songs.indexOf(s); const nx = e.songs.slice(i + 1).find((x) => tracks[x.id]);
-  deck.querySelector('.now')!.innerHTML = `<p><b>${esc(s.title)}</b> ${esc(s.artist)}</p>${nx ? `<button data-go="${nx.id}">Next: ${esc(nx.title)}</button>` : ''}`;
+  const i = e.songs.indexOf(s);
+  if (chain) {
+    const nx = e.songs[i + 1];
+    deck.querySelector('.now')!.innerHTML = `<p><b>${esc(s.title)}</b> ${esc(s.artist)}<span class="hint" hidden> · Press play in the Spotify player to keep going.</span></p><span class="btns">${nx ? `<button data-skip="${i + 1}" aria-label="Next: ${esc(nx.title)}">Next<span class="nx">: ${esc(nx.title)}</span></button>` : ''}<button data-era="${e.n}" aria-label="Stop the era">Stop</button></span>`;
+  } else {
+    const nx = e.songs.slice(i + 1).find((x) => tracks[x.id]);
+    deck.querySelector('.now')!.innerHTML = `<p><b>${esc(s.title)}</b> ${esc(s.artist)}</p>${nx ? `<button data-go="${nx.id}">Next: ${esc(nx.title)}</button>` : ''}`;
+  }
   if (fromDeck) deck.querySelector<HTMLButtonElement>('[data-go]')?.focus();
   mark();
   try { await player.play($('#embed'), uri); }
   catch { $('#embed').innerHTML = `<p class="none">The Spotify player didn’t load. <a href="https://open.spotify.com/track/${uri.split(':')[2]}" target="_blank" rel="noopener">Open the song on Spotify</a>.</p>`; }
+}
+/** "Play the whole era": the introduction, then each story followed by its song, with no further clicks. */
+let chain: { n: number; run: number; skipTo: number | null } | null = null;
+let chainRun = 0;
+const eraBtn = (n: number) => `<button class="play" data-era="${n}" aria-pressed="${chain?.n === n}">${chain?.n === n ? 'Stop the era' : 'Play the whole era'}</button>`;
+function eraButtons() {
+  document.querySelectorAll<HTMLButtonElement>('button[data-era]').forEach((b) => {
+    const on = chain?.n === Number(b.dataset.era);
+    if (b.closest('#deck')) { if (!on) b.remove(); } else { b.textContent = on ? 'Stop the era' : 'Play the whole era'; b.setAttribute('aria-pressed', String(on)); }
+  });
+  if (!chain) document.querySelectorAll('#deck [data-skip]').forEach((b) => b.remove());
+}
+function eraStop() { if (!chain) return; chain = null; chainRun++; player.cancel(); eraButtons(); }
+/** Brings a song into view during era play without changing the address, which would redraw the page. */
+function showSong(id: string) {
+  playing = id; mark();
+  document.getElementById(id)?.scrollIntoView({ block: 'start', behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
+}
+async function playEra(n: number) {
+  const e = eras[n - 1]; eraStop(); player.pause();
+  const run = ++chainRun; const me = { n, run, skipTo: null as number | null }; chain = me; eraButtons();
+  const live = () => chain === me && run === chainRun;
+  // The first piece must start inside the click, or Safari keeps it silent; the notice, if shown, supplies its own click.
+  const songsOk = notice.seen() || (await notice.ask());
+  console.info('[era] start', n, songsOk ? 'with songs' : 'stories only');
+  for (let i = -1; i < e.songs.length; i++) {
+    if (!live()) return;
+    const jump = () => { if (me.skipTo === null) return false; i = me.skipTo - 1; me.skipTo = null; return true; };
+    if (i < 0) { await voice.narrate(`era-${n}`, e.intro.join(' ')); jump(); continue; }
+    const s = e.songs[i]; showSong(s.id);
+    await voice.narrate(s.id, s.narration);
+    if (!live()) return; if (jump()) continue;
+    if (!songsOk || !tracks[s.id]) continue;
+    await start(s.id);
+    if (!live()) return; if (jump()) continue;
+    const hint = setTimeout(() => { if (live() && !player.playing()) $('#deck .hint')?.removeAttribute('hidden'); }, 5000);
+    const ended = await player.ended(); clearTimeout(hint);
+    console.info('[era] song', s.id, ended ? 'ended' : 'skipped');
+    if (!live()) return; jump();
+  }
+  if (live()) { console.info('[era] done', n); eraStop(); }
 }
 /** Marks the playing song on the page and the dial, if its era is showing. */
 function mark() {
