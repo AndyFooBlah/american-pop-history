@@ -1,0 +1,28 @@
+{
+  "crank-that-soulja-boy": {
+    "what": "Soulja Boy’s dance lesson on YouTube spread the song",
+    "article": { "url": "https://www.inquirer.com/philly/entertainment/20071223_YouTube_clip_ignites_dance_craze.html", "source": "The Philadelphia Inquirer, December 2007" },
+    "note": "The original lesson video was taken down."
+  },
+  "old-town-road": {
+    "what": "The “Yee Yee Juice” trend on TikTok took it to the charts",
+    "article": { "url": "https://www.dailydot.com/unclick/tiktok-yeeyee-challenge-meme/", "source": "Daily Dot, March 2019" },
+    "video": { "url": "https://www.tiktok.com/@nicemichael/video/6658388605418867974", "label": "An early video, by @nicemichael (February 2019)" }
+  },
+  "blinding-lights": {
+    "what": "The “Blinding Lights” dance challenge on TikTok",
+    "article": { "url": "https://knowyourmeme.com/memes/blinding-lights-challenge", "source": "Know Your Meme, March 2020" },
+    "video": { "url": "https://www.tiktok.com/@gregdahll/video/6800110001219276038", "label": "The earliest version Know Your Meme found, by @gregdahll (March 2020)" },
+    "note": "TikTok itself credited another account, since deleted."
+  },
+  "calm-down": {
+    "what": "Loïc Reyel’s dance challenge on TikTok carried it around the world",
+    "article": { "url": "https://theconversation.com/calm-down-how-a-nigerian-singer-and-a-cameroonian-dancer-conquered-the-globe-202048", "source": "The Conversation, March 2023" },
+    "video": { "url": "https://www.tiktok.com/@loicreyel/video/7069086365622881541", "label": "Loïc Reyel’s dance (February 2022)" }
+  },
+  "not-like-us": {
+    "what": "Dance videos on TikTok within days of its release",
+    "article": { "url": "https://knowyourmeme.com/memes/not-like-us", "source": "Know Your Meme, May 2024" },
+    "video": { "url": "https://www.tiktok.com/@thebeaulexx/video/7366315559828458795", "label": "@thebeaulexx’s dance (May 2024)" }
+  }
+}

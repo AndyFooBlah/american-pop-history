@@ -36,3 +36,4 @@ footer{max-width:60rem;margin:0 auto;padding:0 1.25rem 3rem;display:flex;flex-wr
 .exp{font:500 .75rem 'Archivo Variable',sans-serif;color:var(--mute);border:1px solid var(--mute);border-radius:.2rem;padding:.1rem .4rem;vertical-align:middle;white-space:nowrap}
 .legal h1{font-family:'Newsreader Variable',serif;font-weight:500;letter-spacing:-.02em} .legal p,.legal ul{max-width:42em} .legal li{margin:0 0 .6em} .legal h2{margin-top:2.2rem}
 .notice{max-width:30rem;width:calc(100% - 2rem);border:0;border-radius:.4rem;padding:1.6rem;background:var(--paper);color:var(--ink);font:400 1.05rem/1.5 'Newsreader Variable',Georgia,serif} .notice h2{margin:0 0 .6rem} .notice p{margin:0 0 .8rem} .notice::backdrop{background:rgb(0 0 0/.55)}
+.viral{font:400 .9rem 'Archivo Variable',sans-serif;color:var(--mute);margin:.4rem 0 0} .viral a{color:var(--a)} .viral b{font-weight:600;color:var(--ink)}

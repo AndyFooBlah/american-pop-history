@@ -43,7 +43,8 @@ test('each era has 20 events in order, inside its years; each linked phrase is i
   for (const [id, l] of Object.entries(wl)) for (const [p] of l) assert.ok((id.startsWith('b-') ? [text[id]] : sentences(text[id])).some((s) => s.includes(p)), `${id}: ${p}`);
 });
 
-test('every video belongs to a song and has a YouTube id, a description and a channel', () => {
+test('every video and short video belongs to a song and has well-formed links', () => {
   const ids = new Set(songs.map((s) => s.id));
   for (const [id, v] of Object.entries(j('videos.json'))) { assert.ok(ids.has(id), id); assert.match(v.yt, /^[\w-]{11}$/, id); assert.ok(v.what && v.channel, id); }
+  for (const [id, v] of Object.entries(j('shorts.json'))) { assert.ok(ids.has(id), id); assert.ok(v.what && /^https:\/\//.test(v.article.url) && v.article.source, id); if (v.video) assert.match(v.video.url, /^https:\/\/www\.tiktok\.com\/@[\w.]+\/video\/\d+$/, id); }
 });

@@ -7,7 +7,7 @@ const rules = { 'a Google key': /AIza[\w-]{35}/, 'a Firebase reference': /fireba
 for (const f of files.filter((x) => /\.(js|css|html|json|txt)$/.test(x))) { const t = fs.readFileSync(path.join('dist', f), 'utf8'); for (const [what, re] of Object.entries(rules)) if (re.test(t)) bad.push(`${what} in ${f}`); }
 const app = fs.existsSync('.env') && fs.readFileSync('.env', 'utf8').match(/^SPOTIFY_CLIENT_ID=(\w+)/m)?.[1];
 if (app && files.some((f) => /\.(js|html|json)$/.test(f) && fs.readFileSync(path.join('dist', f), 'utf8').includes(app))) bad.push('the Spotify app id');
-const c = JSON.parse(fs.readFileSync('dist/content.json')); const want = 'about,clips,eras,events,explicit,links,pd,playlists,timings,tracks,videos,wiki';
+const c = JSON.parse(fs.readFileSync('dist/content.json')); const want = 'about,clips,eras,events,explicit,links,pd,playlists,shorts,timings,tracks,videos,wiki';
 if (Object.keys(c).sort().join() !== want) bad.push('content.json has other fields: ' + Object.keys(c).sort());
 if (Object.values(c.tracks).some((t) => !/^spotify:track:\w{22}$/.test(t))) bad.push('track data beyond ids');
 if (bad.length) { console.error('NOT FIT TO PUBLISH:', bad.slice(0, 8).join('; ')); process.exit(1); }
